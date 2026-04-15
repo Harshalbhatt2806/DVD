@@ -1,0 +1,1001 @@
+Ride_ID,Date,City,Pickup_Area,Drop_Area,Customer_Age,Customer_Gender,Vehicle_Type,Ride_Distance_KM,Ride_Duration_Min,Fare_Amount,Surge_Multiplier,Payment_Mode,Driver_Rating,Ride_Status,Time_Of_Day
+RID00001,2024-01-17 00:05,Ahmedabad,Navrangpura,Gota,31,Male,Bike,4.35,16,116.17,2.0,UPI,4.2,Completed,Afternoon
+RID00002,2024-12-23 13:21,Surat,Althan,Piplod,35,Male,Bike,15.14,89,190.05,1.0,Cash,,Cancelled,Afternoon
+RID00003,2024-07-12 02:35,Rajkot,Gondal Road,150 Feet Ring Road,36,Female,Auto,9.62,43,123.55,1.0,Cash,4.1,Completed,Night
+RID00004,2024-06-30 06:42,Ahmedabad,Navrangpura,Maninagar,35,Male,Bike,21.53,131,249.78,1.2,Cash,3.3,Completed,Evening
+RID00005,2024-01-29 07:52,Surat,Athwa,Althan,20,Female,Bike,24.75,134,345.92,1.5,Wallet,4.7,Completed,Night
+RID00006,2024-10-14 17:16,Rajkot,Gondal Road,Raiya Road,55,Female,Bike,16.73,78,359.8,2.0,Wallet,3.3,Completed,Evening
+RID00007,2024-07-16 12:38,Rajkot,Mavdi,150 Feet Ring Road,47,Female,Auto,19.14,116,225.18,1.0,UPI,4.2,Completed,Night
+RID00008,2024-04-01 16:58,Ahmedabad,Thaltej,Maninagar,24,Female,Bike,8.04,31,110.33,1.0,Cash,4.9,Completed,Evening
+RID00009,2024-05-02 01:15,Surat,Katargam,Athwa,54,Male,Bike,8.78,31,116.53,1.0,UPI,,No Show,Morning
+RID00010,2024-10-03 23:44,Vadodara,Fatehgunj,Harni,30,Female,Auto,16.83,106,161.41,1.0,Wallet,4.9,Completed,Afternoon
+RID00011,2024-01-04 02:45,Rajkot,Kothariya,Aji Dam,21,Male,Bike,6.95,25,80.13,1.0,UPI,4.2,Completed,Night
+RID00012,2024-08-30 13:12,Ahmedabad,Gota,Satellite,24,Male,Auto,17.06,70,210.52,1.0,Wallet,3.5,Completed,Afternoon
+RID00013,2024-02-25 07:12,Rajkot,Bhaktinagar,Kothariya,30,Female,Bike,17.16,110,143.52,1.0,Cash,4.6,Completed,Night
+RID00014,2024-05-01 05:26,Vadodara,Manjalpur,Vadsar,49,Female,Bike,21.99,81,283.26,1.5,Cash,4.9,Completed,Night
+RID00015,2024-05-31 06:03,Vadodara,Alkapuri,Gotri,55,Male,Auto,24.65,105,287.27,1.2,Card,3.3,Completed,Night
+RID00016,2024-04-30 12:07,Ahmedabad,Navrangpura,Thaltej,54,Male,Bike,24.06,89,202.37,1.0,UPI,4.4,Completed,Afternoon
+RID00017,2024-06-02 14:20,Ahmedabad,Chandkheda,Naranpura,22,Male,Bike,5.9,33,56.6,1.0,Wallet,4.3,Completed,Evening
+RID00018,2024-05-25 05:28,Ahmedabad,Satellite,Naranpura,52,Female,Bike,7.36,46,97.71,1.0,UPI,,No Show,Afternoon
+RID00019,2024-04-14 21:40,Rajkot,Gondal Road,Mavdi,34,Female,Bike,22.35,128,215.32,1.0,Card,4.4,Completed,Evening
+RID00020,2024-10-09 22:27,Ahmedabad,Satellite,Prahlad Nagar,53,Male,Bike,1.09,6,30.26,2.0,UPI,4.5,Completed,Evening
+RID00021,2024-01-21 11:13,Ahmedabad,Bopal,Naranpura,33,Male,Bike,14.98,59,123.6,1.0,Card,4.8,Completed,Morning
+RID00022,2024-07-29 21:55,Vadodara,Harni,Manjalpur,33,Female,Bike,24.43,144,238.89,1.2,Cash,4.6,Completed,Afternoon
+RID00023,2024-12-03 06:25,Ahmedabad,Chandkheda,Navrangpura,39,Female,Bike,5.79,36,56.92,1.0,UPI,3.4,Completed,Night
+RID00024,2024-01-20 03:38,Rajkot,University Road,Aji Dam,45,Female,Bike,8.95,32,81.19,1.0,Card,,No Show,Night
+RID00025,2024-09-23 17:43,Vadodara,Harni,Waghodia Road,30,Female,Bike,22.59,91,276.79,1.0,Wallet,,Cancelled,Morning
+RID00026,2024-04-08 13:42,Ahmedabad,Gota,Chandkheda,42,Male,Bike,13.17,72,137.16,1.0,Card,4.1,Completed,Morning
+RID00027,2024-12-11 06:32,Vadodara,Waghodia Road,Alkapuri,48,Male,Auto,6.04,35,108.07,1.5,UPI,3.9,Completed,Evening
+RID00028,2024-08-31 19:54,Rajkot,Pedak Road,University Road,22,Female,Bike,17.15,71,152.36,1.0,Wallet,3.5,Completed,Morning
+RID00029,2024-12-22 16:29,Surat,Piplod,Althan,21,Male,Bike,4.54,25,57.52,1.0,UPI,3.4,Completed,Night
+RID00030,2024-03-22 23:55,Vadodara,Manjalpur,Waghodia Road,48,Female,Auto,15.7,88,248.7,1.5,Card,,Cancelled,Evening
+RID00031,2024-10-03 02:08,Surat,Udhna,City Light,27,Male,Bike,7.59,28,71.4,1.0,Wallet,3.6,Completed,Night
+RID00032,2024-07-18 18:44,Surat,Rander,Vesu,19,Female,Auto,8.94,43,82.61,1.0,Wallet,,Cancelled,Night
+RID00033,2024-04-22 08:27,Ahmedabad,Gota,Maninagar,49,Male,Auto,13.92,79,279.52,1.5,Wallet,,Cancelled,Night
+RID00034,2024-08-07 04:55,Rajkot,Bhaktinagar,150 Feet Ring Road,47,Male,Bike,24.54,125,340.16,1.2,UPI,3.2,Completed,Night
+RID00035,2024-05-09 02:30,Rajkot,Bhaktinagar,University Road,19,Male,Auto,8.84,51,102.57,1.2,Card,,Cancelled,Afternoon
+RID00036,2024-10-15 06:29,Surat,Vesu,Adajan,34,Female,Auto,5.78,20,54.51,1.0,Cash,4.3,Completed,Morning
+RID00037,2024-07-22 22:12,Ahmedabad,Bopal,Gota,22,Male,Auto,1.62,7,43.57,2.0,UPI,,No Show,Morning
+RID00038,2024-08-03 15:06,Rajkot,Aji Dam,Gondal Road,45,Female,Bike,13.79,75,152.18,1.0,Wallet,3.0,Completed,Morning
+RID00039,2024-06-14 07:53,Surat,Piplod,Athwa,23,Female,Bike,20.4,104,264.12,1.2,Wallet,,No Show,Evening
+RID00040,2024-11-01 22:56,Surat,Dumas,Piplod,35,Male,Bike,12.86,57,143.1,1.2,Cash,3.7,Completed,Evening
+RID00041,2024-01-09 02:18,Ahmedabad,Vastrapur,Prahlad Nagar,32,Female,Auto,19.2,106,471.21,2.0,Cash,,No Show,Night
+RID00042,2024-12-25 14:17,Rajkot,Aji Dam,University Road,37,Female,Bike,13.74,65,310.59,2.0,Cash,,No Show,Night
+RID00043,2024-05-21 23:37,Ahmedabad,Vastrapur,Chandkheda,51,Female,Auto,23.82,132,221.49,1.0,UPI,,No Show,Morning
+RID00044,2024-12-23 04:40,Surat,Udhna,Rander,49,Male,Bike,8.25,46,79.58,1.0,UPI,4.1,Completed,Evening
+RID00045,2024-02-07 18:40,Rajkot,Kothariya,Pedak Road,21,Male,Bike,5.42,19,56.48,1.2,Cash,3.8,Completed,Night
+RID00046,2024-08-18 14:19,Rajkot,Gondal Road,Raiya Road,55,Female,Auto,19.35,102,271.5,1.5,Card,,No Show,Morning
+RID00047,2024-07-28 14:44,Ahmedabad,Naranpura,Satellite,48,Female,Bike,7.35,27,66.47,1.0,UPI,3.3,Completed,Afternoon
+RID00048,2024-10-05 07:41,Surat,Udhna,Katargam,27,Female,Bike,17.5,109,403.86,2.0,Cash,3.9,Completed,Night
+RID00049,2024-12-18 09:44,Ahmedabad,Navrangpura,Vastrapur,43,Female,Auto,18.97,98,201.74,1.0,Wallet,,No Show,Evening
+RID00050,2024-12-10 08:36,Vadodara,Fatehgunj,Alkapuri,20,Male,Bike,15.49,55,213.32,1.0,Wallet,5.0,Completed,Night
+RID00051,2024-03-23 10:26,Vadodara,Sama,Manjalpur,49,Female,Bike,24.26,119,291.12,1.2,Wallet,,Cancelled,Night
+RID00052,2024-10-04 14:26,Ahmedabad,Prahlad Nagar,Satellite,21,Male,Bike,8.76,56,138.65,1.2,Card,4.3,Completed,Evening
+RID00053,2024-11-18 19:51,Vadodara,Karelibaug,Alkapuri,33,Male,Auto,14.18,89,226.06,1.2,Card,3.2,Completed,Afternoon
+RID00054,2024-05-29 16:45,Ahmedabad,Thaltej,Chandkheda,35,Female,Bike,24.81,154,407.35,1.2,Wallet,4.0,Completed,Morning
+RID00055,2024-05-21 13:21,Vadodara,Gotri,Waghodia Road,50,Female,Bike,5.57,29,147.89,2.0,UPI,,Cancelled,Afternoon
+RID00056,2024-08-21 10:55,Rajkot,Raiya Road,Pedak Road,30,Male,Auto,13.93,63,262.8,1.5,Wallet,,Cancelled,Afternoon
+RID00057,2024-09-10 01:08,Surat,Piplod,Adajan,50,Female,Bike,17.93,106,299.73,1.2,UPI,,Cancelled,Evening
+RID00058,2024-05-15 10:39,Vadodara,Fatehgunj,Harni,43,Male,Bike,18.34,86,506.91,2.0,Card,3.9,Completed,Night
+RID00059,2024-08-10 03:48,Vadodara,Vadsar,Waghodia Road,24,Female,Bike,2.64,14,36.92,1.0,Cash,,No Show,Morning
+RID00060,2024-04-02 05:11,Rajkot,Kalawad Road,Gondal Road,23,Female,Auto,8.04,37,76.1,1.0,Cash,4.1,Completed,Evening
+RID00061,2024-05-27 21:34,Vadodara,Harni,Manjalpur,28,Male,Auto,16.31,79,262.8,2.0,Wallet,,Cancelled,Afternoon
+RID00062,2024-10-19 11:36,Rajkot,Aji Dam,Raiya Road,36,Female,Bike,11.96,52,188.3,1.2,UPI,3.5,Completed,Night
+RID00063,2024-11-06 11:14,Vadodara,Sama,Alkapuri,30,Female,Bike,18.88,113,238.92,1.0,Cash,,No Show,Morning
+RID00064,2024-03-30 06:08,Ahmedabad,Navrangpura,Gota,52,Female,Bike,14.91,84,200.66,1.0,Card,4.5,Completed,Night
+RID00065,2024-12-11 12:54,Surat,Udhna,Althan,53,Female,Bike,20.3,99,179.54,1.0,UPI,4.7,Completed,Evening
+RID00066,2024-02-25 21:14,Vadodara,Alkapuri,Vadsar,48,Male,Bike,9.85,56,113.35,1.0,Card,,Cancelled,Morning
+RID00067,2024-02-29 03:15,Surat,Vesu,Althan,52,Male,Auto,3.8,13,37.34,1.0,Wallet,,Cancelled,Evening
+RID00068,2024-11-11 13:17,Vadodara,Vadsar,Harni,20,Female,Auto,18.81,74,269.27,1.2,Cash,,No Show,Night
+RID00069,2024-03-03 14:05,Vadodara,Karelibaug,Gotri,31,Male,Auto,24.54,112,498.26,2.0,UPI,3.6,Completed,Evening
+RID00070,2024-03-16 19:00,Rajkot,Mavdi,150 Feet Ring Road,35,Male,Bike,20.92,108,291.7,1.5,Cash,3.7,Completed,Afternoon
+RID00071,2024-01-27 04:47,Rajkot,150 Feet Ring Road,Gondal Road,44,Male,Bike,1.36,7,15.69,1.0,UPI,3.3,Completed,Morning
+RID00072,2024-08-22 20:01,Vadodara,Karelibaug,Vadsar,21,Female,Bike,13.09,82,161.84,1.0,Wallet,,Cancelled,Morning
+RID00073,2024-10-26 17:45,Vadodara,Fatehgunj,Waghodia Road,38,Female,Bike,22.58,100,189.54,1.0,Card,4.2,Completed,Night
+RID00074,2024-04-26 13:21,Vadodara,Waghodia Road,Akota,47,Female,Bike,21.47,117,396.93,1.5,Wallet,3.9,Completed,Morning
+RID00075,2024-02-19 23:47,Ahmedabad,Gota,Prahlad Nagar,41,Male,Bike,9.98,39,100.63,1.2,UPI,3.2,Completed,Evening
+RID00076,2024-02-23 18:32,Rajkot,Gondal Road,Kothariya,31,Male,Bike,21.83,123,253.28,1.0,Wallet,,Cancelled,Evening
+RID00077,2024-12-02 22:17,Surat,Vesu,Piplod,19,Male,Bike,19.3,100,302.72,1.2,Card,4.2,Completed,Evening
+RID00078,2024-09-28 06:24,Rajkot,University Road,Bhaktinagar,44,Female,Bike,21.88,113,221.01,1.2,Card,3.2,Completed,Morning
+RID00079,2024-12-11 02:17,Surat,Katargam,Udhna,46,Female,Bike,15.31,94,136.94,1.0,Wallet,,No Show,Evening
+RID00080,2024-09-26 21:19,Vadodara,Akota,Sama,20,Male,Auto,3.73,17,45.02,1.0,Wallet,,No Show,Afternoon
+RID00081,2024-08-08 05:08,Ahmedabad,Navrangpura,Maninagar,42,Male,Bike,19.42,112,193.59,1.0,Card,4.0,Completed,Evening
+RID00082,2024-08-01 09:07,Ahmedabad,Chandkheda,Navrangpura,43,Male,Auto,12.03,44,137.8,1.0,Card,4.4,Completed,Night
+RID00083,2024-06-07 23:21,Surat,City Light,Dumas,32,Female,Bike,11.48,43,158.88,1.2,Cash,3.8,Completed,Evening
+RID00084,2024-05-11 06:11,Ahmedabad,Thaltej,Satellite,27,Male,Bike,9.43,60,243.11,2.0,Cash,3.2,Completed,Afternoon
+RID00085,2024-06-29 16:04,Vadodara,Karelibaug,Waghodia Road,37,Female,Bike,4.62,17,65.35,1.2,Wallet,4.2,Completed,Evening
+RID00086,2024-10-10 23:57,Ahmedabad,Navrangpura,Chandkheda,20,Female,Auto,16.47,105,192.54,1.0,Cash,3.9,Completed,Evening
+RID00087,2024-03-29 01:15,Rajkot,Aji Dam,Kothariya,46,Female,Bike,11.81,70,164.09,1.0,Cash,4.0,Completed,Afternoon
+RID00088,2024-02-03 10:06,Rajkot,University Road,Raiya Road,53,Female,Bike,19.59,108,249.49,1.0,Card,,Cancelled,Night
+RID00089,2024-12-28 02:19,Rajkot,Aji Dam,150 Feet Ring Road,53,Female,Auto,14.99,58,147.82,1.0,Card,3.3,Completed,Evening
+RID00090,2024-09-05 06:14,Surat,Althan,Vesu,26,Male,Bike,9.68,44,132.68,1.0,UPI,,No Show,Night
+RID00091,2024-12-20 19:51,Rajkot,Gondal Road,Aji Dam,28,Female,Bike,22.03,117,339.05,1.5,UPI,3.4,Completed,Morning
+RID00092,2024-06-07 15:57,Vadodara,Vadsar,Gotri,30,Female,Bike,7.84,45,88.47,1.2,Wallet,,No Show,Night
+RID00093,2024-07-09 17:59,Vadodara,Sama,Karelibaug,24,Male,Bike,20.61,121,272.84,1.0,Card,4.3,Completed,Night
+RID00094,2024-01-14 13:03,Ahmedabad,Bopal,Gota,43,Female,Bike,4.54,21,58.57,1.0,Cash,,No Show,Night
+RID00095,2024-05-26 15:44,Vadodara,Fatehgunj,Akota,26,Female,Bike,8.65,32,205.87,2.0,Wallet,3.3,Completed,Afternoon
+RID00096,2024-05-27 07:19,Ahmedabad,Satellite,Navrangpura,25,Male,Auto,21.04,108,490.37,2.0,Cash,3.2,Completed,Evening
+RID00097,2024-05-29 13:00,Vadodara,Harni,Karelibaug,40,Male,Bike,21.08,105,256.08,1.5,Wallet,4.4,Completed,Morning
+RID00098,2024-01-23 20:24,Surat,Vesu,City Light,41,Female,Auto,23.88,122,405.66,1.5,UPI,4.7,Completed,Evening
+RID00099,2024-11-25 05:53,Rajkot,Gondal Road,Bhaktinagar,47,Female,Bike,19.52,111,171.78,1.0,Cash,4.1,Completed,Afternoon
+RID00100,2024-10-05 15:16,Surat,Vesu,Althan,20,Male,Bike,5.84,34,57.78,1.0,Card,4.0,Completed,Morning
+RID00101,2024-04-05 15:44,Rajkot,Kalawad Road,Bhaktinagar,49,Female,Auto,20.18,97,301.73,1.2,Card,3.7,Completed,Evening
+RID00102,2024-06-16 21:18,Ahmedabad,Chandkheda,Satellite,37,Female,Bike,24.88,100,246.99,1.0,Wallet,,No Show,Night
+RID00103,2024-01-30 02:42,Surat,Dumas,Katargam,43,Female,Bike,18.44,114,386.93,1.5,Cash,4.3,Completed,Night
+RID00104,2024-12-13 14:23,Ahmedabad,Bopal,Thaltej,41,Female,Bike,2.61,15,26.55,1.0,UPI,4.2,Completed,Morning
+RID00105,2024-07-17 17:07,Surat,Althan,Katargam,34,Female,Bike,16.59,70,135.3,1.0,Wallet,4.0,Completed,Night
+RID00106,2024-12-15 10:42,Surat,City Light,Udhna,40,Male,Auto,3.94,23,42.72,1.2,Card,5.0,Completed,Night
+RID00107,2024-01-14 11:35,Rajkot,150 Feet Ring Road,Mavdi,54,Female,Auto,6.38,41,60.1,1.0,Wallet,,No Show,Evening
+RID00108,2024-02-07 04:20,Surat,City Light,Vesu,22,Female,Auto,10.56,59,141.35,1.2,Wallet,4.6,Completed,Morning
+RID00109,2024-03-23 10:59,Rajkot,150 Feet Ring Road,Aji Dam,32,Female,Bike,11.38,70,147.81,1.0,Card,3.6,Completed,Afternoon
+RID00110,2024-10-24 04:10,Ahmedabad,Maninagar,Vastrapur,39,Male,Bike,16.0,85,176.25,1.0,UPI,4.2,Completed,Evening
+RID00111,2024-11-24 09:30,Ahmedabad,Navrangpura,Gota,33,Female,Bike,11.0,59,176.01,1.2,Card,,No Show,Afternoon
+RID00112,2024-06-12 23:55,Vadodara,Fatehgunj,Alkapuri,40,Female,Bike,10.97,53,127.69,1.0,Cash,,Cancelled,Afternoon
+RID00113,2024-07-15 19:26,Rajkot,Pedak Road,Aji Dam,33,Male,Bike,6.8,26,77.42,1.2,Card,3.1,Completed,Morning
+RID00114,2024-09-15 14:15,Rajkot,Mavdi,150 Feet Ring Road,31,Female,Auto,12.2,74,119.16,1.2,UPI,,No Show,Night
+RID00115,2024-07-25 11:02,Ahmedabad,Maninagar,Thaltej,43,Male,Bike,13.88,83,146.63,1.2,Cash,4.5,Completed,Night
+RID00116,2024-03-06 03:25,Rajkot,Pedak Road,Raiya Road,41,Female,Bike,13.1,75,169.67,1.0,Card,,Cancelled,Morning
+RID00117,2024-09-22 14:09,Surat,Rander,City Light,50,Male,Auto,1.97,7,39.39,2.0,Card,,No Show,Night
+RID00118,2024-08-31 00:23,Rajkot,150 Feet Ring Road,Kothariya,39,Male,Bike,9.07,54,148.83,1.5,Wallet,,No Show,Evening
+RID00119,2024-03-16 21:15,Rajkot,Kalawad Road,Pedak Road,20,Male,Auto,14.86,84,242.58,1.5,Cash,,No Show,Evening
+RID00120,2024-02-01 22:08,Ahmedabad,Prahlad Nagar,Gota,51,Male,Auto,10.91,44,207.01,1.5,Card,4.7,Completed,Night
+RID00121,2024-04-08 07:17,Vadodara,Waghodia Road,Akota,53,Female,Bike,12.03,61,182.72,1.5,Cash,4.2,Completed,Evening
+RID00122,2024-10-05 12:57,Rajkot,Raiya Road,Mavdi,43,Female,Bike,12.52,64,241.4,2.0,Cash,4.1,Completed,Night
+RID00123,2024-05-18 17:44,Rajkot,Kalawad Road,University Road,35,Male,Bike,23.18,126,504.14,2.0,UPI,4.7,Completed,Morning
+RID00124,2024-10-08 05:26,Surat,Rander,Adajan,48,Female,Bike,2.26,10,48.97,2.0,Cash,3.0,Completed,Afternoon
+RID00125,2024-03-30 13:56,Rajkot,University Road,Raiya Road,29,Male,Bike,16.66,69,411.13,2.0,Wallet,4.8,Completed,Morning
+RID00126,2024-03-09 16:29,Vadodara,Manjalpur,Vadsar,35,Male,Auto,8.16,43,79.21,1.0,UPI,4.8,Completed,Morning
+RID00127,2024-11-23 12:52,Rajkot,150 Feet Ring Road,Pedak Road,45,Female,Bike,1.34,6,15.28,1.0,UPI,3.4,Completed,Evening
+RID00128,2024-05-16 10:19,Vadodara,Fatehgunj,Gotri,55,Male,Auto,8.77,37,90.34,1.0,Card,,Cancelled,Afternoon
+RID00129,2024-12-19 03:40,Rajkot,Mavdi,Kalawad Road,36,Female,Bike,8.36,39,169.77,1.5,Cash,,Cancelled,Morning
+RID00130,2024-10-02 21:52,Surat,Athwa,Althan,31,Male,Auto,18.95,100,277.69,1.2,UPI,,Cancelled,Afternoon
+RID00131,2024-03-25 10:54,Vadodara,Waghodia Road,Vadsar,51,Female,Bike,3.69,22,50.99,1.5,UPI,,No Show,Morning
+RID00132,2024-10-15 01:35,Surat,City Light,Dumas,47,Female,Auto,11.69,42,129.52,1.0,UPI,,No Show,Morning
+RID00133,2024-02-05 15:02,Vadodara,Sama,Alkapuri,36,Female,Bike,2.75,13,46.1,2.0,Cash,,No Show,Afternoon
+RID00134,2024-11-30 11:07,Surat,Piplod,Katargam,29,Female,Bike,21.87,136,222.59,1.2,Cash,,Cancelled,Night
+RID00135,2024-05-06 14:22,Surat,Adajan,Vesu,27,Female,Bike,17.16,88,264.5,1.5,Cash,,Cancelled,Evening
+RID00136,2024-01-23 12:28,Ahmedabad,Navrangpura,Prahlad Nagar,32,Male,Bike,5.95,22,63.54,1.0,UPI,3.5,Completed,Morning
+RID00137,2024-06-03 04:42,Surat,Althan,Udhna,51,Male,Bike,8.65,45,223.35,2.0,Wallet,,No Show,Afternoon
+RID00138,2024-09-25 10:44,Rajkot,Raiya Road,Kalawad Road,44,Female,Auto,14.34,52,195.73,1.0,Cash,,Cancelled,Afternoon
+RID00139,2024-10-14 13:26,Rajkot,Bhaktinagar,150 Feet Ring Road,53,Male,Auto,21.38,94,379.11,2.0,Wallet,4.8,Completed,Night
+RID00140,2024-07-12 21:38,Surat,Udhna,Rander,20,Male,Bike,23.13,139,259.38,1.0,Cash,3.1,Completed,Evening
+RID00141,2024-09-02 07:44,Surat,Dumas,Rander,31,Female,Bike,23.97,84,330.13,1.0,Cash,4.5,Completed,Evening
+RID00142,2024-08-26 03:51,Rajkot,Raiya Road,Kothariya,48,Female,Auto,16.57,73,183.54,1.0,Cash,,No Show,Night
+RID00143,2024-05-31 04:12,Rajkot,University Road,Kothariya,39,Male,Auto,21.74,124,207.94,1.0,Wallet,,No Show,Morning
+RID00144,2024-06-29 05:08,Surat,Dumas,City Light,52,Female,Auto,19.32,95,457.89,2.0,Cash,3.9,Completed,Evening
+RID00145,2024-09-15 14:23,Ahmedabad,Thaltej,Navrangpura,21,Female,Bike,19.34,91,363.15,2.0,Wallet,3.0,Completed,Morning
+RID00146,2024-12-23 21:27,Ahmedabad,Navrangpura,Naranpura,29,Male,Bike,1.4,7,29.12,1.5,UPI,4.0,Completed,Night
+RID00147,2024-12-22 07:19,Surat,Rander,Udhna,23,Male,Auto,7.42,34,102.07,1.0,UPI,4.1,Completed,Evening
+RID00148,2024-06-18 18:54,Vadodara,Akota,Karelibaug,24,Male,Auto,16.28,91,179.07,1.0,Cash,4.3,Completed,Night
+RID00149,2024-06-10 00:13,Surat,City Light,Dumas,55,Male,Bike,23.18,128,310.52,1.0,Wallet,3.4,Completed,Evening
+RID00150,2024-12-18 23:05,Ahmedabad,Maninagar,Bopal,50,Female,Bike,21.03,98,315.15,1.5,UPI,,No Show,Afternoon
+RID00151,2024-05-19 14:31,Ahmedabad,Chandkheda,Vastrapur,32,Female,Bike,15.52,82,241.65,1.5,Wallet,3.1,Completed,Morning
+RID00152,2024-07-13 22:50,Vadodara,Manjalpur,Karelibaug,27,Female,Bike,8.09,34,68.7,1.0,Card,,No Show,Morning
+RID00153,2024-10-12 17:32,Rajkot,Gondal Road,150 Feet Ring Road,44,Male,Bike,11.67,67,102.64,1.0,UPI,3.9,Completed,Morning
+RID00154,2024-07-17 02:46,Ahmedabad,Gota,Naranpura,53,Male,Auto,15.35,68,148.72,1.2,Cash,,No Show,Morning
+RID00155,2024-02-09 11:16,Vadodara,Manjalpur,Gotri,33,Female,Auto,7.44,29,78.92,1.0,Cash,3.6,Completed,Evening
+RID00156,2024-08-08 20:38,Vadodara,Fatehgunj,Gotri,26,Female,Bike,23.77,106,366.51,1.5,Card,3.9,Completed,Evening
+RID00157,2024-06-15 12:17,Surat,Dumas,Katargam,43,Female,Bike,24.25,106,572.17,2.0,UPI,,Cancelled,Afternoon
+RID00158,2024-12-20 02:52,Surat,City Light,Althan,44,Female,Bike,1.65,9,30.55,2.0,Cash,,No Show,Afternoon
+RID00159,2024-09-30 16:59,Rajkot,Mavdi,University Road,44,Male,Auto,19.94,74,325.28,1.5,Card,,Cancelled,Afternoon
+RID00160,2024-06-18 13:06,Ahmedabad,Satellite,Maninagar,18,Male,Auto,16.53,60,398.86,2.0,Card,4.9,Completed,Evening
+RID00161,2024-06-25 00:30,Surat,Althan,City Light,24,Female,Bike,9.98,48,230.17,2.0,Wallet,,Cancelled,Afternoon
+RID00162,2024-12-22 14:20,Ahmedabad,Satellite,Vastrapur,22,Female,Auto,9.23,54,150.88,1.5,UPI,3.2,Completed,Evening
+RID00163,2024-08-06 14:14,Ahmedabad,Navrangpura,Chandkheda,43,Male,Bike,23.32,133,316.45,1.5,Cash,3.7,Completed,Morning
+RID00164,2024-12-26 02:36,Vadodara,Akota,Alkapuri,24,Male,Bike,15.21,70,282.56,2.0,Card,,Cancelled,Afternoon
+RID00165,2024-10-27 03:22,Rajkot,Mavdi,Pedak Road,40,Female,Auto,17.1,84,337.91,2.0,Cash,4.2,Completed,Morning
+RID00166,2024-08-02 19:08,Rajkot,Aji Dam,Gondal Road,54,Female,Bike,3.83,16,39.22,1.0,Wallet,4.0,Completed,Afternoon
+RID00167,2024-11-13 01:55,Surat,Dumas,City Light,40,Male,Auto,5.0,21,49.44,1.0,Wallet,,No Show,Afternoon
+RID00168,2024-10-16 00:50,Surat,Rander,Dumas,32,Female,Bike,17.43,82,228.66,1.2,UPI,,Cancelled,Night
+RID00169,2024-05-17 17:52,Rajkot,Mavdi,Aji Dam,41,Male,Bike,19.74,102,267.64,1.2,Wallet,4.1,Completed,Evening
+RID00170,2024-03-01 07:13,Surat,Piplod,Vesu,55,Female,Bike,22.0,79,222.01,1.0,Wallet,3.9,Completed,Afternoon
+RID00171,2024-12-26 09:18,Surat,City Light,Athwa,54,Female,Bike,20.33,105,295.39,1.5,UPI,3.6,Completed,Afternoon
+RID00172,2024-12-12 12:31,Surat,Piplod,Adajan,27,Female,Bike,17.83,69,218.75,1.0,Wallet,4.5,Completed,Evening
+RID00173,2024-06-16 18:00,Vadodara,Karelibaug,Fatehgunj,23,Female,Auto,13.37,57,143.44,1.0,Card,,Cancelled,Morning
+RID00174,2024-10-07 18:08,Ahmedabad,Thaltej,Chandkheda,54,Female,Bike,20.8,103,269.78,1.0,Card,,Cancelled,Afternoon
+RID00175,2024-12-18 04:56,Ahmedabad,Navrangpura,Bopal,37,Male,Auto,3.98,24,51.29,1.2,Card,3.4,Completed,Night
+RID00176,2024-04-29 13:41,Ahmedabad,Gota,Maninagar,23,Male,Bike,16.95,92,175.91,1.0,UPI,4.5,Completed,Morning
+RID00177,2024-03-02 13:44,Surat,Dumas,Vesu,26,Female,Bike,6.43,35,51.75,1.0,UPI,,No Show,Afternoon
+RID00178,2024-12-12 04:04,Surat,Piplod,Vesu,51,Male,Bike,8.52,52,87.72,1.0,Cash,4.3,Completed,Morning
+RID00179,2024-03-12 03:37,Vadodara,Vadsar,Gotri,42,Female,Bike,15.79,76,134.53,1.0,Wallet,,Cancelled,Afternoon
+RID00180,2024-12-03 09:13,Rajkot,150 Feet Ring Road,Raiya Road,51,Male,Bike,6.96,36,162.11,2.0,Wallet,4.7,Completed,Evening
+RID00181,2024-07-03 10:08,Rajkot,Kalawad Road,Raiya Road,42,Female,Bike,3.71,18,46.89,1.5,Card,,Cancelled,Night
+RID00182,2024-09-16 09:40,Surat,Dumas,Vesu,50,Female,Auto,2.62,11,35.46,1.0,Wallet,,No Show,Morning
+RID00183,2024-07-19 18:40,Vadodara,Fatehgunj,Harni,22,Female,Bike,3.01,11,41.68,1.0,Wallet,4.1,Completed,Afternoon
+RID00184,2024-03-02 00:45,Surat,Adajan,Udhna,26,Male,Bike,3.78,20,37.25,1.0,Cash,,Cancelled,Morning
+RID00185,2024-01-16 10:51,Vadodara,Vadsar,Harni,45,Female,Bike,9.92,57,122.98,1.0,UPI,4.5,Completed,Evening
+RID00186,2024-05-10 03:57,Rajkot,Aji Dam,Gondal Road,54,Male,Bike,13.26,48,179.04,1.5,Cash,,Cancelled,Night
+RID00187,2024-12-01 13:14,Ahmedabad,Navrangpura,Satellite,38,Male,Bike,12.32,57,111.79,1.0,Wallet,4.1,Completed,Afternoon
+RID00188,2024-02-05 14:55,Rajkot,Raiya Road,Gondal Road,36,Female,Bike,13.05,80,121.88,1.0,Card,4.9,Completed,Evening
+RID00189,2024-10-29 15:49,Ahmedabad,Thaltej,Prahlad Nagar,30,Male,Bike,5.82,30,72.39,1.0,Cash,3.9,Completed,Morning
+RID00190,2024-12-02 12:54,Ahmedabad,Chandkheda,Navrangpura,37,Male,Bike,9.31,56,127.6,1.0,Cash,,No Show,Afternoon
+RID00191,2024-07-09 14:47,Surat,Piplod,Althan,23,Male,Auto,18.08,68,241.98,1.0,Cash,4.4,Completed,Morning
+RID00192,2024-06-16 10:28,Vadodara,Fatehgunj,Alkapuri,35,Male,Auto,6.68,28,90.56,1.0,UPI,4.4,Completed,Night
+RID00193,2024-04-16 14:19,Surat,Athwa,Vesu,47,Female,Bike,4.94,24,51.72,1.2,UPI,4.9,Completed,Afternoon
+RID00194,2024-01-26 21:19,Ahmedabad,Bopal,Gota,34,Male,Bike,21.06,94,258.34,1.0,UPI,3.8,Completed,Morning
+RID00195,2024-04-23 04:12,Vadodara,Karelibaug,Harni,43,Female,Bike,12.09,71,105.53,1.0,UPI,4.7,Completed,Afternoon
+RID00196,2024-08-24 01:10,Rajkot,Gondal Road,Kalawad Road,54,Female,Bike,22.66,109,193.79,1.0,Wallet,3.2,Completed,Morning
+RID00197,2024-11-13 19:15,Vadodara,Alkapuri,Karelibaug,36,Female,Bike,9.49,59,91.85,1.0,Wallet,3.1,Completed,Night
+RID00198,2024-07-14 22:22,Vadodara,Alkapuri,Manjalpur,48,Female,Bike,4.29,17,61.1,1.5,Card,,Cancelled,Evening
+RID00199,2024-10-26 07:10,Rajkot,Bhaktinagar,Raiya Road,24,Male,Auto,8.65,35,72.24,1.0,Cash,4.1,Completed,Afternoon
+RID00200,2024-03-31 07:37,Rajkot,Pedak Road,Kalawad Road,38,Female,Bike,21.32,125,290.19,1.0,UPI,,No Show,Afternoon
+RID00201,2024-11-04 07:01,Rajkot,Aji Dam,150 Feet Ring Road,51,Female,Bike,14.01,56,119.67,1.0,UPI,,Cancelled,Afternoon
+RID00202,2024-03-13 03:54,Rajkot,Aji Dam,Mavdi,51,Female,Bike,18.21,113,152.19,1.0,UPI,4.2,Completed,Afternoon
+RID00203,2024-03-30 22:35,Rajkot,Bhaktinagar,Gondal Road,40,Male,Auto,8.74,56,239.34,2.0,Cash,4.3,Completed,Evening
+RID00204,2024-06-11 19:14,Vadodara,Sama,Vadsar,54,Male,Bike,18.49,117,287.05,1.5,Wallet,3.4,Completed,Afternoon
+RID00205,2024-05-15 06:15,Surat,Katargam,Vesu,22,Female,Bike,24.58,98,317.82,1.0,Card,3.9,Completed,Afternoon
+RID00206,2024-06-28 17:24,Ahmedabad,Navrangpura,Satellite,24,Female,Auto,18.58,119,244.33,1.2,Cash,,Cancelled,Night
+RID00207,2024-03-23 23:04,Surat,Dumas,Vesu,53,Male,Bike,1.48,6,12.5,1.0,Card,4.8,Completed,Morning
+RID00208,2024-07-28 22:35,Vadodara,Alkapuri,Karelibaug,52,Female,Bike,22.35,88,223.2,1.0,Card,,No Show,Afternoon
+RID00209,2024-08-06 02:18,Rajkot,Mavdi,Gondal Road,48,Male,Bike,14.72,88,122.57,1.0,UPI,,Cancelled,Morning
+RID00210,2024-10-05 12:11,Ahmedabad,Vastrapur,Bopal,41,Female,Bike,12.37,47,160.7,1.2,Card,3.2,Completed,Evening
+RID00211,2024-12-22 21:06,Surat,Dumas,Adajan,23,Female,Bike,12.16,50,138.45,1.0,Wallet,,Cancelled,Evening
+RID00212,2024-08-31 09:05,Surat,Althan,Adajan,43,Male,Bike,11.05,56,151.65,1.2,Cash,,No Show,Night
+RID00213,2024-11-17 04:53,Ahmedabad,Prahlad Nagar,Bopal,34,Female,Auto,20.4,79,207.35,1.2,UPI,3.4,Completed,Afternoon
+RID00214,2024-12-24 19:37,Ahmedabad,Chandkheda,Naranpura,51,Female,Bike,8.83,38,143.08,1.2,UPI,,No Show,Night
+RID00215,2024-05-15 12:41,Vadodara,Manjalpur,Gotri,49,Female,Bike,14.5,55,191.47,1.0,UPI,4.8,Completed,Morning
+RID00216,2024-12-19 07:03,Surat,Udhna,Dumas,48,Female,Bike,15.61,87,161.95,1.0,Card,,No Show,Afternoon
+RID00217,2024-08-14 10:17,Ahmedabad,Gota,Maninagar,44,Male,Bike,21.23,128,364.7,2.0,Cash,3.3,Completed,Evening
+RID00218,2024-06-08 22:32,Vadodara,Gotri,Karelibaug,43,Male,Bike,21.81,130,417.08,1.5,UPI,,No Show,Night
+RID00219,2024-08-25 16:25,Surat,Rander,Udhna,25,Male,Bike,1.79,6,21.89,1.0,Cash,3.7,Completed,Morning
+RID00220,2024-12-18 02:18,Rajkot,Kothariya,Pedak Road,19,Female,Bike,15.09,68,196.56,1.0,UPI,,Cancelled,Afternoon
+RID00221,2024-03-08 20:11,Surat,City Light,Rander,18,Male,Bike,17.26,74,229.48,1.2,Card,3.9,Completed,Afternoon
+RID00222,2024-01-04 16:42,Rajkot,Raiya Road,Kothariya,41,Female,Auto,12.02,49,145.0,1.0,Card,4.2,Completed,Night
+RID00223,2024-09-21 07:57,Ahmedabad,Prahlad Nagar,Satellite,21,Female,Bike,16.37,99,195.4,1.0,Card,3.4,Completed,Evening
+RID00224,2024-04-23 21:34,Surat,Adajan,Althan,48,Female,Bike,22.77,107,373.97,2.0,Card,3.7,Completed,Evening
+RID00225,2024-06-20 20:05,Surat,Althan,Athwa,32,Female,Bike,12.3,70,316.11,2.0,Cash,4.9,Completed,Evening
+RID00226,2024-04-09 16:07,Rajkot,Bhaktinagar,University Road,42,Female,Bike,15.05,73,162.89,1.0,Wallet,3.9,Completed,Evening
+RID00227,2024-09-06 10:40,Ahmedabad,Bopal,Vastrapur,29,Female,Bike,10.82,56,115.03,1.2,UPI,4.6,Completed,Afternoon
+RID00228,2024-07-25 13:30,Ahmedabad,Prahlad Nagar,Maninagar,42,Male,Auto,14.83,58,130.15,1.0,UPI,4.3,Completed,Afternoon
+RID00229,2024-12-21 11:19,Surat,Katargam,Adajan,26,Male,Bike,5.57,30,138.15,2.0,Wallet,,No Show,Evening
+RID00230,2024-12-17 04:21,Rajkot,150 Feet Ring Road,Gondal Road,49,Female,Bike,23.76,115,412.65,1.5,Cash,3.9,Completed,Morning
+RID00231,2024-12-30 20:50,Surat,Piplod,Adajan,20,Female,Bike,18.45,71,300.05,2.0,Card,3.2,Completed,Afternoon
+RID00232,2024-03-19 06:44,Ahmedabad,Naranpura,Navrangpura,18,Female,Bike,2.16,8,26.65,1.2,Wallet,3.9,Completed,Morning
+RID00233,2024-02-28 03:31,Ahmedabad,Thaltej,Maninagar,30,Male,Bike,20.94,79,490.26,2.0,Card,,Cancelled,Afternoon
+RID00234,2024-01-02 00:42,Surat,Katargam,Dumas,23,Male,Auto,1.95,9,23.65,1.0,Wallet,3.7,Completed,Evening
+RID00235,2024-01-26 03:52,Surat,Vesu,City Light,29,Male,Bike,22.71,123,379.67,1.2,Card,3.5,Completed,Morning
+RID00236,2024-08-12 19:17,Rajkot,University Road,Kothariya,23,Female,Bike,21.43,132,280.99,1.0,Card,3.7,Completed,Morning
+RID00237,2024-02-27 04:44,Surat,Vesu,Dumas,21,Male,Bike,7.52,35,115.5,1.2,UPI,,Cancelled,Night
+RID00238,2024-09-06 03:56,Vadodara,Harni,Karelibaug,44,Female,Bike,15.67,91,192.1,1.5,UPI,4.0,Completed,Night
+RID00239,2024-09-22 16:44,Ahmedabad,Maninagar,Chandkheda,24,Female,Bike,19.42,101,272.19,1.5,Cash,,No Show,Morning
+RID00240,2024-09-15 15:54,Vadodara,Vadsar,Karelibaug,49,Male,Bike,22.41,119,265.79,1.0,UPI,,No Show,Afternoon
+RID00241,2024-08-15 18:28,Vadodara,Vadsar,Gotri,23,Female,Bike,2.21,9,45.4,2.0,Wallet,3.2,Completed,Evening
+RID00242,2024-11-12 20:19,Rajkot,Gondal Road,Pedak Road,50,Male,Bike,10.68,38,128.18,1.5,Wallet,4.6,Completed,Morning
+RID00243,2024-08-19 03:06,Rajkot,University Road,Kalawad Road,32,Male,Bike,8.97,52,145.84,1.5,Card,,Cancelled,Afternoon
+RID00244,2024-11-08 06:12,Rajkot,Raiya Road,Aji Dam,25,Female,Auto,2.1,8,27.16,1.0,Cash,3.2,Completed,Evening
+RID00245,2024-08-22 21:37,Vadodara,Gotri,Akota,50,Male,Auto,2.12,11,48.9,2.0,Wallet,,Cancelled,Morning
+RID00246,2024-03-06 03:24,Ahmedabad,Thaltej,Navrangpura,38,Female,Bike,12.59,63,152.98,1.0,Wallet,,No Show,Night
+RID00247,2024-10-07 10:45,Surat,Udhna,Dumas,53,Male,Bike,11.87,46,165.45,1.2,Cash,4.7,Completed,Evening
+RID00248,2024-06-29 17:30,Surat,City Light,Udhna,55,Female,Bike,24.55,133,270.62,1.0,Card,4.4,Completed,Evening
+RID00249,2024-12-15 08:09,Vadodara,Alkapuri,Harni,21,Female,Bike,10.14,37,93.28,1.0,Cash,5.0,Completed,Morning
+RID00250,2024-05-01 16:50,Ahmedabad,Gota,Thaltej,36,Male,Auto,21.83,124,271.88,1.0,Wallet,,No Show,Morning
+RID00251,2024-10-06 23:38,Vadodara,Akota,Vadsar,30,Male,Bike,18.85,77,293.61,1.2,Card,4.5,Completed,Morning
+RID00252,2024-10-26 08:00,Vadodara,Manjalpur,Fatehgunj,39,Female,Bike,18.64,71,197.04,1.0,Cash,3.3,Completed,Afternoon
+RID00253,2024-12-28 10:33,Ahmedabad,Bopal,Chandkheda,32,Male,Bike,21.24,93,360.05,1.5,UPI,,No Show,Morning
+RID00254,2024-11-12 16:30,Surat,Piplod,City Light,53,Male,Bike,9.39,57,187.64,2.0,UPI,3.6,Completed,Night
+RID00255,2024-09-21 11:32,Rajkot,Kothariya,Mavdi,50,Female,Bike,17.38,77,179.28,1.0,Wallet,3.0,Completed,Afternoon
+RID00256,2024-04-17 21:40,Ahmedabad,Maninagar,Vastrapur,31,Female,Bike,2.98,11,50.06,1.5,UPI,,No Show,Evening
+RID00257,2024-05-08 17:04,Surat,Althan,Piplod,54,Male,Bike,1.57,8,13.38,1.0,Card,3.4,Completed,Morning
+RID00258,2024-10-26 01:44,Vadodara,Akota,Waghodia Road,22,Female,Bike,8.59,40,96.29,1.0,UPI,,Cancelled,Night
+RID00259,2024-03-10 23:25,Rajkot,Raiya Road,Gondal Road,52,Female,Bike,10.15,60,110.07,1.0,Cash,,Cancelled,Evening
+RID00260,2024-06-25 06:26,Rajkot,University Road,Kalawad Road,50,Male,Bike,2.0,10,26.93,1.2,Cash,3.6,Completed,Afternoon
+RID00261,2024-02-07 09:42,Surat,Rander,Katargam,22,Female,Auto,5.35,31,70.13,1.0,UPI,4.3,Completed,Afternoon
+RID00262,2024-06-11 15:28,Surat,City Light,Dumas,39,Female,Bike,4.08,22,39.62,1.0,Cash,4.8,Completed,Evening
+RID00263,2024-07-03 04:43,Rajkot,University Road,Kothariya,39,Female,Auto,8.52,49,211.96,2.0,Wallet,3.6,Completed,Afternoon
+RID00264,2024-10-02 06:16,Vadodara,Vadsar,Sama,22,Male,Bike,3.61,19,47.11,1.0,UPI,,No Show,Night
+RID00265,2024-04-24 18:46,Ahmedabad,Naranpura,Chandkheda,36,Male,Bike,14.24,73,231.38,1.5,Wallet,3.7,Completed,Afternoon
+RID00266,2024-04-01 18:36,Ahmedabad,Chandkheda,Gota,27,Female,Bike,21.35,126,387.66,1.5,Card,3.9,Completed,Morning
+RID00267,2024-08-20 01:02,Ahmedabad,Vastrapur,Thaltej,38,Male,Bike,7.34,30,135.65,2.0,Card,3.8,Completed,Afternoon
+RID00268,2024-09-21 08:24,Rajkot,Aji Dam,Pedak Road,32,Female,Bike,16.69,76,446.94,2.0,Card,,Cancelled,Afternoon
+RID00269,2024-04-18 04:11,Rajkot,Kothariya,Pedak Road,28,Female,Bike,22.17,106,187.61,1.0,UPI,,No Show,Morning
+RID00270,2024-01-12 07:02,Surat,Piplod,Katargam,26,Male,Auto,17.21,84,231.5,1.5,Cash,,Cancelled,Morning
+RID00271,2024-12-04 09:05,Ahmedabad,Naranpura,Bopal,31,Female,Bike,7.2,29,100.19,1.2,Wallet,4.8,Completed,Morning
+RID00272,2024-03-26 23:43,Vadodara,Manjalpur,Sama,39,Female,Bike,4.43,23,52.0,1.0,UPI,,No Show,Night
+RID00273,2024-03-31 15:57,Surat,Piplod,Dumas,20,Male,Bike,1.4,7,25.42,1.5,UPI,4.2,Completed,Afternoon
+RID00274,2024-04-27 15:50,Vadodara,Manjalpur,Harni,42,Female,Auto,13.53,62,164.87,1.0,UPI,,Cancelled,Morning
+RID00275,2024-01-03 22:47,Vadodara,Manjalpur,Vadsar,18,Male,Auto,22.84,85,454.31,1.5,UPI,3.5,Completed,Night
+RID00276,2024-11-09 08:43,Vadodara,Gotri,Akota,43,Male,Auto,3.56,17,50.85,1.5,Wallet,4.1,Completed,Night
+RID00277,2024-12-03 03:47,Vadodara,Manjalpur,Akota,32,Female,Bike,24.72,129,513.62,2.0,Cash,4.7,Completed,Night
+RID00278,2024-11-21 00:51,Ahmedabad,Vastrapur,Naranpura,23,Male,Bike,20.22,108,495.02,2.0,Wallet,3.8,Completed,Night
+RID00279,2024-09-23 09:45,Vadodara,Fatehgunj,Manjalpur,21,Male,Auto,9.9,52,204.06,2.0,Wallet,4.2,Completed,Evening
+RID00280,2024-07-03 07:41,Vadodara,Alkapuri,Sama,18,Male,Bike,1.81,9,33.1,1.5,UPI,4.3,Completed,Evening
+RID00281,2024-10-08 09:46,Rajkot,Bhaktinagar,University Road,53,Female,Bike,15.07,76,368.36,2.0,Card,,Cancelled,Night
+RID00282,2024-09-14 09:21,Rajkot,Mavdi,Raiya Road,25,Female,Bike,14.8,63,196.02,1.2,Card,,Cancelled,Night
+RID00283,2024-05-12 02:24,Vadodara,Akota,Waghodia Road,32,Male,Bike,24.07,117,386.44,1.2,Card,4.0,Completed,Afternoon
+RID00284,2024-04-01 15:20,Vadodara,Vadsar,Harni,40,Male,Bike,6.96,26,173.9,2.0,Card,3.2,Completed,Morning
+RID00285,2024-07-01 04:49,Surat,Rander,Althan,24,Male,Bike,18.65,114,174.85,1.0,UPI,4.7,Completed,Afternoon
+RID00286,2024-04-03 16:17,Vadodara,Harni,Alkapuri,43,Male,Auto,9.91,44,196.41,1.5,Cash,,Cancelled,Morning
+RID00287,2024-03-02 22:33,Ahmedabad,Thaltej,Chandkheda,47,Female,Auto,1.78,8,45.05,2.0,UPI,,No Show,Night
+RID00288,2024-11-09 10:23,Ahmedabad,Vastrapur,Prahlad Nagar,29,Female,Bike,9.68,58,109.3,1.0,Wallet,3.5,Completed,Morning
+RID00289,2024-02-21 23:17,Surat,Piplod,Katargam,33,Female,Bike,7.71,31,106.98,1.0,Wallet,,Cancelled,Evening
+RID00290,2024-06-02 08:35,Surat,Athwa,Rander,54,Male,Bike,5.24,26,116.35,2.0,Wallet,4.6,Completed,Night
+RID00291,2024-10-13 17:59,Ahmedabad,Bopal,Navrangpura,34,Female,Bike,12.44,67,186.12,1.2,UPI,3.7,Completed,Afternoon
+RID00292,2024-06-30 10:43,Vadodara,Fatehgunj,Akota,50,Female,Bike,14.82,80,205.65,1.0,Wallet,,No Show,Afternoon
+RID00293,2024-02-06 02:10,Ahmedabad,Chandkheda,Maninagar,39,Male,Auto,21.84,118,229.99,1.0,Card,4.7,Completed,Night
+RID00294,2024-04-04 00:08,Rajkot,Raiya Road,University Road,33,Female,Auto,22.3,130,278.47,1.0,UPI,3.8,Completed,Night
+RID00295,2024-02-12 03:16,Surat,Athwa,Dumas,27,Male,Auto,2.53,15,31.59,1.5,Wallet,4.0,Completed,Morning
+RID00296,2024-06-15 15:29,Rajkot,Mavdi,Raiya Road,52,Female,Bike,16.04,62,131.07,1.0,Wallet,,Cancelled,Evening
+RID00297,2024-09-03 17:14,Surat,Althan,Athwa,23,Female,Bike,11.44,61,169.16,1.5,Card,,No Show,Night
+RID00298,2024-12-18 15:48,Rajkot,Bhaktinagar,Raiya Road,48,Female,Auto,1.25,6,12.58,1.0,UPI,4.1,Completed,Afternoon
+RID00299,2024-03-24 22:47,Vadodara,Sama,Gotri,42,Female,Bike,9.97,47,158.86,1.5,Cash,,No Show,Morning
+RID00300,2024-11-28 23:34,Rajkot,Gondal Road,Kothariya,35,Female,Bike,19.35,120,468.57,2.0,Cash,,No Show,Afternoon
+RID00301,2024-01-10 04:03,Ahmedabad,Bopal,Vastrapur,52,Male,Auto,16.29,87,198.78,1.0,Cash,3.4,Completed,Evening
+RID00302,2024-06-24 13:19,Ahmedabad,Maninagar,Gota,49,Female,Bike,18.45,77,149.23,1.0,Wallet,,Cancelled,Afternoon
+RID00303,2024-05-08 12:53,Ahmedabad,Gota,Satellite,18,Male,Bike,7.4,34,120.11,1.5,Cash,4.8,Completed,Afternoon
+RID00304,2024-12-14 09:59,Vadodara,Karelibaug,Gotri,38,Male,Bike,12.06,70,217.01,1.5,UPI,3.9,Completed,Morning
+RID00305,2024-08-10 10:00,Ahmedabad,Maninagar,Thaltej,28,Female,Bike,9.65,35,179.62,2.0,UPI,3.5,Completed,Evening
+RID00306,2024-05-07 05:31,Vadodara,Gotri,Alkapuri,23,Female,Bike,19.8,97,265.22,1.5,UPI,,No Show,Morning
+RID00307,2024-08-12 23:12,Ahmedabad,Gota,Bopal,19,Female,Bike,12.71,56,242.72,1.5,Card,4.6,Completed,Morning
+RID00308,2024-10-05 11:20,Surat,Udhna,Adajan,47,Female,Bike,14.42,73,158.14,1.2,Cash,,Cancelled,Night
+RID00309,2024-01-10 19:54,Ahmedabad,Thaltej,Bopal,41,Male,Auto,20.67,105,198.54,1.2,Card,4.5,Completed,Night
+RID00310,2024-07-28 20:20,Ahmedabad,Thaltej,Chandkheda,25,Male,Bike,17.4,100,203.2,1.0,UPI,,No Show,Afternoon
+RID00311,2024-09-26 19:44,Ahmedabad,Bopal,Vastrapur,55,Female,Auto,3.57,14,40.79,1.0,UPI,4.3,Completed,Morning
+RID00312,2024-07-31 11:50,Rajkot,Mavdi,Gondal Road,21,Female,Bike,16.74,105,180.93,1.0,UPI,3.7,Completed,Morning
+RID00313,2024-09-26 21:15,Ahmedabad,Maninagar,Satellite,54,Male,Bike,3.33,18,51.51,1.5,Wallet,,No Show,Afternoon
+RID00314,2024-12-02 05:34,Ahmedabad,Naranpura,Gota,46,Female,Bike,22.19,88,250.74,1.0,Card,,Cancelled,Night
+RID00315,2024-08-19 14:25,Rajkot,University Road,Kothariya,18,Male,Bike,15.6,80,159.91,1.0,Card,3.7,Completed,Night
+RID00316,2024-09-18 17:36,Ahmedabad,Thaltej,Bopal,54,Male,Bike,8.21,34,66.75,1.0,UPI,4.8,Completed,Evening
+RID00317,2024-07-23 18:58,Ahmedabad,Prahlad Nagar,Gota,31,Male,Bike,7.36,45,69.17,1.0,Card,3.2,Completed,Afternoon
+RID00318,2024-06-20 11:56,Vadodara,Manjalpur,Waghodia Road,45,Female,Bike,16.41,59,253.27,1.5,UPI,,No Show,Morning
+RID00319,2024-04-23 04:03,Surat,City Light,Adajan,43,Female,Bike,8.31,30,141.97,1.5,UPI,4.0,Completed,Night
+RID00320,2024-07-23 16:27,Surat,Piplod,Udhna,26,Male,Auto,4.17,15,78.01,1.5,Wallet,3.5,Completed,Night
+RID00321,2024-08-08 10:43,Surat,Dumas,Piplod,54,Male,Bike,15.78,90,149.18,1.0,UPI,,No Show,Afternoon
+RID00322,2024-11-11 14:39,Vadodara,Akota,Vadsar,27,Female,Bike,8.7,45,109.78,1.0,UPI,5.0,Completed,Evening
+RID00323,2024-12-21 03:19,Surat,Rander,Piplod,46,Female,Bike,3.7,13,75.26,1.5,UPI,3.0,Completed,Afternoon
+RID00324,2024-12-08 00:24,Rajkot,Mavdi,Aji Dam,55,Male,Bike,14.11,81,230.66,1.5,Card,4.4,Completed,Afternoon
+RID00325,2024-12-05 21:23,Surat,Adajan,Katargam,24,Male,Bike,7.51,36,63.08,1.0,Card,,No Show,Afternoon
+RID00326,2024-12-30 00:02,Vadodara,Gotri,Karelibaug,33,Female,Auto,12.63,66,115.17,1.0,Card,4.1,Completed,Morning
+RID00327,2024-11-16 08:56,Vadodara,Akota,Manjalpur,42,Male,Bike,17.42,79,164.05,1.0,Card,4.6,Completed,Morning
+RID00328,2024-10-20 04:27,Surat,Athwa,Piplod,37,Female,Bike,3.11,14,72.62,2.0,Wallet,3.8,Completed,Night
+RID00329,2024-03-15 20:59,Surat,Rander,Athwa,54,Male,Auto,8.42,47,169.97,1.5,Card,5.0,Completed,Afternoon
+RID00330,2024-07-30 13:19,Ahmedabad,Thaltej,Naranpura,46,Female,Bike,8.62,52,140.97,2.0,Cash,4.8,Completed,Morning
+RID00331,2024-04-28 21:01,Surat,Vesu,Rander,40,Male,Bike,19.3,102,224.53,1.0,Wallet,4.2,Completed,Afternoon
+RID00332,2024-01-08 08:26,Surat,Althan,Dumas,32,Male,Bike,21.45,106,192.68,1.0,Cash,3.1,Completed,Evening
+RID00333,2024-07-13 23:20,Ahmedabad,Bopal,Thaltej,43,Male,Bike,21.8,134,272.83,1.2,UPI,4.2,Completed,Night
+RID00334,2024-04-07 09:28,Vadodara,Karelibaug,Alkapuri,43,Female,Bike,13.91,89,157.83,1.0,Card,,No Show,Afternoon
+RID00335,2024-02-16 23:32,Vadodara,Manjalpur,Karelibaug,25,Male,Auto,23.06,128,248.62,1.0,Cash,,No Show,Evening
+RID00336,2024-06-14 22:41,Vadodara,Akota,Vadsar,28,Male,Auto,5.29,27,141.51,2.0,UPI,3.2,Completed,Night
+RID00337,2024-07-12 17:24,Ahmedabad,Prahlad Nagar,Gota,20,Male,Bike,17.97,102,314.63,1.5,Card,,No Show,Morning
+RID00338,2024-03-08 06:00,Surat,Athwa,Rander,34,Male,Bike,11.07,49,129.29,1.2,Wallet,3.2,Completed,Afternoon
+RID00339,2024-07-28 14:05,Vadodara,Karelibaug,Harni,18,Male,Auto,22.18,93,397.8,1.5,Card,,No Show,Morning
+RID00340,2024-02-14 01:06,Surat,Adajan,Rander,44,Male,Bike,16.68,60,200.19,1.0,Cash,3.7,Completed,Afternoon
+RID00341,2024-06-14 11:57,Rajkot,Aji Dam,Pedak Road,42,Male,Bike,18.98,86,162.45,1.0,Wallet,,Cancelled,Afternoon
+RID00342,2024-11-09 01:06,Ahmedabad,Maninagar,Thaltej,54,Male,Bike,17.67,76,277.84,1.5,Wallet,4.4,Completed,Afternoon
+RID00343,2024-09-23 23:40,Rajkot,Bhaktinagar,University Road,49,Female,Auto,14.8,79,172.95,1.0,Cash,,No Show,Evening
+RID00344,2024-07-31 13:02,Surat,Udhna,Rander,39,Female,Bike,1.58,8,19.63,1.0,Cash,4.6,Completed,Morning
+RID00345,2024-06-23 12:46,Ahmedabad,Vastrapur,Gota,54,Male,Bike,8.39,42,105.73,1.0,Cash,4.4,Completed,Evening
+RID00346,2024-10-01 10:29,Surat,Katargam,Piplod,44,Male,Auto,20.13,109,215.77,1.2,Card,,Cancelled,Night
+RID00347,2024-01-16 10:24,Rajkot,Pedak Road,Aji Dam,52,Male,Bike,14.86,66,124.78,1.0,Wallet,3.6,Completed,Morning
+RID00348,2024-06-03 06:33,Surat,City Light,Vesu,37,Male,Bike,18.04,77,198.12,1.0,UPI,3.7,Completed,Evening
+RID00349,2024-09-04 23:55,Rajkot,Kalawad Road,Raiya Road,51,Female,Bike,13.14,77,175.9,1.5,Card,,Cancelled,Morning
+RID00350,2024-01-23 21:54,Surat,Vesu,City Light,23,Female,Bike,18.39,89,485.09,2.0,Wallet,3.0,Completed,Afternoon
+RID00351,2024-09-29 10:49,Ahmedabad,Satellite,Naranpura,46,Male,Bike,14.86,65,147.49,1.0,Card,3.6,Completed,Evening
+RID00352,2024-05-18 04:45,Surat,Athwa,Katargam,36,Male,Bike,24.0,124,221.75,1.0,Cash,4.1,Completed,Morning
+RID00353,2024-08-06 12:11,Ahmedabad,Maninagar,Chandkheda,55,Female,Auto,4.12,20,68.41,2.0,Card,3.1,Completed,Night
+RID00354,2024-06-07 21:41,Rajkot,University Road,Mavdi,47,Female,Auto,14.63,55,316.29,2.0,Cash,,Cancelled,Morning
+RID00355,2024-08-20 15:01,Surat,Athwa,Katargam,22,Female,Bike,5.4,33,68.76,1.0,UPI,,Cancelled,Evening
+RID00356,2024-02-24 10:35,Rajkot,Kothariya,Pedak Road,22,Female,Auto,19.43,103,214.66,1.0,Wallet,4.6,Completed,Afternoon
+RID00357,2024-04-16 22:37,Vadodara,Harni,Akota,45,Female,Bike,6.85,27,84.69,1.2,Card,,No Show,Afternoon
+RID00358,2024-07-26 02:38,Surat,Athwa,Vesu,24,Female,Auto,15.21,74,195.89,1.5,Card,3.4,Completed,Night
+RID00359,2024-08-19 17:18,Vadodara,Alkapuri,Manjalpur,42,Female,Bike,22.29,138,573.26,2.0,Cash,4.3,Completed,Afternoon
+RID00360,2024-03-06 09:03,Surat,Katargam,Udhna,41,Male,Auto,18.23,113,209.58,1.0,UPI,,Cancelled,Evening
+RID00361,2024-08-10 17:13,Rajkot,Gondal Road,University Road,29,Female,Auto,11.36,59,225.13,2.0,Cash,3.8,Completed,Morning
+RID00362,2024-02-06 20:01,Surat,Althan,Piplod,27,Female,Bike,4.7,30,82.28,2.0,Wallet,,Cancelled,Evening
+RID00363,2024-09-17 13:35,Surat,Vesu,Rander,46,Female,Auto,22.45,125,316.26,1.2,Card,,Cancelled,Night
+RID00364,2024-10-06 18:23,Surat,Athwa,Dumas,20,Male,Auto,12.96,73,285.39,2.0,Wallet,,No Show,Morning
+RID00365,2024-11-08 02:15,Rajkot,Gondal Road,Pedak Road,48,Male,Bike,18.52,94,199.82,1.0,Card,4.0,Completed,Morning
+RID00366,2024-06-29 09:18,Ahmedabad,Gota,Naranpura,28,Male,Auto,11.9,73,221.39,1.5,Card,,Cancelled,Morning
+RID00367,2024-09-05 02:08,Rajkot,Kalawad Road,Pedak Road,50,Male,Bike,2.24,14,52.62,2.0,Card,,No Show,Afternoon
+RID00368,2024-07-08 05:16,Rajkot,150 Feet Ring Road,University Road,33,Female,Bike,1.34,5,18.04,1.0,Cash,4.3,Completed,Evening
+RID00369,2024-07-15 07:42,Ahmedabad,Gota,Satellite,46,Male,Auto,23.41,92,351.62,1.2,Cash,,No Show,Afternoon
+RID00370,2024-12-27 12:30,Rajkot,Kalawad Road,University Road,34,Male,Bike,5.02,23,54.51,1.0,Wallet,3.8,Completed,Morning
+RID00371,2024-08-09 19:58,Ahmedabad,Maninagar,Thaltej,35,Female,Bike,24.08,133,206.71,1.0,Card,4.9,Completed,Night
+RID00372,2024-09-23 10:43,Rajkot,Gondal Road,University Road,29,Female,Bike,19.56,112,470.67,2.0,UPI,,Cancelled,Night
+RID00373,2024-01-18 00:39,Ahmedabad,Satellite,Navrangpura,23,Male,Bike,13.61,75,126.8,1.0,Cash,3.5,Completed,Night
+RID00374,2024-02-26 22:11,Ahmedabad,Satellite,Bopal,34,Female,Bike,16.75,103,322.08,1.5,Wallet,,Cancelled,Afternoon
+RID00375,2024-01-31 08:52,Ahmedabad,Prahlad Nagar,Maninagar,34,Male,Auto,7.18,41,90.92,1.0,Wallet,3.8,Completed,Night
+RID00376,2024-02-24 14:45,Ahmedabad,Prahlad Nagar,Vastrapur,34,Male,Bike,16.49,63,311.96,1.5,UPI,4.2,Completed,Night
+RID00377,2024-05-16 04:44,Ahmedabad,Satellite,Gota,39,Female,Bike,22.52,88,360.55,2.0,UPI,4.3,Completed,Night
+RID00378,2024-10-01 11:21,Vadodara,Karelibaug,Akota,37,Female,Auto,13.96,48,360.39,2.0,UPI,3.2,Completed,Night
+RID00379,2024-07-15 21:12,Ahmedabad,Gota,Naranpura,37,Female,Bike,21.19,122,251.88,1.0,UPI,4.1,Completed,Evening
+RID00380,2024-02-02 17:41,Rajkot,Kothariya,Gondal Road,37,Female,Bike,4.36,17,121.89,2.0,Wallet,4.0,Completed,Night
+RID00381,2024-10-01 04:47,Ahmedabad,Navrangpura,Chandkheda,55,Male,Auto,19.91,72,184.57,1.0,UPI,4.9,Completed,Morning
+RID00382,2024-01-08 05:40,Ahmedabad,Bopal,Thaltej,21,Female,Bike,22.77,121,277.97,1.0,UPI,,Cancelled,Morning
+RID00383,2024-12-13 12:20,Vadodara,Harni,Manjalpur,25,Male,Bike,3.74,19,52.3,1.5,Card,3.9,Completed,Morning
+RID00384,2024-08-12 07:59,Surat,Adajan,Rander,55,Male,Bike,3.9,15,42.16,1.2,Cash,4.1,Completed,Evening
+RID00385,2024-10-30 09:26,Ahmedabad,Naranpura,Chandkheda,48,Male,Bike,22.11,82,200.68,1.0,Cash,4.4,Completed,Afternoon
+RID00386,2024-09-12 19:05,Surat,Udhna,City Light,37,Female,Bike,6.74,27,110.88,2.0,Wallet,,Cancelled,Night
+RID00387,2024-11-16 21:13,Ahmedabad,Thaltej,Vastrapur,35,Male,Bike,24.68,158,376.55,1.5,Cash,3.9,Completed,Afternoon
+RID00388,2024-05-08 10:39,Ahmedabad,Bopal,Thaltej,47,Male,Bike,4.83,30,57.33,1.0,UPI,3.4,Completed,Night
+RID00389,2024-12-12 10:14,Ahmedabad,Thaltej,Bopal,25,Female,Bike,12.64,48,155.83,1.0,Cash,3.8,Completed,Afternoon
+RID00390,2024-03-15 06:59,Ahmedabad,Vastrapur,Prahlad Nagar,47,Male,Auto,22.39,83,366.29,1.5,Wallet,,Cancelled,Afternoon
+RID00391,2024-02-26 14:29,Rajkot,150 Feet Ring Road,Pedak Road,44,Male,Bike,24.41,100,199.98,1.0,Card,3.6,Completed,Afternoon
+RID00392,2024-04-20 18:30,Surat,Udhna,Athwa,47,Female,Auto,24.28,147,254.22,1.0,UPI,,No Show,Afternoon
+RID00393,2024-08-01 01:02,Vadodara,Gotri,Sama,48,Male,Bike,14.91,92,305.9,1.5,Wallet,,Cancelled,Evening
+RID00394,2024-04-21 04:22,Vadodara,Karelibaug,Fatehgunj,36,Male,Auto,6.77,35,82.32,1.0,UPI,,Cancelled,Night
+RID00395,2024-03-11 22:25,Ahmedabad,Prahlad Nagar,Maninagar,29,Female,Auto,21.59,123,299.21,1.0,Wallet,,Cancelled,Afternoon
+RID00396,2024-12-16 02:39,Ahmedabad,Satellite,Prahlad Nagar,39,Male,Bike,1.79,8,21.82,1.0,Card,,No Show,Evening
+RID00397,2024-10-14 22:49,Ahmedabad,Satellite,Prahlad Nagar,31,Male,Bike,15.86,72,188.56,1.0,Card,,Cancelled,Evening
+RID00398,2024-06-29 08:32,Surat,Althan,Vesu,45,Female,Bike,21.91,122,550.61,2.0,UPI,,No Show,Night
+RID00399,2024-08-19 19:23,Ahmedabad,Gota,Chandkheda,22,Male,Bike,13.03,78,191.68,1.2,Wallet,,Cancelled,Night
+RID00400,2024-04-14 16:40,Ahmedabad,Satellite,Prahlad Nagar,19,Female,Bike,24.0,89,231.74,1.0,Wallet,4.0,Completed,Afternoon
+RID00401,2024-09-23 20:21,Surat,Dumas,Katargam,44,Female,Bike,18.71,66,156.75,1.0,Card,,Cancelled,Night
+RID00402,2024-04-26 15:23,Vadodara,Harni,Waghodia Road,36,Male,Bike,8.3,32,74.95,1.0,Cash,,Cancelled,Night
+RID00403,2024-12-28 22:57,Rajkot,Raiya Road,Pedak Road,27,Male,Bike,23.18,130,210.79,1.0,Cash,,No Show,Afternoon
+RID00404,2024-06-25 04:23,Ahmedabad,Navrangpura,Chandkheda,46,Male,Bike,7.25,29,133.14,1.5,Card,,Cancelled,Afternoon
+RID00405,2024-05-31 15:57,Ahmedabad,Navrangpura,Prahlad Nagar,36,Male,Bike,23.75,149,190.61,1.0,Wallet,4.3,Completed,Night
+RID00406,2024-02-17 10:03,Rajkot,Gondal Road,Pedak Road,30,Male,Bike,17.27,66,179.78,1.0,Card,3.9,Completed,Morning
+RID00407,2024-07-03 12:09,Surat,Adajan,Athwa,45,Female,Bike,24.42,114,290.3,1.2,Wallet,4.8,Completed,Night
+RID00408,2024-07-31 14:18,Rajkot,Kalawad Road,University Road,28,Female,Auto,8.39,40,107.29,1.5,Wallet,4.5,Completed,Evening
+RID00409,2024-10-29 12:05,Surat,City Light,Vesu,18,Female,Bike,8.28,53,172.88,1.5,Card,4.9,Completed,Afternoon
+RID00410,2024-10-10 15:02,Vadodara,Manjalpur,Harni,37,Female,Bike,19.13,74,248.57,1.0,Wallet,,No Show,Night
+RID00411,2024-09-08 22:41,Vadodara,Gotri,Alkapuri,33,Male,Bike,7.3,46,158.19,2.0,UPI,3.8,Completed,Morning
+RID00412,2024-12-21 03:23,Rajkot,Kothariya,Gondal Road,50,Male,Auto,12.53,60,147.45,1.0,Card,,No Show,Evening
+RID00413,2024-11-21 11:03,Surat,City Light,Adajan,36,Female,Bike,12.07,67,108.39,1.0,UPI,3.7,Completed,Afternoon
+RID00414,2024-12-16 22:44,Surat,Athwa,Vesu,41,Male,Bike,8.74,38,223.73,2.0,Card,,No Show,Afternoon
+RID00415,2024-04-06 17:39,Surat,Adajan,Rander,51,Male,Bike,19.69,93,169.62,1.0,Wallet,4.0,Completed,Evening
+RID00416,2024-11-01 16:48,Vadodara,Fatehgunj,Manjalpur,39,Male,Auto,12.51,55,110.51,1.0,Card,4.8,Completed,Afternoon
+RID00417,2024-02-27 02:01,Ahmedabad,Satellite,Maninagar,48,Female,Bike,17.51,77,153.76,1.0,UPI,3.8,Completed,Afternoon
+RID00418,2024-02-19 03:58,Surat,Vesu,Adajan,31,Male,Bike,3.85,16,37.77,1.0,Cash,,Cancelled,Morning
+RID00419,2024-02-04 03:52,Rajkot,Kalawad Road,150 Feet Ring Road,55,Male,Bike,23.77,107,312.12,1.0,Cash,4.0,Completed,Afternoon
+RID00420,2024-02-24 05:53,Surat,Udhna,Athwa,40,Female,Bike,23.18,145,502.93,2.0,Wallet,3.9,Completed,Morning
+RID00421,2024-07-03 22:18,Surat,Althan,Rander,53,Male,Bike,19.27,85,200.3,1.2,UPI,4.0,Completed,Night
+RID00422,2024-07-27 09:54,Rajkot,Kothariya,Gondal Road,45,Male,Auto,11.97,68,331.74,2.0,UPI,3.5,Completed,Night
+RID00423,2024-03-02 04:25,Vadodara,Vadsar,Manjalpur,43,Male,Bike,17.13,80,307.09,1.5,Cash,,Cancelled,Morning
+RID00424,2024-05-22 22:49,Ahmedabad,Gota,Vastrapur,55,Female,Auto,15.28,98,143.59,1.0,Wallet,4.5,Completed,Evening
+RID00425,2024-09-11 07:40,Rajkot,Kothariya,Bhaktinagar,26,Male,Auto,7.69,44,67.16,1.0,UPI,,No Show,Night
+RID00426,2024-12-04 16:49,Ahmedabad,Satellite,Thaltej,49,Female,Bike,10.18,56,99.93,1.0,Cash,4.5,Completed,Morning
+RID00427,2024-08-08 03:24,Rajkot,Kothariya,Pedak Road,46,Female,Bike,9.25,56,112.47,1.5,Wallet,,No Show,Evening
+RID00428,2024-03-09 09:45,Vadodara,Karelibaug,Alkapuri,42,Female,Bike,14.36,87,191.11,1.0,UPI,4.0,Completed,Morning
+RID00429,2024-10-29 12:39,Vadodara,Waghodia Road,Harni,40,Female,Auto,14.49,57,149.95,1.0,Card,,Cancelled,Night
+RID00430,2024-08-07 11:22,Ahmedabad,Navrangpura,Satellite,44,Female,Bike,9.37,53,117.98,1.0,UPI,3.8,Completed,Afternoon
+RID00431,2024-01-11 17:20,Surat,Rander,Udhna,20,Female,Bike,3.04,16,26.41,1.0,Wallet,,No Show,Evening
+RID00432,2024-09-07 03:44,Vadodara,Sama,Alkapuri,31,Female,Bike,1.53,6,23.73,1.5,Wallet,,No Show,Night
+RID00433,2024-05-27 08:03,Rajkot,150 Feet Ring Road,University Road,37,Female,Bike,5.84,31,76.17,1.0,Cash,,Cancelled,Evening
+RID00434,2024-11-29 09:32,Ahmedabad,Naranpura,Satellite,37,Female,Bike,2.61,15,33.08,1.2,Card,4.6,Completed,Evening
+RID00435,2024-11-17 22:33,Surat,Piplod,Dumas,29,Female,Bike,13.37,73,182.17,1.5,Cash,,No Show,Evening
+RID00436,2024-05-03 04:47,Vadodara,Sama,Harni,37,Female,Bike,18.44,67,187.82,1.0,Wallet,,No Show,Night
+RID00437,2024-02-28 04:12,Rajkot,Gondal Road,Raiya Road,19,Male,Bike,20.77,112,251.76,1.0,Card,3.8,Completed,Night
+RID00438,2024-05-12 08:42,Vadodara,Karelibaug,Harni,53,Male,Bike,16.53,59,159.29,1.0,UPI,,Cancelled,Night
+RID00439,2024-03-12 07:07,Vadodara,Alkapuri,Fatehgunj,54,Male,Bike,15.44,94,247.92,1.2,Card,3.8,Completed,Morning
+RID00440,2024-04-21 04:06,Vadodara,Fatehgunj,Sama,29,Male,Bike,8.9,46,137.08,1.2,Card,4.9,Completed,Morning
+RID00441,2024-08-31 21:15,Vadodara,Akota,Sama,35,Male,Auto,13.8,77,136.61,1.0,Card,,Cancelled,Morning
+RID00442,2024-05-09 17:24,Vadodara,Vadsar,Sama,37,Female,Bike,1.84,10,22.35,1.0,UPI,,No Show,Morning
+RID00443,2024-06-01 06:55,Surat,Dumas,Piplod,28,Female,Bike,23.26,145,198.68,1.0,Card,,Cancelled,Morning
+RID00444,2024-03-23 22:16,Vadodara,Alkapuri,Vadsar,50,Male,Bike,12.31,58,151.47,1.0,Card,,Cancelled,Morning
+RID00445,2024-11-24 04:00,Vadodara,Harni,Waghodia Road,43,Male,Auto,17.69,102,419.24,2.0,Card,,Cancelled,Evening
+RID00446,2024-06-12 14:30,Rajkot,Aji Dam,Gondal Road,26,Female,Auto,6.99,39,175.85,2.0,Cash,4.6,Completed,Morning
+RID00447,2024-01-11 00:59,Rajkot,Raiya Road,Mavdi,53,Male,Bike,9.82,45,161.07,1.2,UPI,,Cancelled,Morning
+RID00448,2024-10-17 03:00,Vadodara,Gotri,Vadsar,51,Female,Bike,10.62,50,94.47,1.0,Wallet,3.3,Completed,Afternoon
+RID00449,2024-08-08 06:38,Vadodara,Fatehgunj,Sama,31,Female,Auto,23.71,140,230.65,1.0,Cash,3.8,Completed,Afternoon
+RID00450,2024-12-16 20:29,Vadodara,Manjalpur,Karelibaug,23,Male,Bike,7.96,34,127.83,1.5,Wallet,3.7,Completed,Afternoon
+RID00451,2024-01-27 10:59,Surat,Katargam,Dumas,33,Female,Bike,18.0,102,151.89,1.0,Card,,Cancelled,Afternoon
+RID00452,2024-05-13 05:32,Ahmedabad,Navrangpura,Gota,49,Female,Bike,24.46,134,337.75,1.0,Wallet,4.2,Completed,Night
+RID00453,2024-08-08 09:57,Surat,Vesu,Piplod,34,Female,Bike,7.25,32,79.72,1.0,Card,4.5,Completed,Night
+RID00454,2024-01-28 07:11,Vadodara,Manjalpur,Akota,20,Female,Bike,14.34,89,366.8,2.0,Card,3.4,Completed,Night
+RID00455,2024-09-09 03:54,Surat,Dumas,Piplod,27,Male,Auto,1.98,9,45.01,2.0,Card,,Cancelled,Morning
+RID00456,2024-01-03 16:49,Ahmedabad,Vastrapur,Gota,54,Male,Bike,19.0,113,380.34,1.5,Wallet,4.2,Completed,Afternoon
+RID00457,2024-02-24 10:09,Ahmedabad,Vastrapur,Thaltej,19,Male,Bike,1.62,8,28.29,2.0,Wallet,4.2,Completed,Morning
+RID00458,2024-01-25 20:18,Vadodara,Karelibaug,Sama,38,Male,Bike,24.27,132,289.77,1.2,UPI,3.4,Completed,Morning
+RID00459,2024-07-25 09:41,Vadodara,Fatehgunj,Karelibaug,27,Male,Bike,6.76,39,69.24,1.2,Card,3.3,Completed,Evening
+RID00460,2024-08-31 08:36,Vadodara,Akota,Sama,45,Male,Auto,16.97,101,234.17,1.5,Wallet,4.8,Completed,Afternoon
+RID00461,2024-09-10 16:40,Rajkot,Aji Dam,150 Feet Ring Road,51,Male,Bike,3.23,16,46.74,1.2,Card,,Cancelled,Night
+RID00462,2024-01-25 17:04,Vadodara,Akota,Fatehgunj,20,Male,Auto,4.57,17,59.63,1.0,Wallet,3.6,Completed,Night
+RID00463,2024-04-03 12:02,Vadodara,Fatehgunj,Waghodia Road,23,Female,Auto,7.12,26,86.48,1.5,Card,3.4,Completed,Evening
+RID00464,2024-11-05 08:55,Rajkot,Aji Dam,Kothariya,24,Female,Bike,20.39,92,188.94,1.0,UPI,,No Show,Night
+RID00465,2024-11-11 11:44,Ahmedabad,Chandkheda,Satellite,43,Female,Auto,16.74,81,265.42,1.2,UPI,3.6,Completed,Morning
+RID00466,2024-03-15 20:15,Surat,Athwa,Adajan,45,Male,Bike,20.58,115,270.71,1.0,UPI,4.0,Completed,Afternoon
+RID00467,2024-09-05 15:01,Rajkot,Kothariya,150 Feet Ring Road,46,Male,Auto,1.52,6,18.9,1.0,Cash,,Cancelled,Night
+RID00468,2024-10-23 19:46,Rajkot,Aji Dam,Bhaktinagar,53,Female,Auto,1.19,6,25.21,2.0,UPI,4.7,Completed,Morning
+RID00469,2024-11-27 13:56,Vadodara,Akota,Waghodia Road,48,Male,Bike,18.14,92,249.43,1.2,Wallet,3.5,Completed,Night
+RID00470,2024-12-16 10:58,Rajkot,Kothariya,Bhaktinagar,47,Male,Bike,7.91,32,84.07,1.0,Card,4.2,Completed,Morning
+RID00471,2024-04-12 05:38,Vadodara,Akota,Vadsar,49,Male,Auto,15.92,69,271.19,2.0,Wallet,3.3,Completed,Night
+RID00472,2024-03-30 16:02,Vadodara,Sama,Gotri,22,Female,Bike,2.13,7,21.6,1.0,Wallet,,No Show,Afternoon
+RID00473,2024-10-12 08:57,Ahmedabad,Naranpura,Vastrapur,27,Male,Bike,6.38,27,81.09,1.0,UPI,,No Show,Morning
+RID00474,2024-09-16 03:10,Vadodara,Karelibaug,Fatehgunj,25,Male,Bike,15.63,94,202.28,1.0,Card,,No Show,Morning
+RID00475,2024-07-31 00:15,Surat,Udhna,Althan,48,Female,Bike,4.7,21,41.07,1.0,Card,3.9,Completed,Night
+RID00476,2024-04-26 04:51,Surat,Vesu,Katargam,45,Female,Auto,9.66,53,120.94,1.0,Wallet,,Cancelled,Evening
+RID00477,2024-06-22 10:25,Vadodara,Waghodia Road,Vadsar,28,Female,Bike,4.49,15,92.01,1.5,UPI,,Cancelled,Morning
+RID00478,2024-06-09 11:00,Vadodara,Alkapuri,Gotri,35,Male,Bike,24.34,115,594.13,2.0,Wallet,,No Show,Morning
+RID00479,2024-10-02 10:24,Vadodara,Gotri,Harni,26,Female,Bike,22.3,130,338.58,1.2,Cash,3.2,Completed,Night
+RID00480,2024-05-03 09:46,Ahmedabad,Thaltej,Naranpura,45,Male,Bike,9.18,49,74.98,1.0,UPI,,No Show,Evening
+RID00481,2024-04-30 23:37,Rajkot,Raiya Road,Aji Dam,54,Male,Bike,2.15,11,22.99,1.0,Card,3.9,Completed,Evening
+RID00482,2024-08-20 03:09,Rajkot,Raiya Road,150 Feet Ring Road,45,Female,Bike,18.7,71,322.41,1.5,UPI,,No Show,Night
+RID00483,2024-05-15 18:31,Ahmedabad,Navrangpura,Prahlad Nagar,45,Female,Auto,6.15,22,137.24,2.0,Wallet,,Cancelled,Afternoon
+RID00484,2024-12-21 06:29,Vadodara,Manjalpur,Gotri,48,Male,Bike,18.07,70,400.4,2.0,Cash,,Cancelled,Afternoon
+RID00485,2024-07-10 09:18,Rajkot,Gondal Road,Kothariya,49,Male,Bike,9.87,43,132.06,1.5,Cash,3.6,Completed,Morning
+RID00486,2024-02-04 01:26,Surat,City Light,Piplod,48,Female,Bike,22.34,92,488.48,2.0,Wallet,4.1,Completed,Morning
+RID00487,2024-06-15 02:51,Rajkot,Bhaktinagar,Pedak Road,44,Female,Bike,13.11,64,188.84,1.2,Cash,4.7,Completed,Afternoon
+RID00488,2024-10-14 20:07,Vadodara,Vadsar,Harni,53,Male,Bike,18.66,101,228.46,1.0,Cash,,Cancelled,Morning
+RID00489,2024-01-10 08:50,Ahmedabad,Naranpura,Thaltej,31,Male,Bike,13.06,46,355.68,2.0,Wallet,,Cancelled,Afternoon
+RID00490,2024-07-31 00:55,Ahmedabad,Thaltej,Gota,51,Female,Bike,2.08,12,20.88,1.0,Wallet,,No Show,Night
+RID00491,2024-06-06 13:43,Rajkot,Gondal Road,150 Feet Ring Road,28,Male,Bike,5.04,19,63.55,1.0,Card,,No Show,Morning
+RID00492,2024-01-27 06:15,Surat,Adajan,Vesu,55,Male,Bike,3.37,13,32.18,1.0,Wallet,,Cancelled,Evening
+RID00493,2024-01-10 08:35,Vadodara,Fatehgunj,Vadsar,55,Male,Bike,12.16,57,119.27,1.2,Cash,4.8,Completed,Morning
+RID00494,2024-10-02 13:58,Surat,Udhna,Dumas,53,Female,Bike,21.31,106,218.21,1.0,UPI,4.6,Completed,Night
+RID00495,2024-11-19 06:37,Ahmedabad,Prahlad Nagar,Maninagar,50,Female,Auto,2.44,15,28.27,1.0,UPI,5.0,Completed,Afternoon
+RID00496,2024-04-17 19:32,Surat,Althan,Vesu,38,Female,Bike,10.49,40,129.56,1.0,Card,4.8,Completed,Evening
+RID00497,2024-01-02 19:30,Vadodara,Sama,Gotri,18,Male,Bike,6.05,38,48.98,1.0,Cash,4.3,Completed,Evening
+RID00498,2024-12-09 14:43,Vadodara,Waghodia Road,Karelibaug,25,Female,Bike,2.95,18,49.94,2.0,Wallet,,No Show,Night
+RID00499,2024-12-14 22:22,Rajkot,Bhaktinagar,150 Feet Ring Road,30,Male,Bike,12.1,76,116.98,1.2,Card,4.5,Completed,Morning
+RID00500,2024-11-22 12:07,Surat,Rander,Althan,35,Female,Bike,7.74,48,180.13,2.0,Cash,3.4,Completed,Evening
+RID00501,2024-09-24 23:50,Surat,City Light,Athwa,35,Male,Bike,4.08,15,55.49,1.0,UPI,,No Show,Morning
+RID00502,2024-08-09 13:17,Rajkot,Pedak Road,Kothariya,25,Female,Bike,16.38,103,214.96,1.0,Wallet,,Cancelled,Morning
+RID00503,2024-02-11 18:51,Rajkot,Pedak Road,Kalawad Road,19,Male,Auto,7.67,36,91.1,1.2,Wallet,3.4,Completed,Afternoon
+RID00504,2024-10-30 20:59,Ahmedabad,Vastrapur,Maninagar,39,Female,Auto,8.46,45,69.09,1.0,Cash,4.6,Completed,Afternoon
+RID00505,2024-11-16 14:37,Ahmedabad,Prahlad Nagar,Vastrapur,25,Male,Auto,20.72,104,283.06,1.0,UPI,4.5,Completed,Evening
+RID00506,2024-12-12 01:35,Ahmedabad,Chandkheda,Gota,21,Female,Auto,2.49,14,24.42,1.0,Wallet,3.1,Completed,Morning
+RID00507,2024-11-13 19:06,Vadodara,Fatehgunj,Karelibaug,39,Male,Auto,19.9,106,246.05,1.2,Wallet,,No Show,Afternoon
+RID00508,2024-03-05 20:32,Rajkot,Aji Dam,Mavdi,34,Female,Bike,1.29,7,24.65,1.5,Wallet,4.8,Completed,Morning
+RID00509,2024-11-29 11:19,Vadodara,Harni,Karelibaug,55,Male,Auto,4.3,15,42.44,1.0,Cash,4.0,Completed,Afternoon
+RID00510,2024-10-13 01:27,Vadodara,Sama,Akota,40,Male,Bike,24.29,122,586.35,2.0,Cash,3.5,Completed,Evening
+RID00511,2024-11-11 09:26,Surat,Vesu,Piplod,39,Male,Bike,17.67,113,322.15,1.5,UPI,,Cancelled,Afternoon
+RID00512,2024-06-18 23:24,Vadodara,Alkapuri,Waghodia Road,31,Female,Bike,16.33,91,230.13,1.2,Cash,4.0,Completed,Afternoon
+RID00513,2024-01-16 06:12,Ahmedabad,Gota,Navrangpura,36,Male,Bike,1.72,6,18.31,1.0,Cash,3.1,Completed,Morning
+RID00514,2024-03-11 12:41,Rajkot,150 Feet Ring Road,Bhaktinagar,25,Female,Bike,5.7,22,76.74,1.0,Cash,4.7,Completed,Afternoon
+RID00515,2024-03-07 06:12,Rajkot,Kothariya,Mavdi,52,Female,Bike,16.86,106,336.1,1.5,Card,3.2,Completed,Evening
+RID00516,2024-01-28 20:50,Rajkot,Aji Dam,Bhaktinagar,35,Male,Bike,19.31,101,282.85,1.5,Wallet,3.7,Completed,Afternoon
+RID00517,2024-08-25 05:20,Surat,Vesu,Althan,41,Female,Bike,13.21,76,330.43,2.0,Wallet,4.0,Completed,Morning
+RID00518,2024-07-12 18:10,Vadodara,Sama,Karelibaug,41,Female,Bike,6.27,25,65.05,1.0,UPI,3.9,Completed,Morning
+RID00519,2024-08-06 14:29,Surat,Vesu,Katargam,45,Female,Bike,9.44,49,125.44,1.2,Card,,No Show,Night
+RID00520,2024-09-13 16:34,Vadodara,Vadsar,Sama,23,Female,Bike,5.31,22,89.8,2.0,Cash,3.6,Completed,Night
+RID00521,2024-12-15 08:12,Ahmedabad,Satellite,Bopal,26,Female,Bike,14.1,63,281.31,2.0,UPI,4.5,Completed,Evening
+RID00522,2024-07-22 07:14,Rajkot,Raiya Road,Bhaktinagar,31,Female,Bike,20.72,119,224.44,1.0,Cash,,Cancelled,Night
+RID00523,2024-10-12 00:23,Vadodara,Karelibaug,Vadsar,26,Male,Auto,21.3,101,447.56,2.0,Card,3.9,Completed,Morning
+RID00524,2024-01-12 18:50,Ahmedabad,Prahlad Nagar,Gota,20,Male,Bike,11.06,61,166.92,1.2,Cash,3.7,Completed,Evening
+RID00525,2024-08-19 20:57,Rajkot,Aji Dam,Bhaktinagar,37,Male,Bike,23.77,87,260.43,1.2,Cash,3.7,Completed,Night
+RID00526,2024-05-25 06:14,Ahmedabad,Thaltej,Bopal,36,Male,Auto,12.73,51,171.45,1.0,Wallet,,No Show,Morning
+RID00527,2024-08-02 15:47,Ahmedabad,Gota,Naranpura,22,Female,Bike,8.84,55,94.86,1.2,Cash,3.3,Completed,Morning
+RID00528,2024-05-21 06:00,Surat,Rander,Katargam,27,Female,Auto,4.81,25,55.44,1.0,UPI,,Cancelled,Night
+RID00529,2024-05-27 20:56,Vadodara,Harni,Gotri,47,Female,Bike,22.1,107,272.97,1.5,Card,,No Show,Evening
+RID00530,2024-02-18 12:44,Vadodara,Harni,Manjalpur,20,Male,Bike,5.31,28,68.48,1.2,Cash,4.4,Completed,Night
+RID00531,2024-02-23 16:49,Rajkot,Pedak Road,Raiya Road,38,Female,Bike,22.81,107,298.61,1.5,Wallet,3.2,Completed,Morning
+RID00532,2024-06-24 23:25,Surat,Udhna,Rander,30,Female,Auto,1.64,8,40.99,2.0,UPI,,Cancelled,Morning
+RID00533,2024-08-12 04:30,Ahmedabad,Maninagar,Satellite,35,Male,Bike,17.09,83,172.46,1.2,Cash,4.4,Completed,Afternoon
+RID00534,2024-03-19 14:22,Ahmedabad,Naranpura,Satellite,29,Male,Bike,3.98,22,33.69,1.0,UPI,4.4,Completed,Afternoon
+RID00535,2024-04-13 07:23,Surat,Dumas,Adajan,33,Male,Auto,17.57,84,211.58,1.5,UPI,,Cancelled,Morning
+RID00536,2024-12-06 05:46,Ahmedabad,Chandkheda,Navrangpura,28,Male,Bike,20.69,114,192.9,1.0,Wallet,4.6,Completed,Morning
+RID00537,2024-02-24 11:20,Ahmedabad,Gota,Chandkheda,29,Male,Bike,5.97,30,62.5,1.2,Wallet,,No Show,Afternoon
+RID00538,2024-01-23 02:56,Rajkot,Kalawad Road,Kothariya,31,Female,Bike,6.28,34,74.73,1.0,Card,,Cancelled,Afternoon
+RID00539,2024-11-21 22:20,Vadodara,Fatehgunj,Harni,48,Male,Bike,24.02,127,585.03,2.0,Card,3.7,Completed,Afternoon
+RID00540,2024-04-29 00:39,Ahmedabad,Naranpura,Prahlad Nagar,25,Female,Bike,16.37,68,300.25,1.5,Cash,,No Show,Night
+RID00541,2024-11-02 14:47,Vadodara,Gotri,Fatehgunj,39,Male,Bike,9.99,43,102.44,1.0,Card,3.5,Completed,Morning
+RID00542,2024-01-28 21:15,Rajkot,Kalawad Road,Aji Dam,32,Female,Bike,19.01,79,379.73,2.0,Card,3.4,Completed,Night
+RID00543,2024-03-05 02:11,Surat,Dumas,Adajan,55,Male,Bike,2.68,10,74.78,2.0,Cash,,Cancelled,Morning
+RID00544,2024-08-17 20:12,Ahmedabad,Chandkheda,Thaltej,35,Female,Bike,18.32,77,213.16,1.0,UPI,3.6,Completed,Evening
+RID00545,2024-09-03 00:48,Rajkot,Bhaktinagar,Kothariya,42,Female,Bike,11.59,58,245.72,2.0,UPI,,Cancelled,Afternoon
+RID00546,2024-07-11 17:38,Rajkot,Aji Dam,Pedak Road,48,Male,Bike,18.44,78,217.63,1.2,Card,,No Show,Afternoon
+RID00547,2024-07-31 12:47,Surat,Dumas,Rander,41,Female,Auto,1.1,6,27.17,2.0,Wallet,3.8,Completed,Afternoon
+RID00548,2024-06-27 16:45,Rajkot,Aji Dam,Gondal Road,49,Female,Auto,24.82,96,334.11,1.5,UPI,4.9,Completed,Night
+RID00549,2024-12-23 21:41,Vadodara,Akota,Gotri,27,Female,Bike,1.83,10,44.8,2.0,Wallet,,Cancelled,Afternoon
+RID00550,2024-02-11 16:58,Surat,Udhna,Rander,30,Female,Auto,3.8,14,102.61,2.0,Cash,4.4,Completed,Afternoon
+RID00551,2024-11-21 18:49,Vadodara,Sama,Vadsar,40,Male,Bike,8.39,39,221.77,2.0,Card,,No Show,Night
+RID00552,2024-12-01 09:46,Surat,Piplod,Udhna,45,Male,Auto,20.59,72,260.31,1.0,Cash,4.0,Completed,Morning
+RID00553,2024-04-05 06:03,Rajkot,150 Feet Ring Road,Mavdi,29,Male,Bike,5.37,34,73.48,1.2,Card,,Cancelled,Afternoon
+RID00554,2024-09-01 15:43,Vadodara,Karelibaug,Fatehgunj,24,Male,Bike,8.04,37,67.42,1.0,UPI,4.2,Completed,Afternoon
+RID00555,2024-08-30 10:38,Rajkot,Kalawad Road,Gondal Road,45,Female,Bike,13.54,47,225.86,1.5,Card,4.9,Completed,Morning
+RID00556,2024-01-02 14:55,Rajkot,University Road,Mavdi,43,Male,Bike,10.08,37,133.44,1.0,UPI,,Cancelled,Evening
+RID00557,2024-11-22 10:01,Ahmedabad,Thaltej,Maninagar,41,Male,Bike,11.85,65,157.69,1.2,Card,3.0,Completed,Afternoon
+RID00558,2024-07-16 09:38,Vadodara,Gotri,Waghodia Road,30,Male,Bike,20.06,91,335.11,1.2,UPI,,No Show,Night
+RID00559,2024-12-05 17:15,Surat,Dumas,Vesu,33,Male,Auto,24.69,120,406.8,1.2,Cash,,No Show,Evening
+RID00560,2024-12-06 15:57,Ahmedabad,Satellite,Prahlad Nagar,25,Male,Bike,23.3,104,352.24,1.2,Wallet,4.4,Completed,Morning
+RID00561,2024-04-24 08:07,Ahmedabad,Gota,Vastrapur,36,Male,Auto,10.05,56,248.24,2.0,UPI,4.6,Completed,Morning
+RID00562,2024-06-08 01:37,Ahmedabad,Gota,Vastrapur,52,Male,Bike,9.83,59,135.2,1.2,Wallet,,No Show,Morning
+RID00563,2024-06-10 04:52,Vadodara,Vadsar,Akota,36,Male,Auto,16.93,89,175.6,1.0,Wallet,,No Show,Afternoon
+RID00564,2024-04-20 15:18,Vadodara,Manjalpur,Vadsar,42,Male,Auto,15.37,68,268.69,2.0,Card,4.3,Completed,Afternoon
+RID00565,2024-10-07 12:21,Surat,Rander,Udhna,45,Female,Bike,21.56,122,299.82,1.0,Card,5.0,Completed,Morning
+RID00566,2024-10-24 01:54,Vadodara,Akota,Fatehgunj,37,Female,Bike,17.71,72,275.28,1.5,Cash,3.6,Completed,Evening
+RID00567,2024-10-21 03:43,Surat,Dumas,Althan,27,Female,Bike,6.03,35,74.84,1.0,Wallet,3.7,Completed,Evening
+RID00568,2024-03-17 20:46,Surat,Adajan,Athwa,43,Male,Auto,5.31,19,94.79,1.5,UPI,,Cancelled,Evening
+RID00569,2024-11-28 12:17,Ahmedabad,Vastrapur,Prahlad Nagar,46,Female,Bike,17.51,111,436.74,2.0,UPI,4.6,Completed,Night
+RID00570,2024-05-20 22:47,Ahmedabad,Satellite,Bopal,24,Male,Auto,16.39,102,133.38,1.0,Wallet,,Cancelled,Morning
+RID00571,2024-10-01 16:31,Vadodara,Akota,Sama,22,Male,Bike,8.81,49,120.38,1.5,Cash,3.8,Completed,Afternoon
+RID00572,2024-11-30 05:05,Ahmedabad,Bopal,Vastrapur,53,Female,Bike,11.73,52,102.91,1.0,UPI,,No Show,Morning
+RID00573,2024-09-22 09:42,Ahmedabad,Satellite,Naranpura,52,Female,Bike,24.19,97,387.06,2.0,Cash,3.1,Completed,Evening
+RID00574,2024-05-01 01:12,Vadodara,Vadsar,Harni,27,Female,Bike,13.92,57,166.7,1.0,Cash,,No Show,Evening
+RID00575,2024-05-13 12:41,Surat,City Light,Althan,28,Female,Bike,9.62,37,151.98,1.5,Wallet,,No Show,Afternoon
+RID00576,2024-07-09 18:42,Ahmedabad,Maninagar,Prahlad Nagar,50,Male,Bike,5.89,31,82.3,1.0,Wallet,,No Show,Afternoon
+RID00577,2024-07-27 02:21,Surat,Katargam,Dumas,23,Female,Bike,24.14,102,211.17,1.0,Card,4.4,Completed,Night
+RID00578,2024-03-04 05:33,Rajkot,150 Feet Ring Road,Raiya Road,37,Female,Bike,3.35,21,34.41,1.0,UPI,4.6,Completed,Evening
+RID00579,2024-04-02 11:51,Rajkot,Aji Dam,Raiya Road,52,Female,Auto,3.38,12,46.24,1.0,Wallet,,No Show,Evening
+RID00580,2024-05-07 21:38,Surat,Udhna,Adajan,44,Female,Bike,4.42,22,36.76,1.0,Cash,4.4,Completed,Afternoon
+RID00581,2024-02-14 09:26,Vadodara,Vadsar,Waghodia Road,38,Male,Bike,23.86,120,634.12,2.0,UPI,3.6,Completed,Evening
+RID00582,2024-08-05 21:32,Ahmedabad,Vastrapur,Satellite,26,Female,Bike,2.38,13,48.47,1.5,Wallet,,No Show,Afternoon
+RID00583,2024-03-27 21:59,Ahmedabad,Chandkheda,Navrangpura,51,Male,Bike,18.14,101,365.35,2.0,Cash,4.2,Completed,Afternoon
+RID00584,2024-05-07 17:54,Ahmedabad,Gota,Bopal,25,Female,Bike,11.15,51,154.07,1.0,Card,4.8,Completed,Evening
+RID00585,2024-11-12 15:03,Vadodara,Sama,Vadsar,40,Male,Bike,18.71,97,253.3,1.0,Wallet,4.9,Completed,Afternoon
+RID00586,2024-04-11 02:33,Rajkot,Raiya Road,Bhaktinagar,50,Male,Bike,9.39,53,114.11,1.2,Wallet,3.9,Completed,Morning
+RID00587,2024-05-17 03:28,Ahmedabad,Prahlad Nagar,Navrangpura,46,Male,Bike,6.43,30,65.5,1.0,Cash,4.1,Completed,Afternoon
+RID00588,2024-03-23 21:12,Rajkot,Bhaktinagar,Kalawad Road,48,Female,Bike,3.66,15,37.94,1.0,UPI,4.8,Completed,Evening
+RID00589,2024-02-25 00:08,Vadodara,Karelibaug,Harni,27,Female,Auto,8.8,50,116.28,1.2,UPI,3.3,Completed,Night
+RID00590,2024-08-07 07:39,Surat,Adajan,Piplod,27,Male,Bike,18.7,89,181.27,1.0,Cash,,No Show,Night
+RID00591,2024-04-06 18:40,Rajkot,Gondal Road,University Road,27,Male,Bike,5.76,32,70.31,1.0,UPI,,Cancelled,Afternoon
+RID00592,2024-09-25 09:44,Surat,Piplod,Adajan,32,Male,Bike,23.3,111,321.47,1.5,Card,3.8,Completed,Evening
+RID00593,2024-01-25 05:02,Vadodara,Karelibaug,Alkapuri,18,Male,Auto,8.3,35,113.36,1.0,Card,3.5,Completed,Night
+RID00594,2024-02-27 03:42,Surat,Udhna,Althan,18,Male,Bike,3.42,13,41.78,1.2,Card,,No Show,Evening
+RID00595,2024-11-04 03:02,Rajkot,University Road,Aji Dam,55,Male,Bike,16.61,68,169.89,1.2,Cash,3.3,Completed,Evening
+RID00596,2024-04-08 13:35,Vadodara,Fatehgunj,Manjalpur,34,Female,Bike,18.41,119,206.22,1.0,Card,3.1,Completed,Evening
+RID00597,2024-11-02 08:44,Vadodara,Fatehgunj,Karelibaug,26,Female,Bike,11.06,69,211.44,1.5,UPI,,Cancelled,Morning
+RID00598,2024-10-14 12:25,Ahmedabad,Vastrapur,Prahlad Nagar,35,Male,Auto,21.89,140,232.61,1.0,Cash,,No Show,Night
+RID00599,2024-05-31 22:17,Ahmedabad,Bopal,Maninagar,53,Male,Bike,11.93,67,170.95,1.5,Cash,,No Show,Morning
+RID00600,2024-01-27 20:15,Surat,Adajan,City Light,31,Male,Bike,1.94,7,26.31,1.0,UPI,4.7,Completed,Afternoon
+RID00601,2024-05-30 10:03,Rajkot,Aji Dam,University Road,18,Female,Auto,23.71,145,292.4,1.0,Cash,4.8,Completed,Evening
+RID00602,2024-11-30 08:55,Rajkot,150 Feet Ring Road,University Road,53,Male,Auto,16.78,102,217.43,1.5,Wallet,,No Show,Morning
+RID00603,2024-08-10 11:09,Surat,Katargam,Udhna,48,Male,Bike,16.12,97,172.82,1.2,Wallet,,No Show,Afternoon
+RID00604,2024-03-31 12:43,Surat,Dumas,Athwa,30,Male,Bike,14.67,92,174.36,1.0,Cash,3.6,Completed,Afternoon
+RID00605,2024-11-04 03:24,Ahmedabad,Chandkheda,Vastrapur,42,Male,Bike,3.41,17,85.27,2.0,UPI,,Cancelled,Night
+RID00606,2024-02-24 17:47,Ahmedabad,Navrangpura,Vastrapur,39,Male,Bike,7.42,46,89.94,1.5,Cash,4.9,Completed,Afternoon
+RID00607,2024-03-04 00:52,Surat,Dumas,Althan,20,Male,Bike,8.96,35,100.9,1.0,Card,4.3,Completed,Afternoon
+RID00608,2024-04-25 21:24,Ahmedabad,Thaltej,Chandkheda,25,Female,Bike,22.89,81,283.26,1.2,Cash,4.3,Completed,Afternoon
+RID00609,2024-11-05 04:11,Ahmedabad,Vastrapur,Satellite,45,Female,Bike,2.83,12,38.32,1.0,Cash,4.8,Completed,Evening
+RID00610,2024-12-30 02:50,Vadodara,Manjalpur,Vadsar,18,Male,Bike,22.01,94,316.16,1.2,Cash,4.6,Completed,Evening
+RID00611,2024-03-15 02:20,Rajkot,150 Feet Ring Road,Kothariya,26,Male,Bike,20.55,78,339.26,1.2,Wallet,,Cancelled,Night
+RID00612,2024-07-15 13:35,Rajkot,University Road,Pedak Road,49,Female,Bike,17.64,83,352.83,2.0,Cash,,Cancelled,Night
+RID00613,2024-02-26 01:58,Vadodara,Fatehgunj,Karelibaug,40,Female,Auto,6.64,23,67.56,1.0,Cash,4.9,Completed,Afternoon
+RID00614,2024-01-14 22:27,Rajkot,Kothariya,150 Feet Ring Road,41,Male,Bike,6.06,25,106.98,2.0,UPI,3.8,Completed,Night
+RID00615,2024-04-03 15:47,Ahmedabad,Prahlad Nagar,Bopal,26,Female,Auto,9.77,36,78.89,1.0,Wallet,3.3,Completed,Morning
+RID00616,2024-01-06 12:53,Vadodara,Vadsar,Waghodia Road,45,Female,Bike,3.67,13,60.13,2.0,Card,4.0,Completed,Morning
+RID00617,2024-04-22 12:11,Rajkot,Mavdi,Kothariya,53,Male,Auto,24.35,123,303.37,1.0,Wallet,4.2,Completed,Afternoon
+RID00618,2024-07-04 19:49,Vadodara,Vadsar,Karelibaug,39,Male,Bike,2.31,10,25.41,1.2,Cash,3.2,Completed,Night
+RID00619,2024-01-17 07:17,Rajkot,150 Feet Ring Road,Aji Dam,23,Male,Bike,6.09,21,55.58,1.0,Wallet,4.3,Completed,Morning
+RID00620,2024-07-19 23:22,Ahmedabad,Navrangpura,Chandkheda,26,Male,Bike,1.2,5,16.5,1.0,Card,3.6,Completed,Morning
+RID00621,2024-03-18 21:29,Vadodara,Waghodia Road,Fatehgunj,23,Male,Bike,15.09,70,299.07,1.5,Cash,3.6,Completed,Afternoon
+RID00622,2024-01-21 22:49,Surat,Athwa,Rander,42,Male,Auto,19.85,89,233.06,1.0,Cash,,Cancelled,Evening
+RID00623,2024-08-20 10:10,Ahmedabad,Bopal,Thaltej,36,Male,Bike,4.42,27,87.55,1.5,UPI,4.0,Completed,Morning
+RID00624,2024-08-14 20:59,Rajkot,Aji Dam,University Road,26,Male,Auto,2.71,15,31.05,1.2,Wallet,5.0,Completed,Evening
+RID00625,2024-07-10 02:43,Ahmedabad,Gota,Maninagar,44,Female,Bike,21.57,134,229.61,1.0,Card,,Cancelled,Night
+RID00626,2024-02-07 07:24,Ahmedabad,Naranpura,Navrangpura,47,Male,Auto,1.19,7,12.2,1.0,Card,,No Show,Afternoon
+RID00627,2024-02-03 10:21,Vadodara,Karelibaug,Harni,49,Male,Bike,3.06,17,46.3,1.2,Wallet,3.8,Completed,Night
+RID00628,2024-11-03 12:03,Ahmedabad,Maninagar,Thaltej,41,Female,Bike,4.74,23,87.98,2.0,Wallet,,No Show,Morning
+RID00629,2024-07-26 02:19,Surat,Adajan,Udhna,46,Female,Bike,7.48,40,66.2,1.0,Cash,,Cancelled,Morning
+RID00630,2024-09-03 15:34,Rajkot,150 Feet Ring Road,Kalawad Road,28,Female,Auto,9.21,53,84.65,1.0,Card,,Cancelled,Morning
+RID00631,2024-08-22 04:31,Vadodara,Alkapuri,Harni,38,Male,Bike,18.35,96,182.44,1.0,Wallet,3.0,Completed,Afternoon
+RID00632,2024-04-06 13:44,Rajkot,Pedak Road,Kalawad Road,52,Male,Bike,16.22,87,208.87,1.5,Wallet,4.5,Completed,Night
+RID00633,2024-09-14 03:44,Surat,Katargam,Rander,49,Female,Bike,23.92,110,193.68,1.0,Wallet,,No Show,Afternoon
+RID00634,2024-03-31 17:38,Vadodara,Vadsar,Akota,28,Female,Bike,24.38,109,262.16,1.0,Wallet,,No Show,Night
+RID00635,2024-11-15 17:06,Rajkot,Bhaktinagar,Raiya Road,46,Male,Auto,20.34,77,329.45,2.0,Card,3.2,Completed,Morning
+RID00636,2024-08-25 13:58,Vadodara,Gotri,Sama,43,Male,Bike,10.15,41,166.91,1.2,Card,,No Show,Night
+RID00637,2024-07-31 01:00,Surat,Althan,Udhna,19,Male,Bike,8.38,52,121.07,1.2,Card,4.8,Completed,Evening
+RID00638,2024-10-22 13:08,Rajkot,University Road,150 Feet Ring Road,42,Male,Bike,14.34,67,255.25,1.5,Wallet,4.6,Completed,Night
+RID00639,2024-11-17 08:53,Rajkot,Pedak Road,150 Feet Ring Road,53,Male,Auto,3.39,20,44.29,1.5,Card,4.7,Completed,Night
+RID00640,2024-10-19 12:01,Surat,Vesu,Athwa,26,Female,Bike,1.28,7,10.45,1.0,Card,,Cancelled,Morning
+RID00641,2024-03-14 20:01,Surat,Rander,Udhna,55,Male,Bike,13.85,58,209.78,1.2,UPI,3.5,Completed,Evening
+RID00642,2024-04-16 12:06,Vadodara,Harni,Fatehgunj,49,Male,Bike,7.78,48,65.85,1.0,Wallet,4.8,Completed,Morning
+RID00643,2024-06-01 00:57,Ahmedabad,Prahlad Nagar,Satellite,29,Male,Bike,10.01,44,154.37,1.2,UPI,,Cancelled,Afternoon
+RID00644,2024-09-22 16:48,Rajkot,University Road,Pedak Road,27,Male,Bike,13.52,57,123.8,1.0,Card,4.1,Completed,Morning
+RID00645,2024-02-17 11:45,Ahmedabad,Vastrapur,Navrangpura,53,Female,Auto,6.27,35,60.23,1.0,Wallet,3.4,Completed,Evening
+RID00646,2024-10-27 09:10,Vadodara,Akota,Harni,31,Female,Auto,7.0,28,135.61,2.0,Wallet,3.2,Completed,Night
+RID00647,2024-11-19 02:28,Vadodara,Akota,Sama,28,Male,Bike,3.58,16,40.82,1.0,Card,,No Show,Evening
+RID00648,2024-07-02 07:04,Vadodara,Sama,Harni,31,Female,Bike,1.72,6,18.19,1.0,Card,,Cancelled,Evening
+RID00649,2024-10-14 02:24,Surat,Katargam,Vesu,36,Male,Bike,17.52,98,189.08,1.0,Cash,4.8,Completed,Morning
+RID00650,2024-04-11 06:03,Ahmedabad,Thaltej,Maninagar,49,Female,Bike,22.42,106,266.53,1.2,UPI,,No Show,Morning
+RID00651,2024-05-25 00:41,Rajkot,Bhaktinagar,Gondal Road,54,Male,Bike,5.11,22,57.75,1.2,Wallet,,Cancelled,Morning
+RID00652,2024-02-18 13:46,Rajkot,150 Feet Ring Road,Kothariya,37,Female,Auto,23.03,83,372.98,2.0,Card,,No Show,Morning
+RID00653,2024-11-24 03:53,Rajkot,Bhaktinagar,Gondal Road,41,Male,Auto,15.7,73,436.58,2.0,UPI,,Cancelled,Evening
+RID00654,2024-07-07 17:00,Surat,Adajan,Vesu,21,Female,Bike,24.84,151,527.31,2.0,UPI,3.2,Completed,Afternoon
+RID00655,2024-10-25 14:07,Ahmedabad,Navrangpura,Gota,26,Female,Bike,8.9,47,102.74,1.2,Cash,4.8,Completed,Morning
+RID00656,2024-04-25 02:16,Vadodara,Karelibaug,Fatehgunj,36,Male,Auto,12.47,61,123.85,1.0,Card,,No Show,Afternoon
+RID00657,2024-04-06 15:06,Surat,Rander,Vesu,39,Male,Auto,2.45,8,26.48,1.0,Card,,Cancelled,Morning
+RID00658,2024-04-06 02:17,Rajkot,Kothariya,150 Feet Ring Road,45,Male,Bike,6.25,28,99.05,1.2,Card,4.6,Completed,Morning
+RID00659,2024-08-19 11:16,Ahmedabad,Bopal,Thaltej,25,Male,Auto,6.77,41,65.0,1.0,Card,4.3,Completed,Morning
+RID00660,2024-01-26 20:24,Vadodara,Gotri,Manjalpur,45,Male,Bike,11.34,51,131.12,1.2,Card,,No Show,Night
+RID00661,2024-02-26 07:07,Surat,Piplod,Athwa,21,Male,Bike,15.58,78,188.31,1.0,Card,,No Show,Evening
+RID00662,2024-12-20 08:31,Surat,Vesu,City Light,31,Male,Auto,6.44,34,134.3,2.0,Cash,3.2,Completed,Morning
+RID00663,2024-12-18 07:10,Rajkot,Raiya Road,University Road,38,Male,Bike,5.44,33,88.62,1.5,Cash,4.7,Completed,Morning
+RID00664,2024-03-28 21:48,Surat,Katargam,Althan,18,Female,Bike,16.98,81,153.93,1.0,Wallet,4.8,Completed,Afternoon
+RID00665,2024-03-26 04:49,Ahmedabad,Prahlad Nagar,Vastrapur,24,Male,Bike,2.08,7,58.0,2.0,Card,4.1,Completed,Night
+RID00666,2024-06-03 22:21,Rajkot,Kothariya,Pedak Road,51,Female,Bike,7.18,35,77.2,1.0,UPI,,No Show,Evening
+RID00667,2024-05-05 18:47,Rajkot,Pedak Road,Kalawad Road,45,Female,Bike,21.55,118,218.59,1.0,Cash,,Cancelled,Afternoon
+RID00668,2024-12-13 11:56,Ahmedabad,Vastrapur,Prahlad Nagar,39,Female,Bike,22.05,122,368.43,1.2,Wallet,3.5,Completed,Morning
+RID00669,2024-10-17 11:18,Rajkot,Raiya Road,Mavdi,25,Male,Auto,13.48,61,176.68,1.5,Wallet,,No Show,Morning
+RID00670,2024-01-08 14:02,Surat,Dumas,Athwa,31,Female,Bike,14.4,57,168.13,1.2,UPI,,No Show,Evening
+RID00671,2024-05-25 16:42,Ahmedabad,Prahlad Nagar,Maninagar,53,Male,Bike,9.45,56,89.86,1.0,UPI,,Cancelled,Morning
+RID00672,2024-05-07 21:40,Rajkot,150 Feet Ring Road,Raiya Road,42,Female,Bike,23.04,100,249.73,1.0,Wallet,,No Show,Night
+RID00673,2024-04-12 08:08,Ahmedabad,Maninagar,Gota,44,Male,Bike,14.53,80,186.37,1.0,Card,4.4,Completed,Evening
+RID00674,2024-12-21 10:32,Rajkot,Gondal Road,University Road,40,Female,Auto,5.4,31,55.57,1.2,Card,,No Show,Night
+RID00675,2024-11-10 09:50,Vadodara,Karelibaug,Akota,33,Female,Bike,1.66,8,16.99,1.2,Cash,,Cancelled,Night
+RID00676,2024-02-13 01:17,Rajkot,Kalawad Road,Kothariya,24,Female,Bike,17.08,83,275.71,1.5,UPI,,Cancelled,Afternoon
+RID00677,2024-09-21 04:35,Rajkot,Aji Dam,Kothariya,49,Male,Bike,3.91,20,72.94,1.5,Cash,4.4,Completed,Evening
+RID00678,2024-09-23 03:15,Surat,Udhna,Katargam,31,Male,Bike,15.97,65,127.76,1.0,Wallet,,Cancelled,Morning
+RID00679,2024-10-06 08:52,Ahmedabad,Thaltej,Prahlad Nagar,46,Male,Bike,23.23,102,387.37,1.2,Wallet,4.7,Completed,Night
+RID00680,2024-12-07 03:37,Surat,Adajan,Rander,49,Female,Auto,5.1,29,70.4,1.5,Card,3.6,Completed,Afternoon
+RID00681,2024-01-06 18:19,Vadodara,Akota,Fatehgunj,20,Female,Auto,20.52,80,220.44,1.0,UPI,,Cancelled,Night
+RID00682,2024-12-27 16:24,Rajkot,150 Feet Ring Road,Pedak Road,50,Male,Bike,1.22,4,24.04,1.5,Cash,3.7,Completed,Night
+RID00683,2024-11-26 15:24,Surat,Katargam,Piplod,48,Male,Bike,7.68,44,103.99,1.0,Card,4.8,Completed,Night
+RID00684,2024-12-13 15:20,Surat,Katargam,Piplod,32,Male,Bike,2.08,12,19.53,1.0,UPI,4.0,Completed,Night
+RID00685,2024-01-16 05:20,Surat,Piplod,Dumas,24,Female,Bike,15.69,60,264.76,2.0,Wallet,4.2,Completed,Morning
+RID00686,2024-09-27 06:05,Surat,City Light,Althan,55,Male,Bike,7.06,33,66.03,1.0,UPI,3.9,Completed,Afternoon
+RID00687,2024-04-16 18:52,Surat,Adajan,Rander,48,Female,Auto,19.59,101,196.77,1.0,Card,3.4,Completed,Morning
+RID00688,2024-02-21 03:31,Surat,Vesu,Althan,32,Male,Bike,21.98,114,279.02,1.0,Card,,Cancelled,Night
+RID00689,2024-09-30 18:15,Ahmedabad,Vastrapur,Gota,51,Female,Bike,17.88,66,246.9,1.0,Wallet,,Cancelled,Evening
+RID00690,2024-01-31 04:13,Ahmedabad,Thaltej,Satellite,53,Female,Bike,16.68,59,191.46,1.2,UPI,4.8,Completed,Night
+RID00691,2024-09-02 04:17,Surat,Dumas,Vesu,20,Male,Bike,24.55,155,457.95,1.5,UPI,4.8,Completed,Morning
+RID00692,2024-01-14 06:34,Vadodara,Waghodia Road,Gotri,42,Male,Bike,12.46,72,101.28,1.0,Wallet,,Cancelled,Evening
+RID00693,2024-06-29 06:21,Ahmedabad,Chandkheda,Prahlad Nagar,45,Male,Bike,17.83,91,189.49,1.0,Cash,,Cancelled,Afternoon
+RID00694,2024-05-07 01:04,Surat,Vesu,Adajan,21,Male,Bike,18.94,116,324.11,1.5,Wallet,,Cancelled,Afternoon
+RID00695,2024-03-03 21:04,Surat,Udhna,Adajan,22,Female,Auto,15.46,95,135.71,1.0,Cash,4.0,Completed,Evening
+RID00696,2024-05-16 10:44,Vadodara,Vadsar,Gotri,52,Male,Bike,23.59,137,311.71,1.0,UPI,4.1,Completed,Night
+RID00697,2024-03-13 01:15,Rajkot,Bhaktinagar,Pedak Road,46,Female,Bike,5.89,23,82.9,1.5,UPI,3.2,Completed,Evening
+RID00698,2024-07-14 12:28,Ahmedabad,Prahlad Nagar,Navrangpura,20,Male,Auto,15.12,66,126.38,1.0,Cash,4.0,Completed,Evening
+RID00699,2024-05-14 18:13,Vadodara,Manjalpur,Karelibaug,19,Female,Bike,1.75,10,23.56,1.0,Wallet,4.8,Completed,Morning
+RID00700,2024-07-14 14:47,Vadodara,Alkapuri,Manjalpur,33,Male,Bike,21.6,136,273.27,1.2,UPI,3.3,Completed,Night
+RID00701,2024-05-17 21:16,Rajkot,Raiya Road,Gondal Road,18,Male,Bike,8.1,42,94.72,1.0,Card,,No Show,Afternoon
+RID00702,2024-11-22 17:13,Rajkot,Raiya Road,150 Feet Ring Road,44,Male,Auto,1.41,4,19.45,1.0,UPI,,Cancelled,Night
+RID00703,2024-11-18 05:09,Rajkot,Aji Dam,Pedak Road,21,Male,Auto,11.57,49,110.58,1.0,UPI,3.3,Completed,Evening
+RID00704,2024-05-11 00:43,Ahmedabad,Bopal,Naranpura,40,Male,Bike,8.62,44,72.11,1.0,Cash,,No Show,Night
+RID00705,2024-08-06 09:09,Rajkot,Gondal Road,150 Feet Ring Road,19,Female,Auto,13.26,55,151.46,1.0,Card,3.1,Completed,Night
+RID00706,2024-01-14 03:38,Rajkot,Bhaktinagar,University Road,31,Female,Bike,15.93,63,155.24,1.0,Card,4.8,Completed,Night
+RID00707,2024-10-16 16:36,Surat,Piplod,Adajan,53,Female,Bike,19.3,105,265.41,1.0,UPI,,Cancelled,Afternoon
+RID00708,2024-07-04 07:29,Ahmedabad,Naranpura,Prahlad Nagar,38,Male,Bike,7.46,44,100.46,1.0,Cash,3.5,Completed,Night
+RID00709,2024-08-02 07:36,Vadodara,Akota,Vadsar,26,Male,Bike,14.45,53,172.24,1.0,Wallet,3.9,Completed,Morning
+RID00710,2024-11-19 06:57,Surat,City Light,Udhna,29,Female,Bike,8.53,31,112.9,1.2,UPI,4.2,Completed,Evening
+RID00711,2024-08-08 00:44,Surat,Vesu,Dumas,28,Male,Bike,18.07,88,158.26,1.0,Cash,,No Show,Evening
+RID00712,2024-10-29 19:39,Vadodara,Akota,Vadsar,24,Male,Bike,17.73,74,154.5,1.0,UPI,,Cancelled,Afternoon
+RID00713,2024-03-18 00:37,Rajkot,Kothariya,Bhaktinagar,55,Female,Bike,7.94,39,98.46,1.0,Wallet,,Cancelled,Night
+RID00714,2024-06-23 01:36,Vadodara,Vadsar,Waghodia Road,51,Female,Auto,18.34,79,172.28,1.0,Card,,No Show,Afternoon
+RID00715,2024-11-11 10:06,Rajkot,Bhaktinagar,University Road,40,Female,Bike,2.01,12,37.24,2.0,Cash,4.2,Completed,Afternoon
+RID00716,2024-04-28 21:17,Ahmedabad,Maninagar,Gota,27,Male,Bike,6.37,25,88.75,1.0,Cash,,Cancelled,Night
+RID00717,2024-09-23 04:53,Surat,Adajan,Vesu,47,Female,Auto,12.72,75,117.26,1.0,UPI,4.5,Completed,Afternoon
+RID00718,2024-02-10 23:50,Ahmedabad,Prahlad Nagar,Chandkheda,32,Male,Bike,3.08,12,38.16,1.0,Card,4.9,Completed,Night
+RID00719,2024-01-20 13:06,Surat,Althan,Katargam,51,Female,Bike,16.13,81,197.45,1.0,Cash,,Cancelled,Evening
+RID00720,2024-03-18 15:52,Ahmedabad,Navrangpura,Maninagar,29,Female,Auto,10.03,63,184.03,2.0,Card,,No Show,Afternoon
+RID00721,2024-12-18 08:39,Surat,Rander,Vesu,42,Male,Bike,11.42,56,158.47,1.5,Card,3.1,Completed,Afternoon
+RID00722,2024-10-05 15:18,Vadodara,Waghodia Road,Manjalpur,24,Male,Auto,22.0,121,337.4,1.2,UPI,4.2,Completed,Evening
+RID00723,2024-07-22 22:08,Rajkot,Bhaktinagar,Pedak Road,48,Female,Bike,16.9,65,278.6,1.2,Wallet,3.7,Completed,Evening
+RID00724,2024-05-13 21:20,Surat,Adajan,Katargam,44,Female,Bike,6.16,37,61.83,1.2,Wallet,,No Show,Evening
+RID00725,2024-04-23 18:56,Vadodara,Akota,Sama,28,Male,Bike,12.65,52,326.65,2.0,UPI,3.9,Completed,Morning
+RID00726,2024-10-10 02:41,Rajkot,150 Feet Ring Road,Aji Dam,21,Male,Bike,20.26,76,405.19,2.0,Card,4.5,Completed,Morning
+RID00727,2024-05-07 00:02,Surat,Athwa,City Light,19,Male,Bike,7.96,31,79.51,1.0,Wallet,4.1,Completed,Night
+RID00728,2024-07-12 20:25,Vadodara,Alkapuri,Gotri,26,Female,Bike,1.58,8,29.97,2.0,UPI,4.5,Completed,Evening
+RID00729,2024-07-19 06:53,Ahmedabad,Satellite,Naranpura,37,Female,Bike,1.35,8,27.37,1.5,Wallet,4.5,Completed,Night
+RID00730,2024-04-23 13:35,Ahmedabad,Maninagar,Gota,35,Female,Bike,3.39,21,55.06,1.5,Card,3.9,Completed,Night
+RID00731,2024-10-22 00:25,Surat,Piplod,Adajan,32,Female,Bike,23.83,137,412.25,2.0,Card,,Cancelled,Night
+RID00732,2024-09-07 18:15,Vadodara,Harni,Fatehgunj,23,Male,Bike,4.45,23,38.15,1.0,Wallet,3.4,Completed,Evening
+RID00733,2024-06-13 22:36,Vadodara,Waghodia Road,Gotri,44,Male,Bike,7.05,31,91.69,1.0,Card,,Cancelled,Morning
+RID00734,2024-08-05 22:04,Surat,Althan,Dumas,42,Male,Bike,24.03,101,353.33,1.2,UPI,4.8,Completed,Night
+RID00735,2024-09-25 15:08,Surat,Althan,Vesu,53,Female,Auto,11.5,73,153.1,1.0,Wallet,3.3,Completed,Afternoon
+RID00736,2024-03-25 04:18,Ahmedabad,Maninagar,Satellite,51,Male,Bike,18.28,112,203.55,1.0,Card,4.1,Completed,Night
+RID00737,2024-08-01 05:09,Rajkot,Kothariya,Pedak Road,48,Male,Auto,23.25,131,208.91,1.0,UPI,3.0,Completed,Afternoon
+RID00738,2024-02-04 11:40,Rajkot,Mavdi,Raiya Road,53,Male,Bike,12.01,45,194.78,1.5,Card,,No Show,Morning
+RID00739,2024-10-14 17:41,Ahmedabad,Vastrapur,Gota,30,Male,Bike,15.03,66,284.11,1.5,Cash,,Cancelled,Evening
+RID00740,2024-10-30 19:17,Ahmedabad,Vastrapur,Gota,48,Male,Auto,14.53,56,251.16,1.5,Cash,3.7,Completed,Afternoon
+RID00741,2024-03-11 16:51,Ahmedabad,Vastrapur,Maninagar,46,Female,Bike,4.52,18,44.93,1.0,Wallet,,No Show,Morning
+RID00742,2024-09-24 10:33,Rajkot,Raiya Road,Aji Dam,23,Male,Bike,14.44,66,212.05,1.2,Cash,3.6,Completed,Morning
+RID00743,2024-11-29 11:11,Rajkot,150 Feet Ring Road,Kothariya,19,Female,Auto,17.68,75,200.62,1.0,Wallet,,Cancelled,Night
+RID00744,2024-09-26 06:00,Rajkot,Bhaktinagar,Mavdi,55,Female,Bike,9.98,62,91.57,1.0,Card,,Cancelled,Afternoon
+RID00745,2024-12-22 22:16,Ahmedabad,Gota,Maninagar,35,Male,Bike,7.55,41,164.17,2.0,UPI,,No Show,Morning
+RID00746,2024-11-09 22:09,Vadodara,Harni,Karelibaug,29,Male,Bike,12.36,75,238.14,1.5,UPI,3.7,Completed,Night
+RID00747,2024-01-09 10:53,Vadodara,Fatehgunj,Alkapuri,38,Male,Bike,8.54,51,118.71,1.0,Card,4.3,Completed,Night
+RID00748,2024-01-23 08:38,Ahmedabad,Chandkheda,Prahlad Nagar,30,Female,Bike,5.63,32,69.66,1.0,Cash,3.3,Completed,Morning
+RID00749,2024-02-16 05:46,Ahmedabad,Maninagar,Gota,23,Male,Auto,9.19,47,156.53,2.0,Card,3.2,Completed,Evening
+RID00750,2024-03-08 09:03,Ahmedabad,Bopal,Navrangpura,42,Female,Bike,12.05,73,118.65,1.0,Cash,4.5,Completed,Afternoon
+RID00751,2024-08-13 08:05,Rajkot,150 Feet Ring Road,Bhaktinagar,49,Female,Bike,21.05,90,190.77,1.0,Card,3.5,Completed,Night
+RID00752,2024-08-10 11:41,Rajkot,Pedak Road,Kothariya,36,Male,Bike,23.79,125,267.11,1.0,Card,5.0,Completed,Afternoon
+RID00753,2024-08-27 18:20,Rajkot,Gondal Road,Aji Dam,41,Female,Bike,6.24,26,69.28,1.0,UPI,4.0,Completed,Afternoon
+RID00754,2024-06-05 05:29,Rajkot,Gondal Road,Bhaktinagar,52,Male,Bike,11.11,50,298.15,2.0,UPI,4.8,Completed,Morning
+RID00755,2024-09-04 21:25,Vadodara,Harni,Karelibaug,37,Male,Bike,12.37,52,253.32,2.0,Cash,,Cancelled,Night
+RID00756,2024-11-01 22:33,Ahmedabad,Chandkheda,Prahlad Nagar,30,Male,Bike,10.62,38,143.34,1.5,Cash,,No Show,Evening
+RID00757,2024-03-29 09:19,Rajkot,Kalawad Road,150 Feet Ring Road,23,Male,Bike,20.24,98,217.85,1.0,Cash,3.4,Completed,Evening
+RID00758,2024-08-29 17:43,Surat,Piplod,Vesu,43,Male,Bike,17.43,105,139.96,1.0,Wallet,3.7,Completed,Afternoon
+RID00759,2024-05-24 21:46,Vadodara,Karelibaug,Gotri,45,Female,Bike,4.08,23,42.43,1.0,UPI,,Cancelled,Morning
+RID00760,2024-11-08 19:48,Rajkot,Kothariya,Kalawad Road,43,Male,Bike,5.28,22,53.01,1.0,Cash,,No Show,Afternoon
+RID00761,2024-06-08 12:43,Surat,Dumas,Rander,48,Male,Auto,8.25,31,118.05,1.2,Card,3.3,Completed,Morning
+RID00762,2024-12-01 12:51,Vadodara,Manjalpur,Gotri,18,Male,Bike,21.02,102,211.83,1.0,Card,,No Show,Night
+RID00763,2024-06-04 13:16,Surat,City Light,Althan,25,Female,Bike,1.28,6,26.65,2.0,Card,,Cancelled,Night
+RID00764,2024-06-21 22:37,Vadodara,Vadsar,Harni,34,Male,Bike,19.85,127,373.9,1.5,Wallet,3.3,Completed,Evening
+RID00765,2024-06-21 21:18,Vadodara,Alkapuri,Waghodia Road,19,Female,Bike,3.92,19,32.54,1.0,Cash,3.5,Completed,Evening
+RID00766,2024-09-29 23:25,Rajkot,University Road,Kothariya,33,Male,Bike,8.79,47,114.32,1.5,UPI,,Cancelled,Morning
+RID00767,2024-09-25 18:29,Ahmedabad,Bopal,Vastrapur,20,Male,Bike,22.43,101,326.6,1.2,Card,,Cancelled,Night
+RID00768,2024-08-04 12:01,Rajkot,Kalawad Road,Mavdi,29,Female,Bike,13.3,75,180.41,1.0,UPI,,Cancelled,Morning
+RID00769,2024-08-30 06:48,Vadodara,Fatehgunj,Sama,45,Female,Bike,15.77,80,191.85,1.0,Cash,3.7,Completed,Evening
+RID00770,2024-05-20 08:29,Rajkot,Pedak Road,Kalawad Road,38,Male,Auto,17.28,74,191.66,1.2,Cash,4.3,Completed,Night
+RID00771,2024-06-17 17:24,Surat,Adajan,Piplod,48,Male,Auto,15.67,89,304.67,1.5,Card,4.3,Completed,Afternoon
+RID00772,2024-05-10 12:02,Rajkot,University Road,Bhaktinagar,54,Male,Bike,12.09,69,135.33,1.0,Wallet,4.3,Completed,Night
+RID00773,2024-03-26 19:22,Rajkot,Gondal Road,Raiya Road,54,Female,Bike,8.0,35,172.87,2.0,Wallet,4.2,Completed,Evening
+RID00774,2024-04-21 06:07,Ahmedabad,Maninagar,Naranpura,54,Female,Bike,10.01,51,139.85,1.2,Cash,3.2,Completed,Night
+RID00775,2024-12-06 21:40,Surat,Piplod,City Light,38,Female,Bike,19.03,90,276.12,1.5,Cash,4.3,Completed,Night
+RID00776,2024-08-25 20:11,Vadodara,Karelibaug,Waghodia Road,24,Female,Bike,4.77,29,55.7,1.2,Wallet,,Cancelled,Evening
+RID00777,2024-01-12 10:39,Vadodara,Akota,Gotri,33,Male,Auto,6.38,33,133.92,1.5,Wallet,,No Show,Morning
+RID00778,2024-03-30 15:59,Ahmedabad,Gota,Navrangpura,30,Female,Bike,13.27,54,142.61,1.0,Cash,,No Show,Night
+RID00779,2024-03-31 14:32,Rajkot,Gondal Road,Kalawad Road,25,Female,Bike,12.07,51,193.03,1.5,Cash,,No Show,Afternoon
+RID00780,2024-08-01 08:56,Surat,Dumas,Vesu,52,Male,Auto,17.37,81,364.07,1.5,UPI,3.1,Completed,Morning
+RID00781,2024-08-07 03:06,Vadodara,Karelibaug,Alkapuri,27,Female,Auto,20.88,118,212.56,1.0,UPI,,Cancelled,Evening
+RID00782,2024-02-07 14:57,Surat,Katargam,Dumas,49,Male,Bike,22.91,134,219.64,1.0,Card,4.3,Completed,Evening
+RID00783,2024-03-16 16:18,Rajkot,Raiya Road,Pedak Road,19,Male,Bike,17.79,92,219.2,1.5,Card,,Cancelled,Evening
+RID00784,2024-12-21 04:09,Rajkot,Raiya Road,University Road,36,Female,Bike,16.21,79,234.2,1.2,Card,,No Show,Afternoon
+RID00785,2024-03-28 11:41,Surat,Adajan,Udhna,27,Female,Auto,15.02,64,331.99,2.0,Card,4.0,Completed,Evening
+RID00786,2024-04-15 07:09,Vadodara,Karelibaug,Manjalpur,35,Male,Bike,12.62,58,345.33,2.0,Cash,3.4,Completed,Night
+RID00787,2024-11-16 03:21,Rajkot,Kothariya,Pedak Road,50,Male,Auto,22.56,129,270.39,1.0,Card,,No Show,Morning
+RID00788,2024-08-21 05:02,Ahmedabad,Navrangpura,Thaltej,35,Female,Bike,7.15,40,194.74,2.0,UPI,3.5,Completed,Afternoon
+RID00789,2024-01-27 10:50,Surat,Vesu,Rander,22,Male,Bike,5.99,25,97.61,1.5,Wallet,4.1,Completed,Evening
+RID00790,2024-02-27 23:56,Ahmedabad,Prahlad Nagar,Satellite,46,Male,Bike,3.4,17,55.71,1.5,Wallet,4.2,Completed,Night
+RID00791,2024-05-15 17:15,Ahmedabad,Maninagar,Prahlad Nagar,39,Female,Bike,16.15,72,214.83,1.2,Card,,Cancelled,Evening
+RID00792,2024-08-09 21:19,Vadodara,Fatehgunj,Gotri,24,Female,Bike,8.66,55,114.05,1.2,Card,3.1,Completed,Night
+RID00793,2024-04-17 18:43,Surat,Rander,Vesu,27,Female,Bike,8.37,36,135.99,1.5,Cash,4.9,Completed,Afternoon
+RID00794,2024-05-17 07:59,Surat,Piplod,Athwa,34,Female,Auto,16.9,75,352.03,1.5,Card,,No Show,Afternoon
+RID00795,2024-01-03 12:03,Rajkot,150 Feet Ring Road,University Road,44,Female,Auto,20.9,92,220.53,1.0,Cash,4.5,Completed,Evening
+RID00796,2024-06-15 17:35,Vadodara,Sama,Alkapuri,30,Male,Auto,16.89,72,137.52,1.0,Wallet,4.6,Completed,Afternoon
+RID00797,2024-07-18 22:58,Rajkot,Gondal Road,150 Feet Ring Road,49,Male,Bike,8.81,43,203.65,2.0,Card,4.6,Completed,Afternoon
+RID00798,2024-02-07 10:49,Vadodara,Alkapuri,Manjalpur,44,Male,Bike,7.63,35,66.12,1.0,Cash,4.8,Completed,Morning
+RID00799,2024-12-19 00:08,Rajkot,Aji Dam,Mavdi,22,Female,Bike,6.89,35,131.8,2.0,Card,,Cancelled,Morning
+RID00800,2024-05-10 19:47,Vadodara,Gotri,Manjalpur,19,Male,Bike,6.46,29,77.95,1.0,UPI,,Cancelled,Evening
+RID00801,2024-09-15 10:50,Vadodara,Akota,Karelibaug,52,Female,Auto,20.96,77,321.97,1.5,Card,5.0,Completed,Night
+RID00802,2024-10-20 14:39,Rajkot,Gondal Road,150 Feet Ring Road,30,Male,Bike,19.73,100,387.04,1.5,Wallet,,No Show,Morning
+RID00803,2024-07-24 18:18,Rajkot,Kothariya,Pedak Road,18,Female,Auto,2.75,14,29.49,1.0,UPI,4.8,Completed,Afternoon
+RID00804,2024-04-12 18:59,Ahmedabad,Vastrapur,Chandkheda,40,Male,Auto,7.21,30,181.79,2.0,Cash,4.3,Completed,Night
+RID00805,2024-06-16 10:59,Surat,Rander,Katargam,32,Male,Bike,1.63,8,20.66,1.0,Cash,4.9,Completed,Afternoon
+RID00806,2024-07-11 00:28,Rajkot,150 Feet Ring Road,Kothariya,31,Female,Auto,23.47,97,191.6,1.0,UPI,3.2,Completed,Evening
+RID00807,2024-10-23 23:33,Vadodara,Karelibaug,Akota,25,Male,Bike,19.5,102,166.86,1.0,Cash,4.0,Completed,Afternoon
+RID00808,2024-09-17 03:29,Ahmedabad,Prahlad Nagar,Gota,19,Male,Bike,5.58,36,85.03,1.5,Wallet,,Cancelled,Evening
+RID00809,2024-12-25 02:41,Vadodara,Akota,Fatehgunj,42,Female,Bike,23.7,142,388.94,1.2,UPI,3.5,Completed,Evening
+RID00810,2024-02-01 19:51,Rajkot,University Road,Kalawad Road,31,Female,Auto,5.26,18,70.49,1.5,Card,4.5,Completed,Afternoon
+RID00811,2024-02-26 05:01,Vadodara,Manjalpur,Karelibaug,49,Male,Bike,23.47,150,603.48,2.0,Card,3.7,Completed,Afternoon
+RID00812,2024-01-24 17:24,Vadodara,Vadsar,Sama,51,Male,Bike,19.8,88,194.96,1.2,Cash,4.8,Completed,Evening
+RID00813,2024-10-01 14:08,Ahmedabad,Navrangpura,Chandkheda,18,Female,Auto,11.08,40,143.42,1.2,Wallet,4.7,Completed,Afternoon
+RID00814,2024-10-19 06:08,Vadodara,Sama,Manjalpur,32,Male,Auto,9.77,52,167.62,2.0,Cash,,No Show,Evening
+RID00815,2024-08-24 21:37,Surat,Vesu,Athwa,51,Female,Bike,22.29,85,211.84,1.0,Cash,3.7,Completed,Night
+RID00816,2024-11-19 01:50,Rajkot,Bhaktinagar,University Road,30,Male,Auto,18.67,112,501.7,2.0,UPI,,No Show,Afternoon
+RID00817,2024-11-17 18:25,Surat,Adajan,Udhna,46,Male,Bike,8.74,45,137.88,1.2,Wallet,,Cancelled,Afternoon
+RID00818,2024-09-06 17:29,Rajkot,Pedak Road,Kothariya,24,Female,Bike,16.73,84,167.69,1.0,Card,3.5,Completed,Morning
+RID00819,2024-10-08 22:18,Ahmedabad,Gota,Prahlad Nagar,26,Female,Bike,4.03,16,62.77,1.2,Card,,No Show,Morning
+RID00820,2024-01-09 06:46,Vadodara,Akota,Harni,40,Male,Bike,5.38,32,74.0,1.5,UPI,,No Show,Morning
+RID00821,2024-03-18 17:39,Rajkot,Pedak Road,Mavdi,45,Male,Bike,4.81,26,113.57,2.0,Card,4.7,Completed,Afternoon
+RID00822,2024-01-01 02:16,Ahmedabad,Chandkheda,Maninagar,53,Female,Bike,24.33,150,289.96,1.2,Cash,,No Show,Night
+RID00823,2024-07-19 18:12,Ahmedabad,Navrangpura,Prahlad Nagar,33,Female,Bike,12.54,49,129.76,1.0,UPI,4.3,Completed,Afternoon
+RID00824,2024-05-21 10:00,Surat,Udhna,Athwa,25,Female,Auto,18.42,96,328.28,2.0,UPI,3.3,Completed,Night
+RID00825,2024-01-21 12:53,Vadodara,Gotri,Waghodia Road,34,Male,Bike,13.99,74,117.83,1.0,Wallet,4.8,Completed,Evening
+RID00826,2024-12-06 15:53,Vadodara,Harni,Manjalpur,45,Female,Bike,6.39,24,148.5,2.0,UPI,3.5,Completed,Night
+RID00827,2024-01-07 03:45,Ahmedabad,Maninagar,Gota,49,Male,Bike,8.89,48,123.56,1.0,Wallet,,No Show,Evening
+RID00828,2024-12-07 12:02,Surat,City Light,Piplod,24,Male,Auto,24.94,149,340.1,1.2,UPI,4.2,Completed,Evening
+RID00829,2024-10-20 16:02,Ahmedabad,Vastrapur,Chandkheda,43,Female,Auto,18.24,66,464.35,2.0,UPI,,Cancelled,Night
+RID00830,2024-12-15 11:22,Surat,City Light,Athwa,33,Female,Bike,3.37,21,41.7,1.0,Wallet,3.7,Completed,Morning
+RID00831,2024-03-29 15:54,Ahmedabad,Gota,Thaltej,23,Female,Auto,6.03,35,107.54,1.5,Card,4.5,Completed,Evening
+RID00832,2024-12-28 15:22,Surat,Katargam,Udhna,39,Female,Auto,16.35,72,232.24,1.2,Card,3.4,Completed,Morning
+RID00833,2024-10-02 05:25,Surat,Athwa,Piplod,22,Male,Bike,5.55,24,101.58,1.5,UPI,4.5,Completed,Morning
+RID00834,2024-05-30 19:36,Ahmedabad,Naranpura,Chandkheda,23,Female,Auto,18.18,92,191.94,1.2,Cash,3.2,Completed,Evening
+RID00835,2024-08-13 20:51,Vadodara,Alkapuri,Sama,31,Male,Bike,1.63,6,45.31,2.0,UPI,4.8,Completed,Afternoon
+RID00836,2024-09-22 18:25,Rajkot,Mavdi,Kalawad Road,54,Female,Bike,10.95,56,150.35,1.5,Card,,Cancelled,Night
+RID00837,2024-03-09 10:55,Rajkot,Raiya Road,Kothariya,33,Male,Bike,22.6,142,254.07,1.0,UPI,4.9,Completed,Evening
+RID00838,2024-08-26 08:36,Vadodara,Waghodia Road,Vadsar,21,Female,Bike,6.47,29,153.6,2.0,Wallet,,No Show,Morning
+RID00839,2024-12-27 04:04,Vadodara,Harni,Akota,40,Male,Bike,1.53,7,25.54,2.0,Card,4.0,Completed,Morning
+RID00840,2024-10-18 16:26,Rajkot,Kalawad Road,Pedak Road,27,Female,Bike,24.67,102,291.86,1.2,UPI,3.7,Completed,Night
+RID00841,2024-11-03 05:53,Ahmedabad,Gota,Satellite,29,Male,Bike,2.53,11,31.36,1.0,Wallet,,No Show,Morning
+RID00842,2024-12-22 15:08,Ahmedabad,Gota,Satellite,39,Male,Auto,14.78,93,227.54,1.2,UPI,,Cancelled,Morning
+RID00843,2024-11-20 02:21,Rajkot,University Road,150 Feet Ring Road,46,Male,Bike,12.99,52,143.47,1.2,Card,5.0,Completed,Night
+RID00844,2024-01-15 18:36,Ahmedabad,Naranpura,Navrangpura,41,Male,Bike,3.29,11,39.85,1.5,Cash,3.8,Completed,Morning
+RID00845,2024-10-20 05:57,Surat,City Light,Dumas,46,Male,Bike,6.24,28,168.18,2.0,Cash,,No Show,Afternoon
+RID00846,2024-09-11 06:38,Vadodara,Alkapuri,Fatehgunj,27,Female,Bike,23.44,89,425.79,2.0,Wallet,4.8,Completed,Morning
+RID00847,2024-01-31 15:51,Vadodara,Karelibaug,Fatehgunj,55,Male,Auto,6.91,27,75.71,1.2,UPI,3.1,Completed,Morning
+RID00848,2024-05-29 20:27,Rajkot,Pedak Road,Aji Dam,43,Female,Bike,16.44,71,175.7,1.0,Wallet,,No Show,Night
+RID00849,2024-12-23 01:33,Ahmedabad,Prahlad Nagar,Navrangpura,20,Male,Bike,8.72,43,102.92,1.2,UPI,4.5,Completed,Night
+RID00850,2024-10-02 01:52,Rajkot,Aji Dam,Pedak Road,45,Male,Auto,18.74,95,258.62,1.0,Card,3.4,Completed,Afternoon
+RID00851,2024-11-23 19:00,Ahmedabad,Vastrapur,Satellite,20,Female,Auto,22.42,126,275.41,1.0,Cash,3.4,Completed,Night
+RID00852,2024-03-13 19:15,Ahmedabad,Maninagar,Navrangpura,34,Female,Auto,24.63,159,251.98,1.0,Card,3.1,Completed,Afternoon
+RID00853,2024-05-09 19:00,Surat,Udhna,Dumas,43,Male,Auto,20.77,96,267.94,1.0,Wallet,,Cancelled,Morning
+RID00854,2024-05-11 21:45,Surat,Rander,Vesu,43,Female,Bike,4.81,28,43.77,1.0,Card,3.3,Completed,Morning
+RID00855,2024-09-22 01:30,Rajkot,Aji Dam,Raiya Road,48,Male,Auto,10.48,64,143.59,1.0,UPI,3.4,Completed,Morning
+RID00856,2024-03-14 14:38,Surat,Adajan,Dumas,20,Male,Bike,19.3,114,204.88,1.0,Cash,3.9,Completed,Afternoon
+RID00857,2024-01-29 12:24,Rajkot,Kalawad Road,Gondal Road,27,Female,Bike,21.63,91,218.48,1.0,UPI,4.8,Completed,Afternoon
+RID00858,2024-10-12 05:09,Surat,Athwa,Udhna,53,Female,Bike,1.61,7,18.69,1.0,UPI,,Cancelled,Evening
+RID00859,2024-02-23 21:14,Ahmedabad,Satellite,Prahlad Nagar,18,Female,Bike,18.29,103,186.96,1.0,UPI,,No Show,Morning
+RID00860,2024-11-26 12:18,Ahmedabad,Chandkheda,Satellite,42,Female,Auto,14.53,54,376.15,2.0,Cash,4.9,Completed,Afternoon
+RID00861,2024-04-24 04:18,Vadodara,Harni,Sama,29,Female,Bike,12.5,77,168.28,1.2,Card,,Cancelled,Evening
+RID00862,2024-03-05 20:22,Surat,Katargam,Adajan,31,Female,Bike,4.46,21,118.45,2.0,Wallet,5.0,Completed,Night
+RID00863,2024-05-05 06:45,Vadodara,Karelibaug,Waghodia Road,30,Male,Bike,12.12,54,251.93,2.0,Card,,Cancelled,Night
+RID00864,2024-11-15 13:03,Vadodara,Waghodia Road,Akota,30,Male,Auto,6.12,24,68.89,1.0,Card,3.6,Completed,Evening
+RID00865,2024-12-14 18:49,Surat,Piplod,City Light,27,Female,Bike,23.64,84,243.87,1.0,Cash,3.5,Completed,Night
+RID00866,2024-02-03 02:01,Surat,Piplod,Katargam,18,Male,Bike,21.83,84,259.27,1.2,Card,4.4,Completed,Night
+RID00867,2024-08-16 15:21,Ahmedabad,Gota,Chandkheda,29,Female,Bike,23.99,106,244.16,1.0,Card,4.2,Completed,Afternoon
+RID00868,2024-05-23 22:54,Ahmedabad,Thaltej,Bopal,33,Male,Auto,10.96,55,171.93,1.5,Cash,4.4,Completed,Afternoon
+RID00869,2024-08-13 18:36,Vadodara,Fatehgunj,Alkapuri,29,Female,Bike,12.35,60,142.24,1.0,UPI,,Cancelled,Afternoon
+RID00870,2024-02-26 21:12,Vadodara,Harni,Vadsar,38,Female,Auto,22.28,82,261.66,1.0,UPI,4.8,Completed,Evening
+RID00871,2024-04-08 16:17,Rajkot,Aji Dam,Kothariya,51,Male,Bike,22.39,106,228.18,1.0,Wallet,,No Show,Morning
+RID00872,2024-06-19 17:02,Rajkot,150 Feet Ring Road,Kalawad Road,26,Male,Auto,7.31,47,60.25,1.0,UPI,4.3,Completed,Afternoon
+RID00873,2024-07-06 16:54,Rajkot,Bhaktinagar,Mavdi,45,Female,Bike,10.32,57,125.71,1.0,Card,,Cancelled,Night
+RID00874,2024-12-07 10:55,Surat,Katargam,Udhna,50,Male,Bike,7.76,29,125.83,1.2,UPI,,Cancelled,Afternoon
+RID00875,2024-01-07 23:51,Surat,Vesu,Udhna,39,Male,Bike,9.96,39,126.23,1.0,Cash,3.0,Completed,Morning
+RID00876,2024-02-16 00:27,Vadodara,Vadsar,Fatehgunj,32,Male,Bike,17.9,73,485.43,2.0,UPI,3.2,Completed,Morning
+RID00877,2024-08-28 09:46,Ahmedabad,Chandkheda,Gota,55,Male,Bike,20.62,115,287.84,1.2,Wallet,,Cancelled,Afternoon
+RID00878,2024-12-25 02:12,Surat,Althan,Adajan,29,Female,Bike,24.38,104,418.82,1.5,Cash,4.4,Completed,Morning
+RID00879,2024-09-28 00:41,Surat,Piplod,Udhna,34,Female,Bike,16.37,68,211.94,1.0,Cash,,No Show,Night
+RID00880,2024-12-11 02:20,Ahmedabad,Navrangpura,Bopal,55,Female,Auto,22.66,83,230.58,1.2,UPI,3.0,Completed,Night
+RID00881,2024-04-26 18:10,Rajkot,University Road,Pedak Road,20,Female,Bike,9.89,43,117.27,1.2,Wallet,,Cancelled,Evening
+RID00882,2024-08-02 00:55,Vadodara,Karelibaug,Vadsar,26,Female,Auto,21.85,106,193.43,1.0,Wallet,,Cancelled,Night
+RID00883,2024-04-21 03:01,Surat,Piplod,Katargam,43,Female,Bike,19.99,109,178.04,1.0,Cash,,Cancelled,Morning
+RID00884,2024-09-06 19:46,Rajkot,University Road,Mavdi,49,Female,Bike,10.41,45,150.93,1.5,Wallet,,Cancelled,Morning
+RID00885,2024-09-10 06:26,Surat,Dumas,Adajan,49,Male,Bike,2.61,11,36.48,1.2,Card,3.5,Completed,Evening
+RID00886,2024-12-18 04:23,Surat,Katargam,Udhna,54,Female,Bike,3.92,15,39.38,1.0,UPI,,No Show,Night
+RID00887,2024-08-31 08:35,Ahmedabad,Prahlad Nagar,Gota,39,Female,Bike,6.03,27,81.17,1.0,Cash,4.3,Completed,Night
+RID00888,2024-03-16 19:20,Surat,Katargam,Rander,23,Female,Bike,12.73,62,125.78,1.0,Wallet,3.8,Completed,Afternoon
+RID00889,2024-04-24 20:00,Rajkot,Gondal Road,Pedak Road,38,Female,Bike,19.99,86,203.55,1.0,Wallet,3.9,Completed,Night
+RID00890,2024-02-01 23:56,Surat,Udhna,Piplod,30,Female,Bike,15.51,79,283.19,2.0,Cash,3.6,Completed,Night
+RID00891,2024-08-26 04:28,Vadodara,Akota,Alkapuri,42,Male,Auto,5.9,25,70.27,1.0,Wallet,3.2,Completed,Evening
+RID00892,2024-01-09 03:03,Rajkot,Gondal Road,University Road,38,Female,Bike,5.75,30,51.62,1.0,Card,3.6,Completed,Night
+RID00893,2024-11-25 09:20,Surat,Katargam,Dumas,54,Male,Bike,16.51,77,192.81,1.0,UPI,,Cancelled,Morning
+RID00894,2024-06-22 02:26,Surat,Dumas,Vesu,39,Male,Bike,4.64,23,87.33,2.0,Wallet,4.9,Completed,Morning
+RID00895,2024-03-22 03:48,Vadodara,Waghodia Road,Alkapuri,34,Male,Auto,17.67,90,227.7,1.0,Cash,,Cancelled,Night
+RID00896,2024-06-14 12:48,Ahmedabad,Thaltej,Navrangpura,43,Male,Bike,12.49,45,171.11,1.0,Card,4.0,Completed,Morning
+RID00897,2024-02-11 18:56,Vadodara,Alkapuri,Karelibaug,41,Male,Bike,5.8,20,66.68,1.0,Wallet,3.7,Completed,Morning
+RID00898,2024-11-07 08:21,Surat,Athwa,City Light,30,Female,Bike,7.75,40,120.09,1.5,Card,,No Show,Morning
+RID00899,2024-02-27 01:24,Vadodara,Fatehgunj,Vadsar,24,Male,Auto,11.69,74,258.84,2.0,Cash,3.4,Completed,Night
+RID00900,2024-04-21 16:01,Rajkot,Mavdi,University Road,37,Male,Bike,2.3,12,46.03,1.5,Cash,,Cancelled,Evening
+RID00901,2024-09-08 15:35,Surat,Katargam,Rander,36,Male,Bike,18.28,89,254.7,1.2,UPI,,Cancelled,Night
+RID00902,2024-07-07 06:41,Ahmedabad,Navrangpura,Satellite,30,Female,Bike,23.72,149,253.1,1.0,Card,3.2,Completed,Morning
+RID00903,2024-04-14 03:58,Ahmedabad,Maninagar,Prahlad Nagar,19,Female,Auto,19.49,120,172.51,1.0,Cash,4.9,Completed,Morning
+RID00904,2024-12-25 18:30,Ahmedabad,Satellite,Bopal,22,Male,Bike,21.88,114,316.35,1.5,Cash,,Cancelled,Afternoon
+RID00905,2024-01-23 21:04,Ahmedabad,Chandkheda,Prahlad Nagar,35,Female,Bike,12.94,77,140.53,1.2,Wallet,4.2,Completed,Morning
+RID00906,2024-08-10 17:44,Surat,Udhna,Adajan,49,Male,Bike,6.64,32,92.79,1.0,UPI,4.7,Completed,Evening
+RID00907,2024-10-09 17:09,Rajkot,University Road,Gondal Road,38,Female,Bike,20.7,106,247.4,1.0,Wallet,,Cancelled,Evening
+RID00908,2024-12-11 17:26,Surat,City Light,Piplod,41,Female,Auto,24.6,142,316.98,1.0,UPI,,Cancelled,Evening
+RID00909,2024-06-24 16:58,Rajkot,150 Feet Ring Road,Bhaktinagar,27,Female,Bike,11.82,60,212.42,2.0,Cash,,Cancelled,Evening
+RID00910,2024-10-21 00:16,Surat,Rander,Dumas,53,Male,Bike,22.14,143,274.04,1.5,Cash,,Cancelled,Morning
+RID00911,2024-07-27 22:48,Rajkot,Kothariya,Gondal Road,24,Male,Bike,14.16,66,365.79,2.0,Wallet,4.2,Completed,Evening
+RID00912,2024-06-04 06:34,Surat,Rander,Adajan,24,Male,Auto,4.46,16,42.15,1.0,UPI,,Cancelled,Morning
+RID00913,2024-08-04 11:42,Ahmedabad,Navrangpura,Gota,43,Male,Auto,5.46,31,45.88,1.0,Card,4.9,Completed,Morning
+RID00914,2024-01-17 15:20,Rajkot,Bhaktinagar,University Road,40,Male,Bike,11.28,59,159.88,1.2,Card,4.4,Completed,Afternoon
+RID00915,2024-01-14 12:02,Vadodara,Akota,Harni,49,Male,Auto,17.53,93,240.07,1.0,Wallet,,Cancelled,Morning
+RID00916,2024-08-28 01:20,Rajkot,Pedak Road,Gondal Road,37,Female,Bike,18.38,103,197.18,1.0,Cash,3.5,Completed,Morning
+RID00917,2024-08-25 08:44,Vadodara,Fatehgunj,Alkapuri,54,Female,Bike,21.71,126,347.36,1.5,UPI,,No Show,Afternoon
+RID00918,2024-12-17 04:53,Rajkot,Aji Dam,Gondal Road,22,Male,Bike,22.65,99,186.61,1.0,Wallet,3.9,Completed,Night
+RID00919,2024-08-15 22:58,Vadodara,Gotri,Alkapuri,25,Male,Auto,19.54,70,182.51,1.0,Cash,3.5,Completed,Night
+RID00920,2024-11-21 17:06,Surat,Athwa,Adajan,44,Female,Bike,9.8,54,120.05,1.0,UPI,,Cancelled,Night
+RID00921,2024-05-04 04:07,Rajkot,Bhaktinagar,Aji Dam,19,Male,Auto,2.56,10,51.95,2.0,UPI,4.0,Completed,Night
+RID00922,2024-02-29 17:02,Surat,Rander,Althan,32,Male,Auto,7.31,27,133.23,2.0,Cash,,No Show,Evening
+RID00923,2024-01-05 09:56,Rajkot,150 Feet Ring Road,Kothariya,26,Female,Bike,2.44,14,27.2,1.0,Cash,4.2,Completed,Morning
+RID00924,2024-03-15 21:08,Vadodara,Gotri,Sama,50,Male,Bike,12.49,47,169.64,1.2,UPI,,Cancelled,Night
+RID00925,2024-07-27 01:48,Vadodara,Waghodia Road,Fatehgunj,45,Male,Bike,16.05,76,326.47,2.0,Card,4.7,Completed,Afternoon
+RID00926,2024-09-02 19:50,Vadodara,Alkapuri,Sama,50,Female,Bike,11.8,70,147.4,1.0,Cash,,Cancelled,Evening
+RID00927,2024-12-26 04:49,Surat,City Light,Althan,20,Female,Bike,19.55,93,205.35,1.0,Card,,Cancelled,Evening
+RID00928,2024-07-16 22:37,Vadodara,Sama,Waghodia Road,53,Male,Auto,21.07,112,276.7,1.0,Wallet,4.0,Completed,Evening
+RID00929,2024-05-27 19:32,Rajkot,Gondal Road,Pedak Road,32,Female,Bike,13.41,72,157.9,1.0,Card,,No Show,Evening
+RID00930,2024-12-08 21:12,Surat,City Light,Rander,26,Female,Bike,5.6,25,117.26,2.0,Cash,4.2,Completed,Evening
+RID00931,2024-04-15 19:50,Rajkot,Pedak Road,Aji Dam,39,Male,Bike,20.15,105,175.37,1.0,Wallet,4.3,Completed,Evening
+RID00932,2024-07-11 17:25,Rajkot,Mavdi,Kothariya,18,Male,Bike,23.38,114,207.57,1.0,Cash,3.5,Completed,Night
+RID00933,2024-10-31 03:30,Rajkot,Kothariya,Pedak Road,45,Female,Auto,14.62,59,203.06,1.0,Card,,No Show,Evening
+RID00934,2024-10-01 08:08,Ahmedabad,Bopal,Vastrapur,24,Female,Bike,19.24,124,251.72,1.0,Cash,3.2,Completed,Morning
+RID00935,2024-11-12 19:36,Ahmedabad,Naranpura,Navrangpura,35,Female,Bike,9.1,48,88.32,1.0,Cash,3.5,Completed,Morning
+RID00936,2024-02-16 18:47,Surat,Adajan,City Light,35,Female,Bike,5.12,32,56.64,1.2,UPI,4.9,Completed,Evening
+RID00937,2024-05-02 21:19,Ahmedabad,Vastrapur,Prahlad Nagar,45,Female,Bike,12.03,48,162.47,1.0,Wallet,3.2,Completed,Afternoon
+RID00938,2024-01-12 17:48,Surat,Rander,Vesu,35,Male,Auto,18.1,87,482.5,2.0,Wallet,,Cancelled,Morning
+RID00939,2024-02-09 19:53,Vadodara,Waghodia Road,Vadsar,42,Male,Bike,12.98,69,181.29,1.2,Wallet,3.3,Completed,Evening
+RID00940,2024-01-13 21:59,Surat,Rander,Piplod,54,Male,Auto,7.58,42,77.9,1.0,UPI,,Cancelled,Evening
+RID00941,2024-05-10 11:14,Vadodara,Alkapuri,Karelibaug,35,Female,Auto,10.14,50,216.43,2.0,Card,3.2,Completed,Evening
+RID00942,2024-07-05 01:48,Vadodara,Manjalpur,Gotri,32,Male,Auto,16.48,87,215.48,1.0,Cash,,No Show,Afternoon
+RID00943,2024-05-22 05:14,Ahmedabad,Naranpura,Thaltej,44,Female,Bike,2.9,18,30.95,1.2,Cash,4.7,Completed,Morning
+RID00944,2024-08-04 05:15,Ahmedabad,Vastrapur,Satellite,19,Male,Auto,16.71,97,302.64,2.0,UPI,,No Show,Morning
+RID00945,2024-09-30 05:15,Ahmedabad,Satellite,Gota,18,Female,Bike,3.98,19,49.11,1.0,Cash,,No Show,Afternoon
+RID00946,2024-11-07 11:36,Rajkot,Pedak Road,Kalawad Road,35,Female,Bike,4.24,15,55.46,1.0,Cash,,Cancelled,Morning
+RID00947,2024-08-23 16:51,Vadodara,Manjalpur,Fatehgunj,49,Female,Bike,16.36,94,227.36,1.0,Wallet,3.0,Completed,Afternoon
+RID00948,2024-04-15 02:38,Vadodara,Waghodia Road,Vadsar,41,Female,Bike,13.56,64,267.42,1.5,UPI,4.6,Completed,Night
+RID00949,2024-10-29 23:08,Vadodara,Akota,Karelibaug,37,Female,Bike,1.57,7,14.59,1.0,Cash,3.9,Completed,Evening
+RID00950,2024-07-31 01:15,Surat,Adajan,Udhna,27,Male,Bike,12.68,62,155.65,1.2,Card,3.9,Completed,Night
+RID00951,2024-09-19 17:30,Rajkot,Kalawad Road,Bhaktinagar,20,Female,Bike,22.29,136,258.33,1.0,UPI,,Cancelled,Night
+RID00952,2024-01-31 00:32,Rajkot,University Road,Mavdi,31,Female,Bike,4.98,32,62.08,1.0,UPI,,No Show,Evening
+RID00953,2024-09-06 13:48,Vadodara,Akota,Vadsar,50,Male,Bike,15.92,69,203.89,1.0,UPI,4.8,Completed,Night
+RID00954,2024-04-22 01:02,Surat,Piplod,Katargam,37,Male,Auto,4.45,25,38.09,1.0,Cash,3.6,Completed,Night
+RID00955,2024-01-20 08:46,Surat,Piplod,Rander,48,Male,Bike,11.25,58,90.04,1.0,Cash,3.3,Completed,Night
+RID00956,2024-05-12 18:35,Vadodara,Manjalpur,Waghodia Road,53,Female,Bike,17.07,101,199.73,1.0,Card,4.7,Completed,Morning
+RID00957,2024-06-17 16:19,Surat,City Light,Althan,49,Female,Bike,19.68,83,208.67,1.0,UPI,,No Show,Evening
+RID00958,2024-02-20 22:34,Rajkot,Raiya Road,Gondal Road,50,Female,Bike,6.37,37,68.71,1.0,Wallet,,No Show,Afternoon
+RID00959,2024-01-30 13:25,Vadodara,Akota,Vadsar,45,Male,Bike,6.82,36,114.55,2.0,Wallet,4.9,Completed,Evening
+RID00960,2024-07-26 13:54,Vadodara,Alkapuri,Akota,33,Female,Auto,8.39,41,136.59,1.2,Cash,4.2,Completed,Evening
+RID00961,2024-03-17 17:27,Surat,Katargam,Athwa,49,Male,Bike,10.04,37,85.28,1.0,Cash,,No Show,Evening
+RID00962,2024-02-14 01:10,Ahmedabad,Navrangpura,Thaltej,37,Female,Bike,4.2,27,50.7,1.0,UPI,4.3,Completed,Afternoon
+RID00963,2024-02-25 08:37,Ahmedabad,Naranpura,Satellite,36,Male,Auto,1.01,6,13.52,1.0,Card,,No Show,Morning
+RID00964,2024-01-17 12:54,Surat,Vesu,Althan,39,Male,Bike,16.44,92,180.49,1.0,Wallet,4.4,Completed,Evening
+RID00965,2024-06-07 21:20,Vadodara,Vadsar,Harni,31,Male,Bike,16.68,99,257.04,1.2,Wallet,4.6,Completed,Evening
+RID00966,2024-02-07 09:49,Surat,Athwa,Adajan,39,Female,Bike,15.1,58,211.24,1.0,Cash,3.3,Completed,Morning
+RID00967,2024-12-01 01:23,Vadodara,Akota,Karelibaug,28,Female,Auto,18.51,81,342.75,2.0,Cash,,No Show,Morning
+RID00968,2024-06-14 14:08,Rajkot,Gondal Road,Kalawad Road,38,Female,Auto,10.35,61,148.42,1.2,Card,4.6,Completed,Morning
+RID00969,2024-05-02 16:38,Surat,Adajan,Rander,49,Female,Bike,3.24,19,28.8,1.0,Cash,,Cancelled,Evening
+RID00970,2024-09-13 06:13,Surat,Piplod,Adajan,27,Female,Bike,18.07,106,181.12,1.0,Card,4.0,Completed,Morning
+RID00971,2024-06-19 00:26,Vadodara,Waghodia Road,Gotri,55,Male,Auto,11.92,67,174.17,1.5,Wallet,3.1,Completed,Night
+RID00972,2024-12-08 18:16,Vadodara,Karelibaug,Gotri,43,Female,Bike,6.35,27,166.53,2.0,UPI,,No Show,Evening
+RID00973,2024-10-06 13:01,Surat,Adajan,Udhna,50,Female,Bike,10.53,50,134.94,1.0,UPI,4.1,Completed,Night
+RID00974,2024-12-01 06:00,Vadodara,Harni,Gotri,45,Male,Bike,21.53,135,293.61,1.2,Card,3.4,Completed,Evening
+RID00975,2024-08-06 06:46,Surat,Dumas,Adajan,28,Female,Bike,23.35,132,278.91,1.0,UPI,3.8,Completed,Morning
+RID00976,2024-05-18 05:07,Rajkot,Raiya Road,Aji Dam,46,Female,Bike,24.59,150,337.41,1.0,UPI,4.6,Completed,Morning
+RID00977,2024-04-06 17:16,Vadodara,Waghodia Road,Fatehgunj,19,Male,Auto,7.68,28,77.72,1.0,UPI,,No Show,Night
+RID00978,2024-01-16 10:54,Surat,Athwa,Piplod,42,Female,Bike,20.57,104,344.26,1.2,UPI,,No Show,Afternoon
+RID00979,2024-12-02 15:35,Vadodara,Gotri,Manjalpur,47,Female,Bike,16.3,94,397.2,2.0,Card,,No Show,Afternoon
+RID00980,2024-11-28 10:26,Rajkot,Mavdi,Kalawad Road,18,Female,Bike,5.51,28,76.73,1.0,Wallet,,Cancelled,Morning
+RID00981,2024-03-02 19:51,Ahmedabad,Bopal,Satellite,20,Female,Bike,4.26,21,78.95,1.5,Cash,,No Show,Morning
+RID00982,2024-07-13 04:17,Rajkot,Pedak Road,Bhaktinagar,39,Female,Bike,21.61,79,259.08,1.0,UPI,4.4,Completed,Evening
+RID00983,2024-09-25 19:38,Rajkot,Gondal Road,Pedak Road,24,Female,Bike,10.76,38,107.24,1.0,UPI,4.7,Completed,Evening
+RID00984,2024-10-08 17:58,Ahmedabad,Maninagar,Chandkheda,23,Female,Bike,5.38,22,50.51,1.0,Card,3.6,Completed,Evening
+RID00985,2024-02-18 18:00,Ahmedabad,Chandkheda,Navrangpura,24,Female,Bike,3.23,14,53.7,2.0,UPI,,Cancelled,Evening
+RID00986,2024-10-18 22:55,Vadodara,Vadsar,Karelibaug,24,Male,Bike,4.81,30,40.85,1.0,Wallet,3.4,Completed,Morning
+RID00987,2024-09-09 17:15,Surat,Athwa,Rander,21,Female,Bike,1.13,5,12.95,1.0,Cash,,Cancelled,Afternoon
+RID00988,2024-11-11 03:45,Vadodara,Gotri,Harni,44,Female,Bike,4.27,27,68.99,1.2,Wallet,3.5,Completed,Evening
+RID00989,2024-01-21 07:15,Ahmedabad,Satellite,Prahlad Nagar,20,Male,Bike,17.59,91,403.91,2.0,Wallet,3.3,Completed,Afternoon
+RID00990,2024-07-30 03:21,Surat,Rander,Katargam,31,Female,Bike,1.07,4,13.89,1.0,Cash,,No Show,Morning
+RID00991,2024-11-21 04:13,Surat,Vesu,Piplod,42,Female,Bike,10.09,51,107.56,1.0,Cash,,Cancelled,Evening
+RID00992,2024-08-22 16:18,Surat,Dumas,Althan,31,Female,Bike,2.17,7,23.31,1.2,UPI,,Cancelled,Evening
+RID00993,2024-11-25 07:28,Rajkot,150 Feet Ring Road,University Road,30,Female,Auto,11.23,39,141.36,1.5,Wallet,3.7,Completed,Evening
+RID00994,2024-10-09 16:41,Vadodara,Sama,Manjalpur,27,Male,Auto,11.52,44,136.76,1.0,Card,3.4,Completed,Night
+RID00995,2024-02-24 07:57,Rajkot,Pedak Road,Raiya Road,36,Female,Bike,21.69,109,270.66,1.0,Cash,3.1,Completed,Morning
+RID00996,2024-01-01 15:12,Surat,Dumas,City Light,29,Male,Auto,24.01,107,605.92,2.0,Card,4.1,Completed,Morning
+RID00997,2024-07-13 15:39,Vadodara,Sama,Vadsar,30,Male,Bike,17.08,109,291.66,1.5,Card,,Cancelled,Afternoon
+RID00998,2024-02-22 18:57,Ahmedabad,Gota,Chandkheda,26,Male,Bike,13.78,68,227.29,1.2,Wallet,4.4,Completed,Night
+RID00999,2024-03-10 07:47,Ahmedabad,Vastrapur,Thaltej,31,Male,Auto,24.9,92,694.14,2.0,Card,,No Show,Night
+RID01000,2024-04-17 02:21,Ahmedabad,Navrangpura,Gota,33,Male,Auto,10.82,70,249.55,2.0,UPI,,No Show,Morning

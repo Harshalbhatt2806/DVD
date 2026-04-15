@@ -1,0 +1,201 @@
+Enrollment_No,Student_Name,Surname,Gender,Department,Class,Semester,SGPA_Sem1,SGPA_Sem2,SGPA_Sem3,SGPA_Sem4,SGPA_Sem5,SGPA_Sem6,SGPA_Sem7,CGPA,HackerRank_Score,LeetCode_Problems_Solved,GitHub_Repositories,Projects_Completed,Internship_Completed,Primary_Skill,Secondary_Skill,Preferred_Domain,Preferred_Location,Expected_Salary_LPA,Willing_for_Startup
+8000,Student0,Surname0,Male,CSE,4EK3,8,7.44,7.12,7.32,9.02,9.79,8.38,9.52,8.37,1361,246,14,5,Yes,Web Dev,UI UX,Web Dev,Hyderabad,13.43,Yes
+8001,Student1,Surname1,Female,AI,4EK3,8,7.87,9.4,7.93,8.72,7.21,7.36,7.28,7.97,714,190,8,8,Yes,Java,Cloud,Software Dev,Bangalore,11.79,No
+8002,Student2,Surname2,Female,IT,4EK1,8,8.2,9.21,6.83,9.19,9.29,8.01,6.94,8.24,1605,346,6,4,Yes,Data Science,ML,Data Science,Remote,14.67,Yes
+8003,Student3,Surname3,Female,IT,4EK3,8,9.53,7.46,7.86,8.04,6.59,8.64,6.92,7.86,1513,279,16,8,Yes,Web Dev,Database,Web Dev,Hyderabad,12.91,No
+8004,Student4,Surname4,Male,IT,4EK1,8,8.84,9.01,7.35,8.83,8.75,7.43,7.79,8.29,1279,275,7,3,Yes,AI,Cloud,AI,Pune,13.7,Yes
+8005,Student5,Surname5,Male,CSE,4EK1,8,8.69,8.54,8.92,7.75,7.17,7.86,6.86,7.97,1446,262,5,3,Yes,Python,Data Science,Data Science,Pune,12.87,Yes
+8006,Student6,Surname6,Male,AI,4EK1,8,8.56,7.34,8.23,9.65,6.9,6.73,9.56,8.14,1195,219,8,8,Yes,Python,Database,Data Science,Ahmedabad,12.57,No
+8007,Student7,Surname7,Female,IT,4EK2,8,9.49,6.81,6.87,6.91,7.59,7.24,9.34,7.75,838,131,18,8,Yes,AI,Cloud,AI,Hyderabad,10.46,No
+8008,Student8,Surname8,Female,IT,4EK1,8,6.76,9.64,7.88,8.8,7.18,8.3,6.53,7.87,504,87,10,6,Yes,Web Dev,UI UX,Web Dev,Ahmedabad,10.04,No
+8009,Student9,Surname9,Female,ICT,4EK1,8,7.07,8.58,7.22,8.83,7,9.02,7.34,7.87,336,78,7,7,Yes,Java,DevOps,Software Dev,Remote,9.91,No
+8010,Student10,Surname10,Female,IT,4EK3,8,8.59,6.95,9.42,8.57,7.45,7.74,6.79,7.93,781,206,14,8,Yes,AI,ML,AI,Remote,11.95,Yes
+8011,Student11,Surname11,Male,ICT,4EK3,8,8.41,7.68,7.17,8.24,6.67,9.61,9.6,8.2,350,67,12,5,Yes,Data Science,ML,Data Science,Remote,10.4,Yes
+8012,Student12,Surname12,Male,AI,4EK2,8,7.61,8.39,9.14,8.74,9.31,9.32,7.05,8.51,1114,315,3,3,Yes,Java,Cloud,Software Dev,Hyderabad,14.74,No
+8013,Student13,Surname13,Female,ICT,4EK2,8,8.44,8.7,7.82,7.18,7.9,8.97,9.68,8.38,1196,340,10,2,Yes,Web Dev,Database,Web Dev,Hyderabad,14.86,Yes
+8014,Student14,Surname14,Female,AI,4EK3,8,8.03,6.64,8.35,6.91,6.58,8.68,8.8,7.71,1549,399,3,3,Yes,Java,Cloud,Software Dev,Bangalore,14.41,No
+8015,Student15,Surname15,Female,CSE,4EK2,8,8.43,8.4,8.38,7.14,7.76,9.24,7.69,8.15,1990,268,8,3,Yes,AI,ML,AI,Hyderabad,13.32,No
+8016,Student16,Surname16,Male,CSE,4EK3,8,7.35,7.86,9.48,9.59,6.69,8.73,9.33,8.43,215,34,12,5,Yes,AI,Cloud,AI,Remote,10.37,Yes
+8017,Student17,Surname17,Male,ICT,4EK1,8,9.46,6.61,7.33,9.1,6.65,9.74,9.74,8.38,1600,252,7,7,Yes,Java,DevOps,Software Dev,Bangalore,13.54,No
+8018,Student18,Surname18,Male,CSE,4EK2,8,7.2,6.54,8.32,8.73,7.8,9.3,8.04,7.99,1119,160,5,5,Yes,Python,Data Science,Data Science,Ahmedabad,11.38,No
+8019,Student19,Surname19,Female,IT,4EK2,8,8.23,8.35,8.87,9.7,6.61,7.38,9.24,8.34,981,149,10,6,Yes,Web Dev,UI UX,Web Dev,Hyderabad,11.91,No
+8020,Student20,Surname20,Female,AI,4EK3,8,9.08,9.76,7.35,9.52,6.54,7.27,9.09,8.37,931,173,7,3,Yes,Web Dev,UI UX,Web Dev,Hyderabad,12.33,No
+8021,Student21,Surname21,Male,AI,4EK1,8,9.64,6.51,8.67,8.53,8.61,9.47,7.12,8.36,148,38,9,7,Yes,Web Dev,UI UX,Web Dev,Ahmedabad,10.29,No
+8022,Student22,Surname22,Male,AI,4EK1,8,8.58,9.15,8.6,7.15,7.41,7.35,6.56,7.83,1273,170,7,7,Yes,Data Science,Cloud,Data Science,Ahmedabad,11.21,Yes
+8023,Student23,Surname23,Female,AI,4EK2,8,8.43,7.7,8.72,8.66,8.14,7.66,7.74,8.15,1026,295,4,3,Yes,Java,Cloud,Software Dev,Bangalore,13.73,No
+8024,Student24,Surname24,Female,AI,4EK2,8,8.54,7.21,6.62,8.58,6.7,7.14,7.91,7.53,933,225,9,5,Yes,Data Science,Cloud,Data Science,Ahmedabad,11.44,No
+8025,Student25,Surname25,Male,IT,4EK2,8,7.01,8.85,9.26,9.24,9.59,9.64,7.01,8.66,715,105,16,7,Yes,Web Dev,UI UX,Web Dev,Pune,11.89,No
+8026,Student26,Surname26,Male,AI,4EK1,8,7.65,8.03,9.2,7.42,7.86,9.37,7.75,8.18,1848,367,13,4,Yes,AI,ML,AI,Bangalore,14.86,Yes
+8027,Student27,Surname27,Male,CSE,4EK2,8,8.15,7.23,9.03,8.5,6.93,6.69,9.14,7.95,1252,205,10,2,Yes,Data Science,ML,Data Science,Remote,11.97,No
+8028,Student28,Surname28,Male,AI,4EK3,8,7.78,9.31,7.89,6.9,7.37,8.69,8.58,8.07,505,134,13,4,No,Python,ML,Data Science,Bangalore,9.15,Yes
+8029,Student29,Surname29,Female,IT,4EK3,8,7.98,7.89,8.07,9.33,6.6,9.65,8.45,8.28,2252,365,10,5,Yes,Web Dev,Database,Web Dev,Bangalore,15.03,Yes
+8030,Student30,Surname30,Male,ICT,4EK2,8,6.6,9.75,6.97,9.43,9.54,8.03,7.33,8.24,2514,354,3,3,Yes,Web Dev,Database,Web Dev,Ahmedabad,14.79,No
+8031,Student31,Surname31,Male,AI,4EK2,8,8.19,7.15,8.71,7.19,8.28,7.27,8.76,7.94,861,156,3,2,Yes,Java,Cloud,Software Dev,Pune,11.22,No
+8032,Student32,Surname32,Male,AI,4EK3,8,8.36,8.69,8.43,8.7,9.13,9.06,7.06,8.49,567,71,8,6,Yes,Web Dev,Database,Web Dev,Hyderabad,11.04,No
+8033,Student33,Surname33,Male,ICT,4EK2,8,8.58,7.68,8.6,6.97,6.93,8.59,9.67,8.15,613,95,16,6,Yes,Python,Database,Data Science,Remote,10.73,No
+8034,Student34,Surname34,Female,IT,4EK1,8,6.76,7.81,9.38,9.67,9.77,8.01,9.38,8.68,833,212,12,6,Yes,Web Dev,Database,Web Dev,Pune,13.54,No
+8035,Student35,Surname35,Female,IT,4EK1,8,8.37,6.69,7.13,8.47,7.58,7.14,9.12,7.79,694,91,9,6,Yes,Data Science,Cloud,Data Science,Remote,9.95,Yes
+8036,Student36,Surname36,Female,AI,4EK2,8,7.91,6.65,8.76,7.23,6.51,6.7,7.82,7.37,1698,389,4,4,Yes,Python,Database,Data Science,Bangalore,13.57,Yes
+8037,Student37,Surname37,Female,CSE,4EK2,8,9.08,8.06,7.58,8.75,8.63,7.63,7.55,8.18,871,142,11,7,Yes,Web Dev,Database,Web Dev,Hyderabad,11.49,No
+8038,Student38,Surname38,Male,CSE,4EK2,8,8.93,7.8,7.73,9.76,9.35,8.89,7.56,8.57,1037,210,13,5,Yes,Data Science,Cloud,Data Science,Pune,13.29,No
+8039,Student39,Surname39,Male,AI,4EK1,8,8.99,7.78,7.79,7.11,9.62,8.77,8.47,8.36,1117,251,5,2,Yes,Data Science,ML,Data Science,Bangalore,13.48,No
+8040,Student40,Surname40,Female,AI,4EK3,8,7.18,7.09,8.92,6.73,8.61,7.21,8.66,7.77,1045,219,9,7,Yes,Java,Cloud,Software Dev,Pune,11.82,Yes
+8041,Student41,Surname41,Female,CSE,4EK1,8,7.25,9.37,8.48,8.04,7.6,8.16,7.49,8.06,2958,398,6,6,Yes,Web Dev,Database,Web Dev,Ahmedabad,15.09,No
+8042,Student42,Surname42,Male,AI,4EK2,8,6.56,9.5,7.42,8.46,7.66,7.36,7.94,7.84,1058,188,4,2,Yes,AI,Cloud,AI,Hyderabad,11.5,No
+8043,Student43,Surname43,Female,IT,4EK3,8,7.38,7.45,9.12,9.66,7.83,7.4,6.68,7.93,1338,342,13,6,Yes,Data Science,Cloud,Data Science,Ahmedabad,13.99,Yes
+8044,Student44,Surname44,Female,IT,4EK2,8,8.37,8.56,7.45,7.58,6.52,8.32,6.86,7.67,1110,221,7,5,Yes,AI,Cloud,AI,Remote,11.65,No
+8045,Student45,Surname45,Female,AI,4EK2,8,8.67,6.81,9.23,8.8,8.86,7.97,9.53,8.55,130,41,14,8,Yes,Python,Data Science,Data Science,Pune,10.72,No
+8046,Student46,Surname46,Female,IT,4EK2,8,6.54,7.87,7.24,7.38,9.33,7.3,8.48,7.73,341,47,14,6,Yes,Data Science,Cloud,Data Science,Pune,9.17,Yes
+8047,Student47,Surname47,Female,IT,4EK1,8,6.61,9.06,8.53,9.35,7.25,8.83,6.53,8.02,1869,252,14,4,Yes,AI,Cloud,AI,Remote,12.82,Yes
+8048,Student48,Surname48,Male,ICT,4EK1,8,7.94,7.41,8.46,9.6,9.04,6.92,9.28,8.38,499,138,9,8,Yes,Python,ML,Data Science,Hyderabad,11.83,Yes
+8049,Student49,Surname49,Female,IT,4EK3,8,8.44,9.1,8.28,9.27,7.41,7.26,7.42,8.17,2182,393,4,2,Yes,Data Science,ML,Data Science,Bangalore,15.23,Yes
+8050,Student50,Surname50,Female,AI,4EK1,8,8.97,7.51,6.94,8.01,7.88,9.36,7.44,8.02,747,117,4,3,No,Python,Data Science,Data Science,Hyderabad,8.79,No
+8051,Student51,Surname51,Male,ICT,4EK2,8,9.35,7.39,9.74,8.42,6.62,8.84,6.71,8.15,2413,303,6,2,Yes,AI,Cloud,AI,Remote,13.85,Yes
+8052,Student52,Surname52,Female,AI,4EK3,8,9.76,8.7,9.61,9.45,7.6,7.32,7.04,8.5,2276,375,10,3,Yes,Python,Database,Data Science,Bangalore,15.62,Yes
+8053,Student53,Surname53,Male,IT,4EK2,8,8.31,8.52,6.58,7.69,8.69,8.49,7.18,7.92,2255,282,10,3,Yes,Java,DevOps,Software Dev,Hyderabad,13.07,No
+8054,Student54,Surname54,Male,ICT,4EK3,8,7.13,7.9,8.65,9.67,9.04,8.88,7.15,8.35,2886,384,13,3,Yes,Web Dev,UI UX,Web Dev,Ahmedabad,15.46,Yes
+8055,Student55,Surname55,Male,CSE,4EK1,8,9.53,7.95,7.87,8.57,9.78,9.55,9.6,8.98,1809,396,11,7,Yes,Data Science,Cloud,Data Science,Bangalore,16.9,No
+8056,Student56,Surname56,Male,ICT,4EK1,8,8.27,8.81,9.63,6.51,6.71,7.57,8.82,8.05,1263,215,13,8,Yes,AI,ML,AI,Ahmedabad,12.33,No
+8057,Student57,Surname57,Male,ICT,4EK1,8,6.84,9.13,8.46,9.34,8.82,6.58,8.23,8.2,1741,310,12,3,Yes,Web Dev,Database,Web Dev,Bangalore,14.05,Yes
+8058,Student58,Surname58,Female,AI,4EK2,8,7.66,9.18,7.99,8.14,9.28,8.23,8.65,8.45,1878,305,8,6,Yes,Web Dev,UI UX,Web Dev,Remote,14.47,No
+8059,Student59,Surname59,Male,CSE,4EK3,8,7.89,7.54,8.98,8.33,8.72,8,6.63,8.01,1339,387,13,3,Yes,AI,Cloud,AI,Bangalore,14.82,No
+8060,Student60,Surname60,Female,AI,4EK3,8,9,7.19,8.57,9.43,7.29,9.58,9.76,8.69,1476,346,14,4,Yes,AI,ML,AI,Remote,15.57,No
+8061,Student61,Surname61,Female,ICT,4EK2,8,7.23,7.88,8.04,9.26,8.99,9.35,6.54,8.18,1915,299,9,6,Yes,Data Science,ML,Data Science,Remote,13.84,Yes
+8062,Student62,Surname62,Female,IT,4EK2,8,8.72,6.73,7.37,6.9,7.11,6.75,7.11,7.24,852,267,9,3,Yes,AI,ML,AI,Ahmedabad,11.48,No
+8063,Student63,Surname63,Male,ICT,4EK1,8,8.75,8.48,7.78,8.47,9.32,8.85,7.98,8.52,1192,319,8,5,Yes,Java,DevOps,Software Dev,Ahmedabad,14.82,No
+8064,Student64,Surname64,Female,CSE,4EK2,8,9.24,7.65,7.14,7.94,9.17,9.65,7.5,8.33,1775,340,13,3,Yes,Java,DevOps,Software Dev,Bangalore,14.76,Yes
+8065,Student65,Surname65,Male,IT,4EK2,8,7.3,7.99,9.16,8.54,6.75,7.1,9.67,8.07,1517,366,14,8,Yes,Web Dev,Database,Web Dev,Hyderabad,14.63,Yes
+8066,Student66,Surname66,Male,CSE,4EK3,8,8.85,8.79,7.5,7.74,7.02,6.82,9.12,7.98,1871,240,7,7,Yes,AI,ML,AI,Bangalore,12.56,Yes
+8067,Student67,Surname67,Female,ICT,4EK1,8,7.2,7.72,7.53,6.52,9.12,9.12,8.77,8,475,79,10,7,Yes,Web Dev,Database,Web Dev,Pune,10.19,Yes
+8068,Student68,Surname68,Male,IT,4EK2,8,9.39,8.97,7.85,7.26,7.56,9.71,6.53,8.18,1291,326,8,3,Yes,Data Science,ML,Data Science,Bangalore,14.25,Yes
+8069,Student69,Surname69,Male,CSE,4EK2,8,9.36,8.59,7.92,8.59,7.43,9,7.74,8.38,1494,227,9,4,Yes,Data Science,ML,Data Science,Pune,13.17,Yes
+8070,Student70,Surname70,Male,IT,4EK1,8,6.58,7.25,8.49,9.11,6.71,8.09,8.78,7.86,800,144,8,6,Yes,Web Dev,UI UX,Web Dev,Pune,10.88,No
+8071,Student71,Surname71,Male,IT,4EK2,8,7.4,7.5,6.78,9.57,6.95,8.15,6.61,7.57,1992,294,3,3,Yes,Python,Database,Data Science,Bangalore,12.55,No
+8072,Student72,Surname72,Female,IT,4EK2,8,8.85,8.08,8.18,7.95,7.07,7.35,7.42,7.84,1175,323,4,2,Yes,AI,Cloud,AI,Pune,13.52,No
+8073,Student73,Surname73,Female,AI,4EK2,8,8.91,8.23,6.68,9.65,8.34,9.6,9.15,8.65,2267,292,6,5,Yes,AI,Cloud,AI,Hyderabad,14.68,No
+8074,Student74,Surname74,Male,CSE,4EK1,8,6.98,9.32,7.54,6.64,9.23,6.76,6.59,7.58,1436,280,11,4,Yes,Web Dev,UI UX,Web Dev,Ahmedabad,12.36,No
+8075,Student75,Surname75,Male,ICT,4EK1,8,9.62,8.08,9.23,6.9,7.11,8.06,6.78,7.97,319,53,14,8,Yes,Java,Cloud,Software Dev,Remote,9.73,No
+8076,Student76,Surname76,Male,CSE,4EK1,8,7.58,9.56,7.66,7.22,9.2,7.17,9.68,8.3,1277,160,10,4,Yes,Python,Database,Data Science,Ahmedabad,12,No
+8077,Student77,Surname77,Female,AI,4EK1,8,9.45,6.68,6.56,9.08,7.85,6.56,9.7,7.98,585,166,14,4,Yes,Web Dev,Database,Web Dev,Pune,11.45,No
+8078,Student78,Surname78,Male,CSE,4EK1,8,7.61,8.86,8.26,7.15,6.85,8.18,8.43,7.91,1373,320,13,7,Yes,Data Science,ML,Data Science,Bangalore,13.62,Yes
+8079,Student79,Surname79,Female,AI,4EK1,8,8.94,8.6,9.39,8.2,6.74,8.4,9.16,8.49,268,56,16,7,Yes,AI,ML,AI,Ahmedabad,10.82,No
+8080,Student80,Surname80,Male,ICT,4EK3,8,8.84,7.1,9.05,8.02,7.95,8.43,8.54,8.28,1632,377,8,6,Yes,AI,ML,AI,Ahmedabad,15.21,Yes
+8081,Student81,Surname81,Male,IT,4EK2,8,8.87,7.44,9.02,9.26,7.81,7.68,8.1,8.31,701,105,14,4,No,Python,Data Science,Data Science,Pune,9.2,No
+8082,Student82,Surname82,Male,CSE,4EK2,8,8.29,6.94,9.68,8.97,8.4,7.88,7.81,8.28,1328,371,10,5,Yes,Python,ML,Data Science,Remote,15.12,No
+8083,Student83,Surname83,Female,CSE,4EK1,8,6.62,8.27,7.64,8.25,9.32,8.76,9.58,8.35,1676,320,7,4,Yes,Java,Cloud,Software Dev,Pune,14.5,No
+8084,Student84,Surname84,Male,ICT,4EK2,8,9.75,9.71,8.27,8.29,8.77,8.06,7.17,8.57,2537,364,6,5,Yes,Data Science,ML,Data Science,Pune,15.6,No
+8085,Student85,Surname85,Male,AI,4EK2,8,9.56,7.73,6.77,8.33,7.58,9.33,7.2,8.07,1160,240,10,4,Yes,Web Dev,Database,Web Dev,Bangalore,12.74,No
+8086,Student86,Surname86,Female,IT,4EK2,8,9.28,8.5,9.2,8.54,7.02,8.05,6.98,8.22,820,152,10,5,Yes,AI,Cloud,AI,Ahmedabad,11.72,No
+8087,Student87,Surname87,Male,IT,4EK2,8,7.41,9.25,6.77,7.4,7.15,7.32,7.39,7.53,896,215,9,2,Yes,AI,Cloud,AI,Ahmedabad,11.29,Yes
+8088,Student88,Surname88,Female,AI,4EK3,8,7.01,9.58,7.72,8.13,9.27,9.03,9.79,8.65,1040,265,14,7,Yes,Python,ML,Data Science,Ahmedabad,14.28,Yes
+8089,Student89,Surname89,Male,ICT,4EK2,8,9.34,8.85,8.55,9.72,8.21,8.83,7.91,8.77,1144,235,9,3,Yes,Java,Cloud,Software Dev,Bangalore,14.06,No
+8090,Student90,Surname90,Female,IT,4EK3,8,6.97,7.17,8.91,8.09,6.54,7.48,8.61,7.68,787,180,10,6,Yes,Java,DevOps,Software Dev,Ahmedabad,11.06,No
+8091,Student91,Surname91,Male,CSE,4EK2,8,7.54,8.41,7.34,6.83,9.26,8.77,6.57,7.82,1010,185,13,5,Yes,Java,DevOps,Software Dev,Pune,11.42,No
+8092,Student92,Surname92,Female,ICT,4EK2,8,7.58,9.03,9.64,8.38,8.03,6.68,6.8,8.02,1313,245,12,7,Yes,Web Dev,UI UX,Web Dev,Remote,12.71,No
+8093,Student93,Surname93,Female,CSE,4EK2,8,7.56,9.33,8.23,9.19,8.25,7.15,7.73,8.21,1175,172,12,6,Yes,AI,ML,AI,Ahmedabad,12,Yes
+8094,Student94,Surname94,Female,CSE,4EK2,8,9.01,9.54,7.12,9.23,8.24,9.16,8.52,8.69,1877,249,10,6,Yes,AI,ML,AI,Hyderabad,14.11,Yes
+8095,Student95,Surname95,Male,ICT,4EK3,8,8.13,8.55,9.25,7.59,7.33,8.86,9.75,8.49,1848,395,10,4,Yes,AI,Cloud,AI,Pune,15.91,Yes
+8096,Student96,Surname96,Female,ICT,4EK3,8,7.44,8.18,7.34,8.79,7.1,8.42,8.82,8.01,2171,368,8,5,Yes,Python,Data Science,Data Science,Pune,14.54,Yes
+8097,Student97,Surname97,Female,ICT,4EK3,8,7.9,8.26,6.99,7.17,8.52,7.59,9.55,8,1915,393,11,6,Yes,AI,Cloud,AI,Pune,14.89,No
+8098,Student98,Surname98,Male,ICT,4EK2,8,7.17,7.19,7.26,6.87,6.96,9.19,9.25,7.7,729,140,11,6,Yes,AI,Cloud,AI,Pune,10.5,Yes
+8099,Student99,Surname99,Female,AI,4EK2,8,8.8,7.25,8.77,9.02,9.78,6.67,9.74,8.58,1245,279,16,6,Yes,Java,DevOps,Software Dev,Hyderabad,14.35,No
+8100,Student100,Surname100,Male,AI,4EK2,8,8.13,7.57,8.54,7.18,9.29,6.94,7.09,7.82,1058,222,7,2,Yes,Python,ML,Data Science,Bangalore,11.97,Yes
+8101,Student101,Surname101,Female,CSE,4EK2,8,6.99,7.4,8.8,9.19,7.99,8.05,7.36,7.97,557,125,3,2,No,AI,Cloud,AI,Ahmedabad,8.81,Yes
+8102,Student102,Surname102,Female,IT,4EK2,8,6.72,8.92,7.31,9.54,6.97,8.97,6.9,7.9,973,186,13,3,Yes,Java,Cloud,Software Dev,Remote,11.59,Yes
+8103,Student103,Surname103,Male,ICT,4EK1,8,8.59,8.09,7.95,9.44,7.08,8.09,8.5,8.25,2320,350,12,3,Yes,AI,ML,AI,Hyderabad,14.75,Yes
+8104,Student104,Surname104,Female,CSE,4EK1,8,6.57,8.18,6.74,7.06,9.02,6.71,9.52,7.69,356,61,9,2,No,Web Dev,Database,Web Dev,Bangalore,7.3,No
+8105,Student105,Surname105,Female,AI,4EK2,8,7.61,8.03,9.11,8.12,6.51,6.58,9.53,7.93,630,117,3,3,No,Web Dev,Database,Web Dev,Hyderabad,8.61,Yes
+8106,Student106,Surname106,Male,CSE,4EK2,8,6.83,9.73,7.37,9.58,9.38,7.98,9.58,8.64,1936,247,15,6,Yes,Python,ML,Data Science,Pune,13.99,Yes
+8107,Student107,Surname107,Male,CSE,4EK2,8,9.29,8.96,9.48,9.2,8.22,8.17,7.87,8.74,651,166,9,3,Yes,Web Dev,Database,Web Dev,Bangalore,12.97,No
+8108,Student108,Surname108,Male,CSE,4EK1,8,8.56,9.06,9.66,9.45,9.15,8.68,7.06,8.8,440,118,13,3,No,Python,Database,Data Science,Bangalore,10.37,No
+8109,Student109,Surname109,Female,CSE,4EK3,8,9.05,8.76,6.51,6.88,8.91,8.87,8.73,8.24,819,118,14,8,Yes,Web Dev,UI UX,Web Dev,Ahmedabad,11.25,No
+8110,Student110,Surname110,Male,IT,4EK3,8,8.12,7.34,9.46,9.47,7.39,7.38,7.12,8.04,1858,382,9,2,Yes,AI,ML,AI,Remote,14.81,No
+8111,Student111,Surname111,Female,CSE,4EK3,8,9.11,8.16,7.86,9.18,7.06,9.49,9.2,8.58,1758,266,3,3,Yes,AI,Cloud,AI,Ahmedabad,14.15,Yes
+8112,Student112,Surname112,Male,AI,4EK1,8,8.13,6.9,6.85,6.51,7.88,9.37,7.76,7.63,1420,376,5,5,Yes,Data Science,ML,Data Science,Bangalore,13.9,No
+8113,Student113,Surname113,Male,ICT,4EK3,8,8.62,8.7,7.35,7.61,9.04,8.03,8.76,8.3,2163,285,14,6,Yes,Web Dev,UI UX,Web Dev,Hyderabad,13.88,Yes
+8114,Student114,Surname114,Female,AI,4EK3,8,8.24,7.32,9.36,9.48,8.92,7.11,7.03,8.21,2021,260,11,7,Yes,Python,ML,Data Science,Pune,13.32,Yes
+8115,Student115,Surname115,Female,AI,4EK3,8,7.95,7.89,7.91,8.61,8.75,7.99,7.35,8.06,1359,182,10,3,Yes,Python,Data Science,Data Science,Hyderabad,11.85,Yes
+8116,Student116,Surname116,Female,ICT,4EK2,8,9.11,7.92,9.06,7.22,8.83,6.84,6.92,7.99,498,149,9,8,Yes,AI,Cloud,AI,Ahmedabad,11.21,Yes
+8117,Student117,Surname117,Female,ICT,4EK2,8,7.32,7.86,9.16,9.05,6.64,6.51,8.31,7.84,682,130,7,4,No,AI,Cloud,AI,Bangalore,8.63,Yes
+8118,Student118,Surname118,Male,CSE,4EK3,8,6.84,7.15,9.52,7.97,8.11,9.22,7.43,8.03,1819,381,14,7,Yes,AI,ML,AI,Bangalore,14.77,Yes
+8119,Student119,Surname119,Male,CSE,4EK3,8,7.55,7.03,7.13,7.76,6.67,7.05,6.72,7.13,1189,159,8,4,Yes,AI,Cloud,AI,Ahmedabad,9.64,No
+8120,Student120,Surname120,Male,ICT,4EK2,8,8.56,8.55,8.78,7.82,9.03,9.8,8.87,8.77,1652,355,4,2,Yes,Web Dev,Database,Web Dev,Hyderabad,15.86,No
+8121,Student121,Surname121,Male,AI,4EK2,8,7.52,8.56,8.1,7.24,7.44,8.58,6.75,7.74,1042,318,9,4,Yes,Python,Data Science,Data Science,Hyderabad,13.25,No
+8122,Student122,Surname122,Male,AI,4EK3,8,7.11,6.57,9.11,8.28,9.05,8.28,8.87,8.18,836,114,12,2,No,Data Science,Cloud,Data Science,Bangalore,9.07,Yes
+8123,Student123,Surname123,Female,ICT,4EK3,8,8.2,9.32,9.34,9.08,7.09,6.97,9.1,8.44,838,158,16,7,Yes,Data Science,Cloud,Data Science,Ahmedabad,12.25,No
+8124,Student124,Surname124,Male,ICT,4EK3,8,7.7,8.6,7.01,7.03,9.32,6.8,6.91,7.62,1039,171,11,5,Yes,Data Science,ML,Data Science,Hyderabad,10.8,Yes
+8125,Student125,Surname125,Female,IT,4EK1,8,8.11,8.11,9.64,6.52,7.87,8.86,7.22,8.05,338,65,16,6,Yes,Java,DevOps,Software Dev,Bangalore,10.08,Yes
+8126,Student126,Surname126,Male,ICT,4EK1,8,6.65,7.65,7.43,9.02,9.27,7.42,7.92,7.91,175,55,11,7,Yes,Web Dev,Database,Web Dev,Ahmedabad,9.64,No
+8127,Student127,Surname127,Female,AI,4EK3,8,8.75,6.86,9.19,8.3,8.43,7.48,9.61,8.37,895,130,13,3,No,Data Science,ML,Data Science,Ahmedabad,9.69,Yes
+8128,Student128,Surname128,Male,ICT,4EK3,8,7.37,8.08,9.71,7.68,6.93,9.74,6.83,8.05,1059,271,10,2,Yes,Web Dev,Database,Web Dev,Ahmedabad,13.17,Yes
+8129,Student129,Surname129,Female,AI,4EK1,8,8.22,6.88,8.16,8.19,6.97,6.51,6.53,7.35,1796,377,9,5,Yes,Python,ML,Data Science,Bangalore,13.36,Yes
+8130,Student130,Surname130,Male,AI,4EK1,8,9.12,9.11,8.86,6.59,8.09,8.39,7.55,8.24,189,26,9,3,No,Java,DevOps,Software Dev,Pune,7.87,Yes
+8131,Student131,Surname131,Female,ICT,4EK2,8,8.5,9.78,8.99,9.24,6.61,7.91,7.34,8.34,1709,318,5,5,Yes,Data Science,Cloud,Data Science,Hyderabad,14.45,Yes
+8132,Student132,Surname132,Female,IT,4EK2,8,8.45,9.7,9.21,8.93,9.61,9.37,8.41,9.1,1527,337,10,3,Yes,Data Science,Cloud,Data Science,Pune,16.25,No
+8133,Student133,Surname133,Female,CSE,4EK2,8,7.78,7.01,8.71,7.37,7.34,9.74,7.27,7.89,1057,194,12,5,Yes,Python,Database,Data Science,Bangalore,11.69,No
+8134,Student134,Surname134,Female,IT,4EK2,8,8.8,8.69,9.58,8.76,7.55,7.94,6.5,8.26,2812,359,18,8,Yes,Web Dev,Database,Web Dev,Bangalore,14.9,No
+8135,Student135,Surname135,Male,ICT,4EK3,8,7.68,7.11,9.43,8.34,7.96,6.86,9.47,8.12,1219,212,11,4,Yes,Java,Cloud,Software Dev,Pune,12.42,No
+8136,Student136,Surname136,Male,AI,4EK1,8,7.84,7.75,9.6,7.8,7.27,6.68,8.34,7.9,884,259,12,8,Yes,Java,DevOps,Software Dev,Hyderabad,12.69,No
+8137,Student137,Surname137,Male,ICT,4EK1,8,8,7.33,9.28,9.44,8.61,9.44,6.65,8.39,549,170,9,5,Yes,Python,ML,Data Science,Ahmedabad,12.33,Yes
+8138,Student138,Surname138,Male,AI,4EK2,8,9.51,8.65,7.14,7.27,9.14,8,6.59,8.04,700,106,7,4,No,Java,DevOps,Software Dev,Hyderabad,8.67,No
+8139,Student139,Surname139,Female,CSE,4EK2,8,7.81,9.6,8.36,8.96,7.04,9.1,9.15,8.57,2131,383,6,4,Yes,AI,ML,AI,Bangalore,15.89,Yes
+8140,Student140,Surname140,Male,CSE,4EK2,8,7.14,8.48,6.76,9.19,6.69,7.66,7.43,7.62,796,115,10,5,Yes,Python,Data Science,Data Science,Ahmedabad,9.96,Yes
+8141,Student141,Surname141,Female,ICT,4EK1,8,8.93,9.43,6.83,8.01,7.44,7.51,8.24,8.06,2126,374,16,6,Yes,Data Science,ML,Data Science,Ahmedabad,14.73,Yes
+8142,Student142,Surname142,Male,CSE,4EK1,8,6.63,7.51,7.94,9.73,9.01,6.74,8.51,8.01,1796,390,8,6,Yes,Java,DevOps,Software Dev,Pune,14.87,No
+8143,Student143,Surname143,Female,IT,4EK3,8,7.91,6.78,9.66,6.92,8.13,9.14,9.54,8.3,1358,310,12,6,Yes,Java,DevOps,Software Dev,Hyderabad,14.25,No
+8144,Student144,Surname144,Female,AI,4EK1,8,8.98,6.88,7.38,7.82,6.66,9.6,7.8,7.87,1961,385,11,2,Yes,Python,ML,Data Science,Pune,14.52,No
+8145,Student145,Surname145,Female,CSE,4EK3,8,7.79,9.41,9.66,9.78,9.65,7.84,7.92,8.86,862,209,9,3,Yes,Java,Cloud,Software Dev,Pune,13.85,Yes
+8146,Student146,Surname146,Male,AI,4EK2,8,8.81,8.71,9.72,9.26,9.71,8.5,9.71,9.2,1748,331,14,6,Yes,Web Dev,Database,Web Dev,Hyderabad,16.36,Yes
+8147,Student147,Surname147,Male,IT,4EK2,8,9.54,6.7,8.17,8.43,8.62,7.62,9.6,8.38,672,144,12,8,Yes,Web Dev,UI UX,Web Dev,Bangalore,11.92,No
+8148,Student148,Surname148,Female,IT,4EK1,8,8.15,6.82,9.74,7.88,6.58,8.72,7.11,7.86,505,72,12,7,Yes,Java,DevOps,Software Dev,Pune,9.8,Yes
+8149,Student149,Surname149,Male,CSE,4EK1,8,7.44,9.51,7.33,9.27,7.54,9.63,7.38,8.3,823,247,9,2,Yes,AI,Cloud,AI,Remote,13.31,Yes
+8150,Student150,Surname150,Female,CSE,4EK3,8,7.7,9.36,8.86,8.3,8.52,9.51,9.19,8.78,2562,365,7,5,Yes,Web Dev,UI UX,Web Dev,Ahmedabad,16.03,Yes
+8151,Student151,Surname151,Female,CSE,4EK3,8,9.54,9.47,8.52,7.03,9.8,7.75,8.61,8.67,2794,385,6,3,Yes,Java,DevOps,Software Dev,Pune,16.12,Yes
+8152,Student152,Surname152,Female,CSE,4EK1,8,8.77,7.91,8.45,7.93,7.44,9.45,8.04,8.28,2303,330,7,2,Yes,AI,Cloud,AI,Pune,14.51,Yes
+8153,Student153,Surname153,Male,IT,4EK1,8,9.43,9.48,6.92,7.33,7.3,7.47,8.74,8.1,2023,320,2,2,Yes,Data Science,ML,Data Science,Bangalore,14,No
+8154,Student154,Surname154,Male,CSE,4EK2,8,8.44,7.24,7.97,7.24,8.97,7.43,9.46,8.11,391,72,9,7,Yes,Python,Data Science,Data Science,Bangalore,10.3,No
+8155,Student155,Surname155,Male,IT,4EK3,8,7.85,9.79,9.68,8.39,7.42,8.48,7.97,8.51,274,36,12,7,Yes,Data Science,Cloud,Data Science,Ahmedabad,10.56,No
+8156,Student156,Surname156,Male,ICT,4EK3,8,7.82,8.51,7.54,7.92,7.45,7.39,8,7.8,921,214,6,6,Yes,Data Science,ML,Data Science,Ahmedabad,11.81,No
+8157,Student157,Surname157,Male,AI,4EK2,8,6.78,7.18,7.31,7.55,8.38,7.34,7.98,7.5,270,72,9,2,No,AI,Cloud,AI,Pune,7.08,Yes
+8158,Student158,Surname158,Male,IT,4EK2,8,9.14,8.06,7.7,8.53,6.54,9.72,6.79,8.07,558,72,11,8,Yes,Python,Database,Data Science,Hyderabad,10.22,No
+8159,Student159,Surname159,Female,IT,4EK2,8,8.04,7.06,9.16,8.12,8.65,7.6,6.55,7.88,384,115,6,4,No,AI,Cloud,AI,Ahmedabad,8.48,No
+8160,Student160,Surname160,Female,ICT,4EK1,8,7.68,6.69,6.97,9.34,8.85,8.87,9.69,8.3,218,38,9,7,Yes,AI,Cloud,AI,Bangalore,10.17,Yes
+8161,Student161,Surname161,Male,CSE,4EK3,8,7.93,6.61,6.5,8.07,6.9,8.17,7.34,7.36,187,31,15,8,Yes,Data Science,Cloud,Data Science,Remote,8.19,No
+8162,Student162,Surname162,Male,AI,4EK2,8,9.16,9.14,9.17,8.21,7.39,8.6,7.56,8.46,1563,368,14,5,Yes,Data Science,Cloud,Data Science,Ahmedabad,15.44,No
+8163,Student163,Surname163,Female,CSE,4EK3,8,9.45,9.66,7.01,9.22,8.85,7.2,9.53,8.7,208,29,18,8,Yes,Python,Database,Data Science,Bangalore,10.83,No
+8164,Student164,Surname164,Female,ICT,4EK2,8,9.06,9.59,6.82,7.54,8.64,9.6,9.05,8.61,130,25,8,4,No,Data Science,ML,Data Science,Ahmedabad,8.59,No
+8165,Student165,Surname165,Female,ICT,4EK2,8,9.02,7.83,8.14,7.98,8.92,8.28,8.87,8.43,800,115,7,4,No,Web Dev,UI UX,Web Dev,Ahmedabad,9.58,No
+8166,Student166,Surname166,Female,CSE,4EK2,8,6.69,9.24,7.43,8.23,6.62,6.58,7.88,7.52,293,59,8,7,Yes,Python,Data Science,Data Science,Hyderabad,8.92,Yes
+8167,Student167,Surname167,Female,AI,4EK3,8,8.49,8.47,8.01,6.8,8.66,8.87,7.02,8.05,956,270,10,4,Yes,Data Science,Cloud,Data Science,Ahmedabad,13.15,Yes
+8168,Student168,Surname168,Male,CSE,4EK1,8,8.17,8.76,7.59,7.99,8.76,9.55,8.93,8.54,1037,188,9,2,Yes,Java,Cloud,Software Dev,Pune,12.9,Yes
+8169,Student169,Surname169,Male,CSE,4EK3,8,7.75,6.92,9.71,9.37,8.41,9.62,8.33,8.59,919,306,13,3,Yes,Web Dev,Database,Web Dev,Bangalore,14.77,Yes
+8170,Student170,Surname170,Male,AI,4EK1,8,7.51,7.57,8.6,8.64,7.17,8.83,7.73,8.01,948,121,18,8,Yes,Web Dev,Database,Web Dev,Pune,10.83,Yes
+8171,Student171,Surname171,Male,IT,4EK1,8,8.59,7.22,7.82,8.08,7.04,6.92,8.66,7.76,1238,159,5,5,Yes,Python,Data Science,Data Science,Ahmedabad,10.9,No
+8172,Student172,Surname172,Female,ICT,4EK3,8,7.21,8.1,7.23,7.49,9.17,8.47,8.39,8.01,1983,350,11,7,Yes,Data Science,ML,Data Science,Pune,14.27,Yes
+8173,Student173,Surname173,Male,CSE,4EK2,8,8.63,9.03,7.32,7.64,9.23,9.7,9.22,8.68,163,39,9,4,No,AI,ML,AI,Ahmedabad,8.95,Yes
+8174,Student174,Surname174,Male,AI,4EK2,8,7.03,9.56,7.48,8.17,7.85,8.88,6.77,7.96,2545,375,10,4,Yes,Data Science,ML,Data Science,Hyderabad,14.54,Yes
+8175,Student175,Surname175,Female,AI,4EK2,8,9.68,8.09,6.76,9,7.76,9.8,8.37,8.49,730,222,3,3,Yes,Python,ML,Data Science,Pune,13.31,No
+8176,Student176,Surname176,Female,ICT,4EK2,8,9.22,7.23,9.47,8.67,7.08,8.12,7.42,8.17,1301,305,11,2,Yes,Java,DevOps,Software Dev,Hyderabad,13.91,No
+8177,Student177,Surname177,Male,AI,4EK3,8,6.99,8.75,6.82,7.85,6.65,7.56,7.57,7.46,1184,327,14,7,Yes,Web Dev,Database,Web Dev,Remote,12.82,No
+8178,Student178,Surname178,Male,CSE,4EK3,8,7.82,8.83,8.18,7.46,8.1,9.56,8.9,8.41,878,195,14,7,Yes,Web Dev,Database,Web Dev,Hyderabad,12.75,No
+8179,Student179,Surname179,Male,ICT,4EK2,8,9.14,8.95,8.74,8.62,8.48,8.9,8.76,8.8,1068,202,10,6,Yes,Python,ML,Data Science,Hyderabad,13.63,Yes
+8180,Student180,Surname180,Male,IT,4EK1,8,7.94,8.32,6.61,7.79,6.63,7.78,6.85,7.42,1196,191,4,4,Yes,Web Dev,UI UX,Web Dev,Ahmedabad,10.71,Yes
+8181,Student181,Surname181,Male,IT,4EK2,8,8.69,8.64,9.24,9.58,8.73,8.58,7.98,8.78,1402,374,8,8,Yes,Data Science,ML,Data Science,Ahmedabad,16.17,Yes
+8182,Student182,Surname182,Male,ICT,4EK3,8,7.47,8.04,9.04,7.69,7.03,9.71,8.03,8.14,538,163,11,6,Yes,Web Dev,UI UX,Web Dev,Bangalore,11.73,No
+8183,Student183,Surname183,Male,IT,4EK3,8,8.05,8.04,7.35,8.66,7.71,9,8.56,8.2,314,50,6,6,Yes,AI,Cloud,AI,Remote,10.15,No
+8184,Student184,Surname184,Male,CSE,4EK2,8,7.79,7.27,8.29,9.77,7.82,8.48,6.74,8.02,1562,251,11,3,Yes,AI,Cloud,AI,Pune,12.8,Yes
+8185,Student185,Surname185,Female,CSE,4EK2,8,7.44,8.95,9.08,7.08,9.68,6.53,9.7,8.35,592,89,14,5,Yes,AI,Cloud,AI,Pune,11.04,No
+8186,Student186,Surname186,Female,CSE,4EK2,8,9.34,6.58,7.14,8.61,9.39,7.02,7.23,7.9,575,164,10,3,Yes,Java,DevOps,Software Dev,Bangalore,11.26,No
+8187,Student187,Surname187,Male,AI,4EK3,8,6.77,8.2,7.31,8.28,7.38,6.55,6.71,7.31,1530,194,10,7,Yes,Web Dev,UI UX,Web Dev,Hyderabad,10.53,Yes
+8188,Student188,Surname188,Female,ICT,4EK3,8,7.62,8.32,9.57,9.35,7.88,6.66,6.83,8.03,1351,175,10,6,Yes,AI,ML,AI,Ahmedabad,11.68,Yes
+8189,Student189,Surname189,Male,ICT,4EK1,8,9.59,9.36,8.4,9.36,9.28,7.19,6.6,8.54,884,164,9,6,Yes,Java,Cloud,Software Dev,Bangalore,12.54,No
+8190,Student190,Surname190,Male,ICT,4EK2,8,8.91,7.89,7.71,7.32,8.4,9.22,9.16,8.37,1403,177,9,3,Yes,AI,ML,AI,Hyderabad,12.39,Yes
+8191,Student191,Surname191,Female,AI,4EK3,8,8.66,6.73,7.74,8.87,8.05,9.23,7.94,8.17,696,122,12,3,No,Data Science,ML,Data Science,Bangalore,9.17,Yes
+8192,Student192,Surname192,Female,IT,4EK2,8,8.03,6.89,7.51,9.33,7.79,8.34,7.37,7.89,632,190,7,6,Yes,Python,Data Science,Data Science,Hyderabad,11.63,No
+8193,Student193,Surname193,Male,IT,4EK2,8,9.71,6.52,9.27,8.06,9.05,8.74,8.49,8.55,1068,255,11,3,Yes,Python,Database,Data Science,Remote,13.93,Yes
+8194,Student194,Surname194,Male,AI,4EK1,8,8.84,7.83,9.35,7.55,9.65,9.02,8.13,8.62,198,48,6,4,No,Java,DevOps,Software Dev,Bangalore,8.96,Yes
+8195,Student195,Surname195,Male,IT,4EK2,8,7.92,8.58,6.92,7.26,9.58,9.31,7.34,8.13,694,107,7,3,No,Data Science,Cloud,Data Science,Bangalore,8.87,Yes
+8196,Student196,Surname196,Male,IT,4EK3,8,9.17,7.5,8.83,8.04,6.61,8.17,7.9,8.03,636,118,4,4,No,Java,Cloud,Software Dev,Hyderabad,8.83,Yes
+8197,Student197,Surname197,Male,AI,4EK1,8,7.08,7.95,6.71,9.17,9.45,8.88,7.97,8.17,1873,271,10,4,Yes,Python,Data Science,Data Science,Pune,13.4,No
+8198,Student198,Surname198,Male,AI,4EK2,8,9.39,8.25,8.45,7.88,7.83,9.34,9.67,8.69,1389,224,6,4,Yes,Data Science,ML,Data Science,Hyderabad,13.74,Yes
+8199,Student199,Surname199,Female,AI,4EK2,8,8.2,8.21,6.53,8.45,9.62,9.1,7.4,8.22,397,131,15,8,Yes,Web Dev,UI UX,Web Dev,Pune,11.41,No
